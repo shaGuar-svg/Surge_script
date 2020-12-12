@@ -1,13 +1,13 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-09 03:34:32
-# DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
+# UPDATED: 2020-12-12 03:35:12
+# DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ChinaTest 与 Adobe 共 3 条规则重复
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,symcd.com
-# ChinaTest 与 Advertising 共 1141 条规则重复
+# ChinaTest 与 Advertising 共 1138 条规则重复
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,002lzj.com
@@ -59,7 +59,6 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2pmob.com
 DOMAIN-SUFFIX,2zfzly.com
 DOMAIN-SUFFIX,31365y.com
-DOMAIN-SUFFIX,31xiaoshuo.org
 DOMAIN-SUFFIX,324.com
 DOMAIN-SUFFIX,329329.com
 DOMAIN-SUFFIX,333dm.com
@@ -287,6 +286,7 @@ DOMAIN-SUFFIX,biddingx.com
 DOMAIN-SUFFIX,bihaipack.com
 DOMAIN-SUFFIX,bjcathay.com
 DOMAIN-SUFFIX,bla01.com
+DOMAIN-SUFFIX,bmp.ovh
 DOMAIN-SUFFIX,bnq86.com
 DOMAIN-SUFFIX,bobo.com
 DOMAIN-SUFFIX,boxshows.com
@@ -573,7 +573,6 @@ DOMAIN-SUFFIX,jiudiandyw.com
 DOMAIN-SUFFIX,jiujhzp.com
 DOMAIN-SUFFIX,jiuzhilan.com
 DOMAIN-SUFFIX,jixing8.com
-DOMAIN-SUFFIX,jiyan.net
 DOMAIN-SUFFIX,jjhaolin.com
 DOMAIN-SUFFIX,jjyx.com
 DOMAIN-SUFFIX,jmlk.co
@@ -874,7 +873,6 @@ DOMAIN-SUFFIX,to8to.com
 DOMAIN-SUFFIX,togo666.com
 DOMAIN-SUFFIX,tomonline-inc.com
 DOMAIN-SUFFIX,tongbu.com
-DOMAIN-SUFFIX,tongdejiayuan.com
 DOMAIN-SUFFIX,tongjiwo.com
 DOMAIN-SUFFIX,topitme.com
 DOMAIN-SUFFIX,touchrom.com
@@ -1085,7 +1083,6 @@ DOMAIN-SUFFIX,ynbojie.com
 DOMAIN-SUFFIX,ynzhby.com
 DOMAIN-SUFFIX,yooli.com
 DOMAIN-SUFFIX,youhuomeishi.com
-DOMAIN-SUFFIX,youjia2016.com
 DOMAIN-SUFFIX,youka.la
 DOMAIN-SUFFIX,youle55.com
 DOMAIN-SUFFIX,youmi.net
@@ -1149,7 +1146,7 @@ DOMAIN-SUFFIX,zyiis.net
 DOMAIN-SUFFIX,zzbyc.xyz
 DOMAIN-SUFFIX,zzpzero.com
 DOMAIN-SUFFIX,zzsdtzb.com
-# ChinaTest 与 AdvertisingTest 共 1171 条规则重复
+# ChinaTest 与 AdvertisingTest 共 1168 条规则重复
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,002lzj.com
@@ -1204,7 +1201,6 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2pmob.com
 DOMAIN-SUFFIX,2zfzly.com
 DOMAIN-SUFFIX,31365y.com
-DOMAIN-SUFFIX,31xiaoshuo.org
 DOMAIN-SUFFIX,324.com
 DOMAIN-SUFFIX,329329.com
 DOMAIN-SUFFIX,333dm.com
@@ -1440,6 +1436,7 @@ DOMAIN-SUFFIX,bihaipack.com
 DOMAIN-SUFFIX,bjcathay.com
 DOMAIN-SUFFIX,bla01.com
 DOMAIN-SUFFIX,bm999999.com
+DOMAIN-SUFFIX,bmp.ovh
 DOMAIN-SUFFIX,bnq86.com
 DOMAIN-SUFFIX,bobo.com
 DOMAIN-SUFFIX,boxshows.com
@@ -1736,7 +1733,6 @@ DOMAIN-SUFFIX,jiudiandyw.com
 DOMAIN-SUFFIX,jiujhzp.com
 DOMAIN-SUFFIX,jiuzhilan.com
 DOMAIN-SUFFIX,jixing8.com
-DOMAIN-SUFFIX,jiyan.net
 DOMAIN-SUFFIX,jjhaolin.com
 DOMAIN-SUFFIX,jjyx.com
 DOMAIN-SUFFIX,jmlk.co
@@ -2045,7 +2041,6 @@ DOMAIN-SUFFIX,to8to.com
 DOMAIN-SUFFIX,togo666.com
 DOMAIN-SUFFIX,tomonline-inc.com
 DOMAIN-SUFFIX,tongbu.com
-DOMAIN-SUFFIX,tongdejiayuan.com
 DOMAIN-SUFFIX,tongjiwo.com
 DOMAIN-SUFFIX,topitme.com
 DOMAIN-SUFFIX,touchrom.com
@@ -2257,7 +2252,6 @@ DOMAIN-SUFFIX,ynbojie.com
 DOMAIN-SUFFIX,ynzhby.com
 DOMAIN-SUFFIX,yooli.com
 DOMAIN-SUFFIX,youhuomeishi.com
-DOMAIN-SUFFIX,youjia2016.com
 DOMAIN-SUFFIX,youka.la
 DOMAIN-SUFFIX,youle55.com
 DOMAIN-SUFFIX,youmi.net
@@ -2321,7 +2315,7 @@ DOMAIN-SUFFIX,zyiis.net
 DOMAIN-SUFFIX,zzbyc.xyz
 DOMAIN-SUFFIX,zzpzero.com
 DOMAIN-SUFFIX,zzsdtzb.com
-# ChinaTest 与 AdvertisingLite 共 669 条规则重复
+# ChinaTest 与 AdvertisingLite 共 666 条规则重复
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,002lzj.com
@@ -2647,7 +2641,6 @@ DOMAIN-SUFFIX,jiedaibao.com
 DOMAIN-SUFFIX,jiehunmishu.com
 DOMAIN-SUFFIX,jisucn.com
 DOMAIN-SUFFIX,jiubuhua.com
-DOMAIN-SUFFIX,jiyan.net
 DOMAIN-SUFFIX,jsncke.com
 DOMAIN-SUFFIX,jsyxfdj.com
 DOMAIN-SUFFIX,ju33.com
@@ -2824,7 +2817,6 @@ DOMAIN-SUFFIX,tiankongzudui.com
 DOMAIN-SUFFIX,tianmidian.com
 DOMAIN-SUFFIX,togo666.com
 DOMAIN-SUFFIX,tongbu.com
-DOMAIN-SUFFIX,tongdejiayuan.com
 DOMAIN-SUFFIX,tongjiwo.com
 DOMAIN-SUFFIX,topitme.com
 DOMAIN-SUFFIX,touclick.com
@@ -2951,7 +2943,6 @@ DOMAIN-SUFFIX,ynbojie.com
 DOMAIN-SUFFIX,ynzhby.com
 DOMAIN-SUFFIX,yooli.com
 DOMAIN-SUFFIX,youhuomeishi.com
-DOMAIN-SUFFIX,youjia2016.com
 DOMAIN-SUFFIX,youka.la
 DOMAIN-SUFFIX,youle55.com
 DOMAIN-SUFFIX,youmi.net
@@ -3058,7 +3049,7 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaocloud.com
 DOMAIN-SUFFIX,toutiaocloud.net
-# ChinaTest 与 China 共 579 条规则重复
+# ChinaTest 与 China 共 585 条规则重复
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,client.amplifi.com
@@ -3344,6 +3335,7 @@ DOMAIN-SUFFIX,libguides.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,livechina.com
+DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,lofter.com
@@ -3429,6 +3421,9 @@ DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,pniao.com
@@ -3493,6 +3488,8 @@ DOMAIN-SUFFIX,sohu-inc.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,springer.com
@@ -3868,6 +3865,12 @@ DOMAIN-SUFFIX,yuanchengxiezuo.com
 DOMAIN-SUFFIX,yukhj.com
 DOMAIN-SUFFIX,zbrushcn.com
 DOMAIN-SUFFIX,zhzzx.com
+# ChinaTest 与 Sony 共 5 条规则重复
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # ChinaTest 与 SohuSogo 共 8 条规则重复
 DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,sogo.com
@@ -3957,7 +3960,7 @@ DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 # ChinaTest 与 IQiyi 共 1 条规则重复
 DOMAIN-SUFFIX,qy.net
-# ChinaTest 与 Proxy 共 38 条规则重复
+# ChinaTest 与 Proxy 共 37 条规则重复
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,app-measurement.com
@@ -3972,7 +3975,6 @@ DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,jiepang.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
