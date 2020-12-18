@@ -1,11 +1,11 @@
 # NAME: Hijacking
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-12 03:35:10
+# UPDATED: 2020-12-18 03:43:09
 # HOST-SUFFIX: 168
-# IP-CIDR: 40
+# IP-CIDR: 39
 # HOST: 1
-# TOTAL: 209
+# TOTAL: 208
 HOST,geo2.adobe.com,Hijacking
 HOST-SUFFIX,17gouwuba.com,Hijacking
 HOST-SUFFIX,186078.com,Hijacking
@@ -206,8 +206,7 @@ IP-CIDR,221.231.6.79/32,Hijacking
 IP-CIDR,221.6.4.148/32,Hijacking
 IP-CIDR,222.186.61.91/32,Hijacking
 IP-CIDR,222.186.61.95/32,Hijacking
-IP-CIDR,222.186.61.96/32,Hijacking
-IP-CIDR,222.186.61.97/32,Hijacking
+IP-CIDR,222.186.61.96/31,Hijacking
 IP-CIDR,222.73.156.235/32,Hijacking
 IP-CIDR,39.107.15.115/32,Hijacking
 IP-CIDR,47.89.59.182/32,Hijacking

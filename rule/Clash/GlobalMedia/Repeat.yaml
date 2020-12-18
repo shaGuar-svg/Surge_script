@@ -1,30 +1,25 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-12 03:35:13
+# UPDATED: 2020-12-18 03:43:13
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
-# GlobalMedia 与 Advertising 共 6 条规则重复
+# GlobalMedia 与 Advertising 共 5 条规则重复
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,conviva.com
-  - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingTest 共 9 条规则重复
+# GlobalMedia 与 AdvertisingTest 共 6 条规则重复
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,conviva.com
-  - DOMAIN-SUFFIX,d9.flashtalking.com
   - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,jwpcdn.com
-  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingLite 共 4 条规则重复
+# GlobalMedia 与 AdvertisingLite 共 3 条规则重复
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,conviva.com
-  - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,socdm.com
 # GlobalMedia 与 AppleNews 共 1 条规则重复
   - DOMAIN,gspe1-ssl.ls.apple.com
@@ -86,8 +81,7 @@ payload:
   - DOMAIN-SUFFIX,socdm.com
 # GlobalMedia 与 Speedtest 共 1 条规则重复
   - DOMAIN-SUFFIX,fast.com
-# GlobalMedia 与 Netflix 共 39 条规则重复
-  - DOMAIN,netflix.com.edgesuite.net
+# GlobalMedia 与 Netflix 共 38 条规则重复
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
@@ -137,10 +131,11 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
-# GlobalMedia 与 Disney 共 4 条规则重复
+# GlobalMedia 与 Disney 共 5 条规则重复
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneystreaming.com
   - DOMAIN-SUFFIX,dssott.com
 # GlobalMedia 与 Global 共 135 条规则重复
   - DOMAIN,avodmp4s3ww-a.akamaihd.net
@@ -288,7 +283,9 @@ payload:
   - DOMAIN-SUFFIX,spotifycdn.net
 # GlobalMedia 与 Spark 共 1 条规则重复
   - DOMAIN-SUFFIX,firebaseio.com
-# GlobalMedia 与 Proxy 共 54 条规则重复
+# GlobalMedia 与 Privacy 共 1 条规则重复
+  - DOMAIN-SUFFIX,logx.optimizely.com
+# GlobalMedia 与 Proxy 共 55 条规则重复
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,youtube
@@ -302,6 +299,7 @@ payload:
   - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,go.com
@@ -343,3 +341,15 @@ payload:
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
+# GlobalMedia 与 Amazon 共 7 条规则重复
+  - DOMAIN-SUFFIX,aiv-cdn.net
+  - DOMAIN-SUFFIX,amazonaws.co.uk
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,primevideo.com
+# GlobalMedia 与 BBC 共 3 条规则重复
+  - DOMAIN-KEYWORD,uk-live
+  - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.com

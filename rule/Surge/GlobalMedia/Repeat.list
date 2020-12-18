@@ -1,29 +1,24 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-12 03:35:12
+# UPDATED: 2020-12-18 03:43:11
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# GlobalMedia 与 Advertising 共 6 条规则重复
+# GlobalMedia 与 Advertising 共 5 条规则重复
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingTest 共 9 条规则重复
+# GlobalMedia 与 AdvertisingTest 共 6 条规则重复
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingLite 共 4 条规则重复
+# GlobalMedia 与 AdvertisingLite 共 3 条规则重复
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,socdm.com
 # GlobalMedia 与 AppleNews 共 3 条规则重复
 DOMAIN,gspe1-ssl.ls.apple.com
@@ -94,8 +89,7 @@ DOMAIN-SUFFIX,socdm.com
 USER-AGENT,niconico*
 # GlobalMedia 与 Speedtest 共 1 条规则重复
 DOMAIN-SUFFIX,fast.com
-# GlobalMedia 与 Netflix 共 40 条规则重复
-DOMAIN,netflix.com.edgesuite.net
+# GlobalMedia 与 Netflix 共 39 条规则重复
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -147,10 +141,11 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 USER-AGENT,tiktok*
-# GlobalMedia 与 Disney 共 5 条规则重复
+# GlobalMedia 与 Disney 共 6 条规则重复
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 USER-AGENT,disney+*
 # GlobalMedia 与 Global 共 171 条规则重复
@@ -336,7 +331,9 @@ DOMAIN-SUFFIX,spotifycdn.net
 USER-AGENT,spotify*
 # GlobalMedia 与 Spark 共 1 条规则重复
 DOMAIN-SUFFIX,firebaseio.com
-# GlobalMedia 与 Proxy 共 54 条规则重复
+# GlobalMedia 与 Privacy 共 1 条规则重复
+DOMAIN-SUFFIX,logx.optimizely.com
+# GlobalMedia 与 Proxy 共 55 条规则重复
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,youtube
@@ -350,6 +347,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,go.com
@@ -396,3 +394,17 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*youtubemusic*
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,youtubemusic*
+# GlobalMedia 与 Amazon 共 9 条规则重复
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonaws.co.uk
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,primevideo.com
+USER-AGENT,instantvideo.us*
+USER-AGENT,prime%20video*
+# GlobalMedia 与 BBC 共 3 条规则重复
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com

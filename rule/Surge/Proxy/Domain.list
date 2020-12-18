@@ -1,14 +1,18 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-12 03:35:09
-# DOMAIN-SUFFIX: 5897
-# USER-AGENT: 3
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 27
-# IP-CIDR: 85
+# UPDATED: 2020-12-18 03:43:08
+# DOMAIN-SUFFIX: 5904
+# USER-AGENT: 4
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 28
+# IP-CIDR: 71
 # IP-CIDR6: 3
-# TOTAL: 6016
+# TOTAL: 6015
+cvws.icloud-content.com
+developer.apple.com
+itunes.apple.com
+sandbox.itunes.apple.com
 testflight.apple.com
 .030buy.com
 .0rz.tw
@@ -136,7 +140,6 @@ testflight.apple.com
 .9gag.com
 .9to5mac.com
 .a-normal-day.com
-.a248.e.akamai.net
 .aamacau.com
 .abc.com
 .abc.net.au
@@ -268,6 +271,7 @@ testflight.apple.com
 .amnestyusa.org
 .amnyemachen.org
 .amoiist.com
+.amplitude.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
@@ -323,7 +327,6 @@ testflight.apple.com
 .apartments.com
 .apetube.com
 .api.ai
-.api.amplitude.com
 .api.mixpanel.com
 .api.termius.com
 .api.tiktokv.com
@@ -339,12 +342,12 @@ testflight.apple.com
 .aplusvpn.com
 .app-measurement.com
 .app-measurement.net
-.app.smartmailcloud.com
 .appdownloader.net
 .apple-dns.net
 .appledaily.com
 .appledaily.com.hk
 .appledaily.com.tw
+.apps.apple.com
 .appshopper.com
 .appsocks.net
 .appspot.com
@@ -566,6 +569,7 @@ testflight.apple.com
 .bitterwinter.org
 .bitvise.com
 .bizhat.com
+.bjango.com
 .bjnewlife.org
 .bjs.org
 .bjzc.org
@@ -578,6 +582,7 @@ testflight.apple.com
 .blinkx.com
 .blinw.com
 .blip.tv
+.blobstore.apple.com
 .blockcn.com
 .blockless.com
 .blog.com
@@ -1040,6 +1045,7 @@ testflight.apple.com
 .cpj.org
 .cq99.us
 .crackle.com
+.crashlytics.com
 .crazys.cc
 .crazyshit.com
 .crbug.com
@@ -1195,6 +1201,7 @@ testflight.apple.com
 .dhcp.biz
 .diaoyuislands.org
 .difangwenge.org
+.digicert.com
 .digiland.tw
 .digisfera.com
 .digitalnomadsproject.org
@@ -1348,6 +1355,7 @@ testflight.apple.com
 .dynu.com
 .dynu.net
 .dysfz.cc
+.dytt8.net
 .dzze.com
 .e-classical.com.tw
 .e-gold.com
@@ -1582,6 +1590,7 @@ testflight.apple.com
 .faqserv.com
 .fartit.com
 .farwestchina.com
+.fast.com
 .fastly.net
 .fastmail.com
 .fastpic.ru
@@ -1842,7 +1851,6 @@ testflight.apple.com
 .garena.com
 .gartlive.com
 .gate-project.com
-.gate.hockeyapp.net
 .gate.io
 .gatecoin.com
 .gather.com
@@ -2475,6 +2483,7 @@ testflight.apple.com
 .hotels.cn
 .hotfrog.com.tw
 .hotgoo.com
+.hotmail.com
 .hotpornshow.com
 .hotpot.hk
 .hotshame.com
@@ -2580,7 +2589,6 @@ testflight.apple.com
 .iconpaper.org
 .icons8.com
 .icu-project.org
-.id.heroku.com
 .idaiwan.com
 .iddddg.com
 .idemocracy.asia
@@ -2595,6 +2603,7 @@ testflight.apple.com
 .ienergy1.com
 .ifanqiang.com
 .ifcss.org
+.ifixit.com
 .ifjc.org
 .ifreewares.com
 .ift.tt
@@ -2609,6 +2618,7 @@ testflight.apple.com
 .igvita.com
 .ihakka.net
 .ihao.org
+.iherb.com
 .iicns.com
 .ikstar.com
 .ikwb.com
@@ -3033,7 +3043,6 @@ testflight.apple.com
 .line-cdn.net
 .line-scdn.net
 .line.me
-.line.naver.jp
 .linglingfa.com
 .lingvodics.com
 .link-o-rama.com
@@ -3555,6 +3564,7 @@ testflight.apple.com
 .nightlife141.com
 .nih.gov
 .nikkei.com
+.nikonpc.com
 .nimg.jp
 .ninecommentaries.com
 .ning.com
@@ -3698,9 +3708,7 @@ testflight.apple.com
 .on.cc
 .on2.com
 .onapp.com
-.oneclient.sfx.ms
 .onedrive.com
-.onedrive.live.com
 .onedumb.com
 .onejav.com
 .onenote.com
@@ -3761,6 +3769,7 @@ testflight.apple.com
 .oursteps.com.au
 .oursweb.net
 .ourtv.hk
+.outlook.com
 .over-blog.com
 .overcast.fm
 .overplay.net
@@ -3865,7 +3874,6 @@ testflight.apple.com
 .phonegap.com
 .photodharma.net
 .photofocus.com
-.photos.live.com
 .phprcdn.com
 .phuquocservices.com
 .piaotian.net
@@ -3914,6 +3922,10 @@ testflight.apple.com
 .playno1.com
 .playpcesor.com
 .plays.com.tw
+.playstation.com
+.playstation.com.hk
+.playstation.net
+.playstationnetwork.com
 .plixi.com
 .plm.org.hk
 .plunder.com
@@ -4430,7 +4442,6 @@ testflight.apple.com
 .sketchappsources.com
 .skimtube.com
 .skybet.com
-.skydrive.wns.windows.com
 .skyking.com.tw
 .skykiwi.com
 .skynet.be
@@ -4499,6 +4510,7 @@ testflight.apple.com
 .songjianjun.com
 .sonicbbs.cc
 .sonidodelaesperanza.org
+.sony.com
 .sopcast.com
 .sopcast.org
 .sorazone.net
@@ -4537,7 +4549,6 @@ testflight.apple.com
 .spicevpn.com
 .spideroak.com
 .spike.com
-.spoprod-a.akamaihd.net
 .spotflux.com
 .spotify.com
 .spreadshirt.es
@@ -4600,8 +4611,6 @@ testflight.apple.com
 .sto.cc
 .stoporganharvesting.org
 .stoptibetcrisis.net
-.storage.live.com
-.storage.msn.com
 .storagenewsletter.com
 .stories.google
 .storify.com
@@ -5572,6 +5581,8 @@ testflight.apple.com
 .wildammo.com
 .williamhill.com
 .willw.net
+.windows.com
+.windows.net
 .windowsphoneme.com
 .windscribe.com
 .windy.com

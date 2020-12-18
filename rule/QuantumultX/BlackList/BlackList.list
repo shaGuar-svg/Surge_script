@@ -1,14 +1,13 @@
 # NAME: BlackList
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-12 03:35:09
-# HOST-SUFFIX: 696
+# UPDATED: 2020-12-18 03:43:08
+# HOST-SUFFIX: 694
 # USER-AGENT: 3
-# HOST: 5
+# HOST: 4
 # HOST-KEYWORD: 12
-# IP-CIDR: 60
-# TOTAL: 776
-HOST,api-glb-sea.smoot.apple.com,BlackList
+# IP-CIDR: 57
+# TOTAL: 770
 HOST,books.itunes.apple.com,BlackList
 HOST,hls.itunes.apple.com,BlackList
 HOST,lookup-api.apple.com,BlackList
@@ -60,7 +59,6 @@ HOST-SUFFIX,apigee.com,BlackList
 HOST-SUFFIX,apk-dl.com,BlackList
 HOST-SUFFIX,apkpure.com,BlackList
 HOST-SUFFIX,app-measurement.com,BlackList
-HOST-SUFFIX,app.smartmailcloud.com,BlackList
 HOST-SUFFIX,appdownloader.net,BlackList
 HOST-SUFFIX,apple-dns.net,BlackList
 HOST-SUFFIX,appshopper.com,BlackList
@@ -228,7 +226,6 @@ HOST-SUFFIX,fzlm.net,BlackList
 HOST-SUFFIX,g.co,BlackList
 HOST-SUFFIX,gabia.net,BlackList
 HOST-SUFFIX,garena.com,BlackList
-HOST-SUFFIX,gate.hockeyapp.net,BlackList
 HOST-SUFFIX,gcr.io,BlackList
 HOST-SUFFIX,geni.us,BlackList
 HOST-SUFFIX,get.how,BlackList
@@ -740,17 +737,14 @@ IP-CIDR,125.6.146.0/24,BlackList
 IP-CIDR,125.6.149.0/24,BlackList
 IP-CIDR,125.6.190.0/24,BlackList
 IP-CIDR,129.134.0.0/17,BlackList
-IP-CIDR,13.251.24.157/24,BlackList
-IP-CIDR,13.251.41.203/24,BlackList
-IP-CIDR,13.32.0.0/16,BlackList
-IP-CIDR,13.33.0.0/16,BlackList
+IP-CIDR,13.251.24.0/24,BlackList
+IP-CIDR,13.251.41.0/24,BlackList
+IP-CIDR,13.32.0.0/15,BlackList
 IP-CIDR,13.35.0.0/17,BlackList
 IP-CIDR,157.240.0.0/17,BlackList
-IP-CIDR,17.252.156.147/24,BlackList
-IP-CIDR,17.252.157.26/24,BlackList
+IP-CIDR,17.252.156.0/23,BlackList
 IP-CIDR,173.194.0.0/16,BlackList
-IP-CIDR,173.252.64.0/19,BlackList
-IP-CIDR,173.252.96.0/19,BlackList
+IP-CIDR,173.252.64.0/18,BlackList
 IP-CIDR,174.37.0.0/16,BlackList
 IP-CIDR,179.60.192.0/22,BlackList
 IP-CIDR,18.184.0.0/15,BlackList

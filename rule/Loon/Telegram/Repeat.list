@@ -1,9 +1,9 @@
 # NAME: Telegram 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-12 03:35:12
+# UPDATED: 2020-12-18 03:43:12
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Telegram 与 Global 共 16 条规则重复
+# Telegram 与 Global 共 10 条规则重复
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
@@ -11,12 +11,6 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,149.154.160.0/20
-IP-CIDR,91.108.12.0/22
-IP-CIDR,91.108.16.0/22
-IP-CIDR,91.108.4.0/22
-IP-CIDR,91.108.56.0/22
-IP-CIDR,91.108.8.0/21
-IP-CIDR,91.108.8.0/22
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23d::/48
 IP-CIDR6,2001:b28:f23f::/48

@@ -13,7 +13,7 @@ const encryptMobileKey = 'unicom_encrypt_mobile'
 const cityCodeKey = 'city_code'
 const scriptName = '中国联通';
 
-let magicJS = MagicJS(scriptName);
+let magicJS = MagicJS(scriptName, "INFO");
 magicJS.unifiedPushUrl = magicJS.read('unicom_unified_push_url') || magicJS.read('magicjs_unified_push_url');
 
 let userLoginOptions = {
@@ -713,83 +713,100 @@ function GetMeituanCoupon(){
 async function Main(){
   if (magicJS.isRequest){
     if(getLotteryCookieRegex.test(magicJS.request.url) && magicJS.request.headers.hasOwnProperty('savedata') == false){
-      // 获取cookie
-      let cookie = magicJS.request.headers['Cookie'];
-      let hisCookie = magicJS.read(unicomCookieKey, 'default');
-      // 获取手机号
-      let mobile = /c_mobile=([0-9]{11})/.exec(cookie)[1];
-      let hisMobile = magicJS.read(mobileKey, 'default');
-      // 获取加密手机号
-      let encryptMobile = /encryptmobile=([a-zA-Z0-9]*)/.exec(magicJS.request.url)[1];
-      let hisEncryptMobile = magicJS.read(encryptMobileKey, 'default');
-      let cityCode = /city=([0-9]*)/.exec(magicJS.request.headers['Cookie'])[1]
-      // 获取城市代码
-      let hisCityCode = magicJS.read(cityCodeKey, 'default');
-      let notifyContent = '';
-      magicJS.log(`新的cookie：${cookie}\n\n旧的cookie：${hisCookie}`);
-      magicJS.log(`新的手机号：${mobile}\n旧的手机号：${hisMobile}`);
-      magicJS.log(`新的手机号密文：${encryptMobile}\n旧的手机号密文：${hisEncryptMobile}`);
-      magicJS.log(`新的城市代码：${cityCode}\n旧的城市代码：${hisCityCode}`);
-      // cookie
-      if (cookie != hisCookie){
-        magicJS.write(unicomCookieKey, cookie, 'default');
-        if (!hisCookie){
-          magicJS.log('首次获取联通cookie成功：' + cookie);
-          notifyContent += '🍩联通cookie:获取成功';
+      try{
+        // 获取cookie
+        let cookie = magicJS.request.headers['Cookie'];
+        let hisCookie = magicJS.read(unicomCookieKey, 'default');
+        // 获取手机号
+        let mobile01 = /c_mobile=(\d{11})/.exec(cookie);
+        let mobile02 = /u_account=(\d{11})/.exec(cookie);
+        let mobile03 = /desmobile==(\d{11})/.exec(magicJS.request.headers['Referer']);
+        let mobile = '';
+        if (!!mobile01){
+          mobile = mobile01[1]
+        }
+        else if (!!mobile02){
+          mobile = mobile02[1]
         }
         else{
-          magicJS.log('更新联通cookie成功：' + cookie);
-          notifyContent += '🍩联通cookie:更新成功';
+          mobile = mobile03[1]
         }
-      }
-      else{
-        magicJS.log('联通cookie没有变化，无需更新');
-        notifyContent += '🍩联通cookie:没有变化';
-      }
-      // 手机号
-      if (mobile != hisMobile){
-        magicJS.write(mobileKey, mobile, 'default');
-        if (!hisMobile){
-          notifyContent += ' 📱手机号:获取成功';
-        }
-        else{
-          notifyContent += ' 📱手机号:更新成功';
-        }
-      }
-      else{
-        magicJS.log('手机号码密文没有变化，无需更新');
-        notifyContent += ' 📱手机号:没有变化';
-      }
-      // 手机号密文
-      if (hisEncryptMobile != encryptMobile){
-        magicJS.write(encryptMobileKey, encryptMobile, 'default');
-        if (!hisEncryptMobile){
-          notifyContent += '\n🗳手机号密文:获取成功';
+        let hisMobile = magicJS.read(mobileKey, 'default');
+        // 获取加密手机号
+        let encryptMobile = /encryptmobile=([a-zA-Z0-9]*)/.exec(magicJS.request.url)[1];
+        let hisEncryptMobile = magicJS.read(encryptMobileKey, 'default');
+        let cityCode = /city=(\d*)/.exec(magicJS.request.headers['Cookie'])[1]
+        // 获取城市代码
+        let hisCityCode = magicJS.read(cityCodeKey, 'default');
+        let notifyContent = '';
+        magicJS.log(`新的cookie：${cookie}\n\n旧的cookie：${hisCookie}`);
+        magicJS.log(`新的手机号：${mobile}\n旧的手机号：${hisMobile}`);
+        magicJS.log(`新的手机号密文：${encryptMobile}\n旧的手机号密文：${hisEncryptMobile}`);
+        magicJS.log(`新的城市代码：${cityCode}\n旧的城市代码：${hisCityCode}`);
+        // cookie
+        if (cookie != hisCookie){
+          magicJS.write(unicomCookieKey, cookie, 'default');
+          if (!hisCookie){
+            magicJS.log('首次获取联通cookie成功：' + cookie);
+            notifyContent += '🍩联通cookie:获取成功';
+          }
+          else{
+            magicJS.log('更新联通cookie成功：' + cookie);
+            notifyContent += '🍩联通cookie:更新成功';
+          }
         }
         else{
-          notifyContent += '\n🗳手机号密文:更新成功';
+          magicJS.log('联通cookie没有变化，无需更新');
+          notifyContent += '🍩联通cookie:没有变化';
         }
-      }
-      else{
-        magicJS.log('手机号码密文没有变化，无需更新');
-        notifyContent += '\n🗳手机号密文:没有变化';
-      }
-      if (cityCode != hisCityCode){
-        magicJS.write(cityCodeKey, cityCode, 'default');
-        if (!hisCityCode){
-          magicJS.log('首次获取联通城市代码成功：' + cityCode);
-          notifyContent += ' 🌃城市:获取成功';
+        // 手机号
+        if (mobile != hisMobile){
+          magicJS.write(mobileKey, mobile, 'default');
+          if (!hisMobile){
+            notifyContent += ' 📱手机号:获取成功';
+          }
+          else{
+            notifyContent += ' 📱手机号:更新成功';
+          }
         }
         else{
-          magicJS.log('更新联通城市代码成功：' + cityCode);
-          notifyContent += ' 🌃城市:更新成功';
+          magicJS.log('手机号码没有变化，无需更新');
+          notifyContent += ' 📱手机号:没有变化';
         }
+        // 手机号密文
+        if (hisEncryptMobile != encryptMobile){
+          magicJS.write(encryptMobileKey, encryptMobile, 'default');
+          if (!hisEncryptMobile){
+            notifyContent += '\n🗳手机号密文:获取成功';
+          }
+          else{
+            notifyContent += '\n🗳手机号密文:更新成功';
+          }
+        }
+        else{
+          magicJS.log('手机号码密文没有变化，无需更新');
+          notifyContent += '\n🗳手机号密文:没有变化';
+        }
+        if (cityCode != hisCityCode){
+          magicJS.write(cityCodeKey, cityCode, 'default');
+          if (!hisCityCode){
+            magicJS.log('首次获取联通城市代码成功：' + cityCode);
+            notifyContent += ' 🌃城市:获取成功';
+          }
+          else{
+            magicJS.log('更新联通城市代码成功：' + cityCode);
+            notifyContent += ' 🌃城市:更新成功';
+          }
+        }
+        else{
+          magicJS.log('城市代码没有变化，无需更新');
+          notifyContent += ' 🌃城市:没有变化';
+        }
+        magicJS.notify(scriptName, '', notifyContent);
       }
-      else{
-        magicJS.log('城市代码没有变化，无需更新');
-        notifyContent += ' 🌃城市:没有变化';
+      catch (err){
+        magicJS.logError(`获取联通手机营业厅Cookie出现异常，异常信息：${err}`);
       }
-      magicJS.notify(scriptName, '', notifyContent);
     }
     magicJS.done();
   }
@@ -806,13 +823,13 @@ async function Main(){
     await (async ()=>{
 
       // 抽奖前用户登录
-      let [errUserLogin, [loginResult, loginStr]] = await magicJS.attempt(UserLogin(), [false, '用户登录失败']);
+      let [errUserLogin, [loginResult, loginStr]] = await magicJS.attempt(magicJS.retry(UserLogin, 5, 1000)(), [false, '用户登录失败']);
 
       // 旧版签到，如果失败就用新版的再试试
-      let AppCheckinPromise = magicJS.retry(AppCheckin, 3, 5000)();
+      let AppCheckinPromise = magicJS.retry(AppCheckin, 10, 100)();
       [,[checkinResult,checkinResultStr,prizeCount,growthV,flowerCount]] = await magicJS.attempt(AppCheckinPromise, [false,'签到异常',null,null,null]);
       if (!checkinResult){
-        let AppCheckinNewVersionPromise = magicJS.retry(AppCheckinNewVersion, 3, 5000)();
+        let AppCheckinNewVersionPromise = magicJS.retry(AppCheckinNewVersion, 10, 100)();
         [,[checkinResult,checkinResultStr,prizeCount,growthV,flowerCount]] = await magicJS.attempt(AppCheckinNewVersionPromise, [false,'签到异常',null,null,null]);
       }
       if (!!prizeCount && !!growthV && !!flowerCount){
@@ -820,18 +837,18 @@ async function Main(){
       }
 
       // 查询连续签到天数
-      let genContinueCountPromise = magicJS.retry(GetContinueCount, 3, 3000)();
+      let genContinueCountPromise = magicJS.retry(GetContinueCount, 10, 100)();
       [,contineCount] = await magicJS.attempt(genContinueCountPromise);
 
       // 查询用户信息
-      let getUserInfoPromise = magicJS.retry(GetUserInfo, 3, 5000)();
+      let getUserInfoPromise = magicJS.retry(GetUserInfo, 10, 100)();
       let [,userInfo] = await magicJS.attempt(getUserInfoPromise);
       if (userInfo && userInfo.hasOwnProperty('flow') && userInfo.hasOwnProperty('fee')){
         notifyContent += `${userInfo['flow']} ${userInfo['fee']}\n${userInfo['voice']} ${userInfo['point']}`
       }
 
       // 领取美团外卖优惠券
-      let getMeituanCouponRetry = magicJS.retry(GetMeituanCoupon, 3, 2000);
+      let getMeituanCouponRetry = magicJS.retry(GetMeituanCoupon, 3, 100);
       let getMeituanCouponPromise = getMeituanCouponRetry();
       let [,meituanResult] = await magicJS.attempt(getMeituanCouponPromise);
       if (meituanResult){
