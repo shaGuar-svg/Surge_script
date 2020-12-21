@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-18 03:43:12
+# UPDATED: 2020-12-21 03:38:08
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Global 与 Adobe 共 1 条规则重复
 DOMAIN-SUFFIX,behance.net
@@ -394,13 +394,12 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,youtube*
 USER-AGENT,youtubemusic*
-# Global 与 Microsoft 共 6 条规则重复
+# Global 与 Microsoft 共 5 条规则重复
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,xboxlive.com
 # Global 与 OneDriver 共 6 条规则重复
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
