@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-21 03:38:08
+# UPDATED: 2020-12-23 03:51:11
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ChinaTest 与 Adobe 共 2 条规则重复
 HOST-SUFFIX,digicert.com
@@ -258,7 +258,6 @@ HOST-SUFFIX,at98.com
 HOST-SUFFIX,atomhike.com
 HOST-SUFFIX,atpanel.com
 HOST-SUFFIX,auspiciousvp.com
-HOST-SUFFIX,baful.net
 HOST-SUFFIX,baidushifen.com
 HOST-SUFFIX,baidustatic.com
 HOST-SUFFIX,baifendian.com
@@ -510,7 +509,6 @@ HOST-SUFFIX,hnnuange.com
 HOST-SUFFIX,hnol.net
 HOST-SUFFIX,hp-china.biz
 HOST-SUFFIX,hr44.com
-HOST-SUFFIX,hrbpay.com
 HOST-SUFFIX,hsmkj.net
 HOST-SUFFIX,huhuhiiuio.com
 HOST-SUFFIX,huimee.com
@@ -710,6 +708,7 @@ HOST-SUFFIX,mylikechat.com
 HOST-SUFFIX,myrtb.net
 HOST-SUFFIX,mytanwan.com
 HOST-SUFFIX,namedq.com
+HOST-SUFFIX,naolifanghealth.com
 HOST-SUFFIX,networkbench.com
 HOST-SUFFIX,newapi.com
 HOST-SUFFIX,nicelabel.cc
@@ -1101,6 +1100,7 @@ HOST-SUFFIX,yunrong360.com
 HOST-SUFFIX,yunshipei.com
 HOST-SUFFIX,yuxiangrc.com
 HOST-SUFFIX,yxmspx.com
+HOST-SUFFIX,zaitouwang.com
 HOST-SUFFIX,zampda.net
 HOST-SUFFIX,zampdsp.com
 HOST-SUFFIX,zamplus.com
@@ -1403,7 +1403,6 @@ HOST-SUFFIX,at98.com
 HOST-SUFFIX,atomhike.com
 HOST-SUFFIX,atpanel.com
 HOST-SUFFIX,auspiciousvp.com
-HOST-SUFFIX,baful.net
 HOST-SUFFIX,baidushifen.com
 HOST-SUFFIX,baidustatic.com
 HOST-SUFFIX,baifendian.com
@@ -1663,7 +1662,6 @@ HOST-SUFFIX,hnnuange.com
 HOST-SUFFIX,hnol.net
 HOST-SUFFIX,hp-china.biz
 HOST-SUFFIX,hr44.com
-HOST-SUFFIX,hrbpay.com
 HOST-SUFFIX,hsmkj.net
 HOST-SUFFIX,hubpd.com
 HOST-SUFFIX,huhuhiiuio.com
@@ -1867,6 +1865,7 @@ HOST-SUFFIX,mylikechat.com
 HOST-SUFFIX,myrtb.net
 HOST-SUFFIX,mytanwan.com
 HOST-SUFFIX,namedq.com
+HOST-SUFFIX,naolifanghealth.com
 HOST-SUFFIX,networkbench.com
 HOST-SUFFIX,newapi.com
 HOST-SUFFIX,nicelabel.cc
@@ -2264,6 +2263,7 @@ HOST-SUFFIX,yunrong360.com
 HOST-SUFFIX,yunshipei.com
 HOST-SUFFIX,yuxiangrc.com
 HOST-SUFFIX,yxmspx.com
+HOST-SUFFIX,zaitouwang.com
 HOST-SUFFIX,zampda.net
 HOST-SUFFIX,zampdsp.com
 HOST-SUFFIX,zamplus.com
@@ -2306,7 +2306,7 @@ HOST-SUFFIX,zyiis.net
 HOST-SUFFIX,zzbyc.xyz
 HOST-SUFFIX,zzpzero.com
 HOST-SUFFIX,zzsdtzb.com
-# ChinaTest 与 AdvertisingLite 共 661 条规则重复
+# ChinaTest 与 AdvertisingLite 共 659 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -2447,7 +2447,6 @@ HOST-SUFFIX,arrows-hitech.com
 HOST-SUFFIX,at98.com
 HOST-SUFFIX,atomhike.com
 HOST-SUFFIX,auspiciousvp.com
-HOST-SUFFIX,baful.net
 HOST-SUFFIX,baidustatic.com
 HOST-SUFFIX,baifendian.com
 HOST-SUFFIX,baigm.com
@@ -2598,7 +2597,6 @@ HOST-SUFFIX,hkfuy.com
 HOST-SUFFIX,hnol.net
 HOST-SUFFIX,hp-china.biz
 HOST-SUFFIX,hr44.com
-HOST-SUFFIX,hrbpay.com
 HOST-SUFFIX,huimee.net
 HOST-SUFFIX,huodonghezi.com
 HOST-SUFFIX,huoying666.com
@@ -3714,8 +3712,7 @@ HOST-SUFFIX,steampowered.com
 HOST-SUFFIX,steamstat.us
 HOST-SUFFIX,steamstatic.com
 HOST-SUFFIX,steamusercontent.com
-# ChinaTest 与 SteamCN 共 6 条规则重复
-HOST-SUFFIX,steamcdn-a.akamaihd.net
+# ChinaTest 与 SteamCN 共 5 条规则重复
 HOST-SUFFIX,steamcontent.com
 HOST-SUFFIX,steamgames.com
 HOST-SUFFIX,steamstat.us
