@@ -1,26 +1,29 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-27 03:46:23
-# DOMAIN-SUFFIX: 571
+# UPDATED: 2020-12-31 03:52:16
+# DOMAIN-SUFFIX: 563
 # USER-AGENT: 11
-# DOMAIN: 12
+# DOMAIN: 15
 # IP-CIDR: 4
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 612
+# TOTAL: 607
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
 DOMAIN,dl.google.com
 DOMAIN,download.jetbrains.com
+DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,mtalk.google.com
+DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,speedtest.macpaw.com
+DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
@@ -54,14 +57,12 @@ DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,adobesc.com
-DOMAIN-SUFFIX,agefans.tv
 DOMAIN-SUFFIX,aicoinstorge.com
 DOMAIN-SUFFIX,aip.org
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabausercontent.com
@@ -124,7 +125,6 @@ DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
-DOMAIN-SUFFIX,cdn9-okzy.com
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,chinacache.net
@@ -360,7 +360,6 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netspeedtestmaster.com
-DOMAIN-SUFFIX,nfmovies.com
 DOMAIN-SUFFIX,nfoservers.com
 DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,nim-lang-cn.org
@@ -371,7 +370,6 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,oecd-ilibrary.org
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,okokbo.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oracle.com
@@ -438,7 +436,6 @@ DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scomper.me
 DOMAIN-SUFFIX,scopus.com
-DOMAIN-SUFFIX,sd-dykj.com
 DOMAIN-SUFFIX,seafile.com
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,servicewechat.com
@@ -567,7 +564,6 @@ DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yhd.com
-DOMAIN-SUFFIX,yhdm.tv
 DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yixia.com
@@ -575,7 +571,6 @@ DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,youkutv.cc
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zgslb.net
