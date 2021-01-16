@@ -9,7 +9,7 @@
 
 下载分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-01-01 03:51:42。
+最后检查时间：2021-01-16 03:25:44。
 
 ## 规则统计
 
@@ -38,6 +38,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Download/Download.list
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 下载分流规则，与本项目其他分流规则没有重复。

@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-01-01 03:51:44。
+最后检查时间：2021-01-16 03:25:38。
 
 ## 规则统计
 
-总计规则：8 条。
+总计规则：249 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 8 |
+| DOMAIN-SUFFIX | 249 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -36,16 +36,22 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 ## 重复统计
 
-360分流规则，与本项目其他分流规则重复情况统计。
 
-点击重复数量可以查看重复规则明细。
+当前分流规则，未包含其他子规则。
+
+
+当前分流规则，与本项目其他分流规则重复情况统计(点击重复数量可查看明细)。
+
+
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 55418   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 73109   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.0% |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 607   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.49% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 72644   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 688   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   1.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 72126   | [66](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.09% |
+|  [Qihoo360](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Qihoo360)    | 50   | [40](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   80.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 26248   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 54630   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 72676   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
@@ -54,6 +60,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 本项目的360分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的360分流规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/360.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/360.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。

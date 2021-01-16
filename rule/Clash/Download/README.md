@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-01-01 03:51:45。
+最后检查时间：2021-01-16 03:25:51。
 
 ## 规则统计
 
-总计规则：18 条。
+总计规则：29 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| PROCESS-NAME | 12 |
+| PROCESS-NAME | 23 |
 | DOMAIN-KEYWORD | 5 |
 | DOMAIN-SUFFIX | 1 |
 ## 配置说明
@@ -37,6 +37,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Download/Download.yaml
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 下载分流规则，与本项目其他分流规则没有重复。

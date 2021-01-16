@@ -1,14 +1,15 @@
 # NAME: BlackList
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-01 03:51:31
+# UPDATED: 2021-01-16 03:25:11
 # DOMAIN-SUFFIX: 694
 # USER-AGENT: 3
-# DOMAIN: 4
+# DOMAIN: 5
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 12
 # IP-CIDR: 57
-# TOTAL: 771
+# TOTAL: 772
+DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,books.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
 DOMAIN,lookup-api.apple.com
@@ -776,7 +777,7 @@ IP-CIDR,74.119.76.0/22,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve
+USER-AGENT,Roam*
+USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
-USER-AGENT,roam*
-USER-AGENT,whatsapp*
 PROCESS-NAME,lookupviewservice

@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-01 03:51:47。
+最后检查时间：2021-01-16 03:25:56。
 
 ## 规则统计
 
@@ -35,6 +35,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shado
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/AppleMail/AppleMail.list
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 AppleMail分流规则，与本项目其他分流规则没有重复。

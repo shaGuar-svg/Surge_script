@@ -10,17 +10,17 @@
 
 知乎广告拦截分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-01-01 03:51:39。
+最后检查时间：2021-01-16 03:25:23。
 
 ## 规则统计
 
-总计规则：11 条。
+总计规则：14 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 1 |
+| DOMAIN | 4 |
 | DOMAIN-KEYWORD | 1 |
 | IP-CIDR | 1 |
 | USER-AGENT | 1 |
@@ -41,6 +41,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Zhihu/Zhihu.list
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 知乎广告拦截分流规则，与本项目其他分流规则没有重复。

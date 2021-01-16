@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-01 03:51:33
-# DOMAIN-SUFFIX: 63561
-# DOMAIN: 8944
-# DOMAIN-KEYWORD: 57
+# UPDATED: 2021-01-16 03:25:15
+# DOMAIN-SUFFIX: 63813
+# DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
-# TOTAL: 72802
+# DOMAIN: 8252
+# TOTAL: 72366
 payload:
   - DOMAIN-KEYWORD,adashx
   - DOMAIN-KEYWORD,admarvel
@@ -31,18 +31,21 @@ payload:
   - DOMAIN-KEYWORD,analytics
   - DOMAIN-KEYWORD,applovin
   - DOMAIN-KEYWORD,appsflyer
+  - DOMAIN-KEYWORD,asewlfjqwlflkew
   - DOMAIN-KEYWORD,cnzz
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,dnserror
   - DOMAIN-KEYWORD,domob
   - DOMAIN-KEYWORD,duomeng
   - DOMAIN-KEYWORD,dwtrack
+  - DOMAIN-KEYWORD,exosrv
   - DOMAIN-KEYWORD,fenxi
   - DOMAIN-KEYWORD,googleads
   - DOMAIN-KEYWORD,guanggao
   - DOMAIN-KEYWORD,inmobi
   - DOMAIN-KEYWORD,lianmeng
   - DOMAIN-KEYWORD,log.umeng.com
+  - DOMAIN-KEYWORD,logger
   - DOMAIN-KEYWORD,logs.umeng.com
   - DOMAIN-KEYWORD,logs.umengcloud.com
   - DOMAIN-KEYWORD,mobaders
@@ -62,6 +65,7 @@ payload:
   - DOMAIN-KEYWORD,traffic
   - DOMAIN-KEYWORD,uedas
   - DOMAIN-KEYWORD,umeng
+  - DOMAIN-KEYWORD,umtrack
   - DOMAIN-KEYWORD,uploadmobiledata
   - DOMAIN-KEYWORD,wlmonitor
   - DOMAIN-KEYWORD,zjtoolbar

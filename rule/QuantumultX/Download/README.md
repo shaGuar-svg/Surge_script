@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-01 03:51:40。
+最后检查时间：2021-01-16 03:25:37。
 
 ## 规则统计
 
@@ -36,6 +36,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Download/Download.list
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 下载分流规则，与本项目其他分流规则没有重复。
