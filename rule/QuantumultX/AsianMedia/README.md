@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-16 03:25:36。
+最后检查时间：2021-02-24 02:44:56.652444。
 
 ## 规则统计
 
@@ -50,17 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [BiliBili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BiliBili)    | 60   | [13](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   21.67% |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 688   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   1.16% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 72126   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   0.02% |
-|  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaIPs)    | 6057   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   0.05% |
-|  [Tencent](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Tencent)    | 294   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   0.34% |
-|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaMedia)    | 141   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   17.02% |
-|  [Youku](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Youku)    | 1   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   100.0% |
-|  [TencentVideo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/TencentVideo)    | 2   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   50.0% |
-|  [iQIYI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/iQIYI)    | 48   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   14.58% |
-|  [Alibaba](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Alibaba)    | 1222   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   0.08% |
-|  [WeTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/WeTV)    | 7   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   14.29% |
+|  [BiliBili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BiliBili)    | 62   | [13](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AsianMedia/AsianMedia_Repeat.list)   |   20.97% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

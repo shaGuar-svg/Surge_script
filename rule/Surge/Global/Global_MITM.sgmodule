@@ -1,7 +1,7 @@
 #!name=Global MITM
-#!desc=最后更新时间 2021-01-16 03:25:11
+#!desc=最后更新时间 2021-02-24 02:44:33.959314
 #!author=blackmatrix7
-#!github=https://github.com/blackmatrix7/ios_rule_script
+#!github=
 #!mitm=1
 
 [MITM]

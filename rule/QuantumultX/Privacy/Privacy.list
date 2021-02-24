@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-16 03:25:12
+# UPDATED: 2021-02-24 02:44:35.336251
 # HOST: 19
-# HOST-SUFFIX: 2812
+# HOST-SUFFIX: 2817
 # HOST-KEYWORD: 3
-# TOTAL: 2834
+# TOTAL: 2839
 HOST,data.mistat.xiaomi.com,Privacy
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
@@ -180,6 +180,7 @@ HOST-SUFFIX,analytics.ladmedia.fr,Privacy
 HOST-SUFFIX,analytics.linktr.ee,Privacy
 HOST-SUFFIX,analytics.live.com,Privacy
 HOST-SUFFIX,analytics.liveact.cri-mw.jp,Privacy
+HOST-SUFFIX,analytics.livehindustan.com,Privacy
 HOST-SUFFIX,analytics.livestream.com,Privacy
 HOST-SUFFIX,analytics.localytics.com,Privacy
 HOST-SUFFIX,analytics.logsss.com,Privacy
@@ -288,6 +289,7 @@ HOST-SUFFIX,analyzer52.fc2.com,Privacy
 HOST-SUFFIX,andoveradvertiser-gb.andoveradvertiser.co.uk,Privacy
 HOST-SUFFIX,anon-stats.eff.org,Privacy
 HOST-SUFFIX,anti-bot.baidu.com,Privacy
+HOST-SUFFIX,aorta.clickagy.com,Privacy
 HOST-SUFFIX,ape-tagit.timeinc.net,Privacy
 HOST-SUFFIX,apester.com/event,Privacy
 HOST-SUFFIX,api.nobeta.com.br,Privacy
@@ -590,6 +592,7 @@ HOST-SUFFIX,collector.githubapp.com,Privacy
 HOST-SUFFIX,collector.ksax.com,Privacy
 HOST-SUFFIX,collector.kstptv5.com,Privacy
 HOST-SUFFIX,collector.mazeberry.com,Privacy
+HOST-SUFFIX,collector.ozeex.com,Privacy
 HOST-SUFFIX,collector.prod.expedia.com,Privacy
 HOST-SUFFIX,collector.rn.de,Privacy
 HOST-SUFFIX,collector.roistat.com,Privacy
@@ -741,7 +744,6 @@ HOST-SUFFIX,dbex-tracker-v2.driveback.ru,Privacy
 HOST-SUFFIX,dc.banggood.com,Privacy
 HOST-SUFFIX,dc.letv.com,Privacy
 HOST-SUFFIX,dccss.banggood.com,Privacy
-HOST-SUFFIX,dcf.espn.com,Privacy
 HOST-SUFFIX,dd.nytimes.com,Privacy
 HOST-SUFFIX,de-mi-nis-ner.info,Privacy
 HOST-SUFFIX,de-mi-nis-ner2.info,Privacy
@@ -1008,7 +1010,6 @@ HOST-SUFFIX,g2377012020.co,Privacy
 HOST-SUFFIX,g2575096355.co,Privacy
 HOST-SUFFIX,g2773180690.co,Privacy
 HOST-SUFFIX,g2971265025.co,Privacy
-HOST-SUFFIX,g2insights-cdn.azureedge.net,Privacy
 HOST-SUFFIX,g3169349360.co,Privacy
 HOST-SUFFIX,g3367433695.co,Privacy
 HOST-SUFFIX,g3565518030.co,Privacy
@@ -1171,7 +1172,6 @@ HOST-SUFFIX,impress.vcita.com,Privacy
 HOST-SUFFIX,imx.comedycentral.com,Privacy
 HOST-SUFFIX,infinityid.condenastdigital.com,Privacy
 HOST-SUFFIX,informers.sinoptik.ua,Privacy
-HOST-SUFFIX,ingest.sentry.io,Privacy
 HOST-SUFFIX,inquiries.redhat.com,Privacy
 HOST-SUFFIX,insight.fonecta.fi,Privacy
 HOST-SUFFIX,insights.algolia.io,Privacy
@@ -1381,6 +1381,7 @@ HOST-SUFFIX,metrics.cnn.com,Privacy
 HOST-SUFFIX,metrics.ctvdigital.net,Privacy
 HOST-SUFFIX,metrics.ee.co.uk,Privacy
 HOST-SUFFIX,metrics.extremetech.com,Privacy
+HOST-SUFFIX,metrics.getvitals.io,Privacy
 HOST-SUFFIX,metrics.n-tv.de,Privacy
 HOST-SUFFIX,metrics.readme.io,Privacy
 HOST-SUFFIX,metrics.scribblelive.com,Privacy
@@ -1513,6 +1514,7 @@ HOST-SUFFIX,p.adbrn.com,Privacy
 HOST-SUFFIX,p.aty.sohu.com,Privacy
 HOST-SUFFIX,p.eyebuydirect-cmr.net,Privacy
 HOST-SUFFIX,p.gazeta.pl,Privacy
+HOST-SUFFIX,p.kolplay.com,Privacy
 HOST-SUFFIX,p.milliyet.com.tr,Privacy
 HOST-SUFFIX,p.pagesjaunes.fr,Privacy
 HOST-SUFFIX,p.tencentmind.com,Privacy
@@ -1726,6 +1728,7 @@ HOST-SUFFIX,res.rbl.ms,Privacy
 HOST-SUFFIX,responder.wt.heise.de,Privacy
 HOST-SUFFIX,response.pure360.com,Privacy
 HOST-SUFFIX,retargeting.vistaprint.com,Privacy
+HOST-SUFFIX,retcode.taobao.com,Privacy
 HOST-SUFFIX,retrack.q-divisioncdn.de,Privacy
 HOST-SUFFIX,revsci.tvguide.com,Privacy
 HOST-SUFFIX,rich-agent.s3.amazonaws.com,Privacy
@@ -2252,6 +2255,7 @@ HOST-SUFFIX,tag.aumago.com,Privacy
 HOST-SUFFIX,tag.boulanger.fr,Privacy
 HOST-SUFFIX,tag.brandcdn.com,Privacy
 HOST-SUFFIX,tag.cribnotes.jp,Privacy
+HOST-SUFFIX,tag.elevaate.io,Privacy
 HOST-SUFFIX,tag.goldenbees.fr,Privacy
 HOST-SUFFIX,tag.leadplace.fr,Privacy
 HOST-SUFFIX,tag.myplay.com,Privacy
@@ -2264,6 +2268,7 @@ HOST-SUFFIX,tagger.ope.scmp.com,Privacy
 HOST-SUFFIX,tagger.opecloud.com,Privacy
 HOST-SUFFIX,tagm.tchibo.de,Privacy
 HOST-SUFFIX,tags.cdn.circlesix.co,Privacy
+HOST-SUFFIX,tags.clickagy.com,Privacy
 HOST-SUFFIX,tags.creativille.co.uk,Privacy
 HOST-SUFFIX,tags.master-perf-tools.com,Privacy
 HOST-SUFFIX,tags.msnbc.com,Privacy

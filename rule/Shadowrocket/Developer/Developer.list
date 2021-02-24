@@ -1,14 +1,15 @@
 # NAME: Developer
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-16 03:25:17
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-24 02:44:40.830167
+# DOMAIN-SUFFIX: 24
+# TOTAL: 24
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
+DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io

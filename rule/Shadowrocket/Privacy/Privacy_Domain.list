@@ -1,11 +1,11 @@
 # NAME: Privacy
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-16 03:25:17
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-24 02:44:40.304784
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 2812
+# DOMAIN-SUFFIX: 2817
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2834
+# TOTAL: 2839
 data.mistat.xiaomi.com
 hm.baidu.com
 hmma.baidu.com
@@ -180,6 +180,7 @@ zgsdk.zhugeio.com
 .analytics.linktr.ee
 .analytics.live.com
 .analytics.liveact.cri-mw.jp
+.analytics.livehindustan.com
 .analytics.livestream.com
 .analytics.localytics.com
 .analytics.logsss.com
@@ -288,6 +289,7 @@ zgsdk.zhugeio.com
 .andoveradvertiser-gb.andoveradvertiser.co.uk
 .anon-stats.eff.org
 .anti-bot.baidu.com
+.aorta.clickagy.com
 .ape-tagit.timeinc.net
 .apester.com/event
 .api.nobeta.com.br
@@ -590,6 +592,7 @@ zgsdk.zhugeio.com
 .collector.ksax.com
 .collector.kstptv5.com
 .collector.mazeberry.com
+.collector.ozeex.com
 .collector.prod.expedia.com
 .collector.rn.de
 .collector.roistat.com
@@ -741,7 +744,6 @@ zgsdk.zhugeio.com
 .dc.banggood.com
 .dc.letv.com
 .dccss.banggood.com
-.dcf.espn.com
 .dd.nytimes.com
 .de-mi-nis-ner.info
 .de-mi-nis-ner2.info
@@ -1008,7 +1010,6 @@ zgsdk.zhugeio.com
 .g2575096355.co
 .g2773180690.co
 .g2971265025.co
-.g2insights-cdn.azureedge.net
 .g3169349360.co
 .g3367433695.co
 .g3565518030.co
@@ -1171,7 +1172,6 @@ zgsdk.zhugeio.com
 .imx.comedycentral.com
 .infinityid.condenastdigital.com
 .informers.sinoptik.ua
-.ingest.sentry.io
 .inquiries.redhat.com
 .insight.fonecta.fi
 .insights.algolia.io
@@ -1381,6 +1381,7 @@ zgsdk.zhugeio.com
 .metrics.ctvdigital.net
 .metrics.ee.co.uk
 .metrics.extremetech.com
+.metrics.getvitals.io
 .metrics.n-tv.de
 .metrics.readme.io
 .metrics.scribblelive.com
@@ -1513,6 +1514,7 @@ zgsdk.zhugeio.com
 .p.aty.sohu.com
 .p.eyebuydirect-cmr.net
 .p.gazeta.pl
+.p.kolplay.com
 .p.milliyet.com.tr
 .p.pagesjaunes.fr
 .p.tencentmind.com
@@ -1726,6 +1728,7 @@ zgsdk.zhugeio.com
 .responder.wt.heise.de
 .response.pure360.com
 .retargeting.vistaprint.com
+.retcode.taobao.com
 .retrack.q-divisioncdn.de
 .revsci.tvguide.com
 .rich-agent.s3.amazonaws.com
@@ -2252,6 +2255,7 @@ zgsdk.zhugeio.com
 .tag.boulanger.fr
 .tag.brandcdn.com
 .tag.cribnotes.jp
+.tag.elevaate.io
 .tag.goldenbees.fr
 .tag.leadplace.fr
 .tag.myplay.com
@@ -2264,6 +2268,7 @@ zgsdk.zhugeio.com
 .tagger.opecloud.com
 .tagm.tchibo.de
 .tags.cdn.circlesix.co
+.tags.clickagy.com
 .tags.creativille.co.uk
 .tags.master-perf-tools.com
 .tags.msnbc.com

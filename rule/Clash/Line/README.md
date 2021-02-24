@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-16 03:25:50。
+最后检查时间：2021-02-24 02:45:10.768870。
 
 ## 规则统计
 
@@ -41,16 +41,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 当前分流规则，未包含其他子规则。
 
 
-当前分流规则，与本项目其他分流规则重复情况统计(点击重复数量可查看明细)。
 
-
-
-| 名称 | 数量 | 重复 | 重合度 |
-| ---- | ---- | ---- | ------ |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 27846   | [20](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Line/Line_Repeat.list)   |   0.07% |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 1254   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Line/Line_Repeat.list)   |   0.56% |
-|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 769   | [19](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Line/Line_Repeat.list)   |   2.47% |
-|  [LineTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/LineTV)    | 7   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Line/Line_Repeat.list)   |   28.57% |
+Line分流规则，与本项目其他分流规则没有重复。
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

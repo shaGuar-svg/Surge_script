@@ -8,18 +8,18 @@
 
 
 
-最后检查时间：2021-01-16 03:25:52。
+最后检查时间：2021-02-24 02:45:20.854325。
 
 ## 规则统计
 
-总计规则：4 条。
+总计规则：18 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 1 |
-| DOMAIN-SUFFIX | 3 |
+| DOMAIN-SUFFIX | 17 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -41,15 +41,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 当前分流规则，未包含其他子规则。
 
 
-当前分流规则，与本项目其他分流规则重复情况统计(点击重复数量可查看明细)。
 
-
-
-| 名称 | 数量 | 重复 | 重合度 |
-| ---- | ---- | ---- | ------ |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/China)    | 688   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Himalaya/Himalaya_Repeat.list)   |   0.29% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/ChinaTest)    | 72126   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Himalaya/Himalaya_Repeat.list)   |   0.0% |
-|  [XiMaLaYa](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/XiMaLaYa)    | 16   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Himalaya/Himalaya_Repeat.list)   |   12.5% |
+喜马拉雅分流规则，与本项目其他分流规则没有重复。
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
@@ -59,6 +52,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Ximalaya.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Podcast/Himalaya.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/XiMaLaYa.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。

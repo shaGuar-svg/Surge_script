@@ -1,7 +1,7 @@
 #!name=WhiteList MITM
-#!desc=最后更新时间 2021-01-16 03:25:10
+#!desc=最后更新时间 2021-02-24 02:44:34.386725
 #!author=blackmatrix7
-#!github=https://github.com/blackmatrix7/ios_rule_script
+#!github=
 #!mitm=2
 
 [MITM]

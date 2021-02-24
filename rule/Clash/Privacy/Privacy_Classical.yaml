@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-16 03:25:15
+# UPDATED: 2021-02-24 02:44:38.553764
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 2812
+# DOMAIN-SUFFIX: 2817
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2834
+# TOTAL: 2839
 payload:
   - DOMAIN,data.mistat.xiaomi.com
   - DOMAIN,hm.baidu.com
@@ -181,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.linktr.ee
   - DOMAIN-SUFFIX,analytics.live.com
   - DOMAIN-SUFFIX,analytics.liveact.cri-mw.jp
+  - DOMAIN-SUFFIX,analytics.livehindustan.com
   - DOMAIN-SUFFIX,analytics.livestream.com
   - DOMAIN-SUFFIX,analytics.localytics.com
   - DOMAIN-SUFFIX,analytics.logsss.com
@@ -289,6 +290,7 @@ payload:
   - DOMAIN-SUFFIX,andoveradvertiser-gb.andoveradvertiser.co.uk
   - DOMAIN-SUFFIX,anon-stats.eff.org
   - DOMAIN-SUFFIX,anti-bot.baidu.com
+  - DOMAIN-SUFFIX,aorta.clickagy.com
   - DOMAIN-SUFFIX,ape-tagit.timeinc.net
   - DOMAIN-SUFFIX,apester.com/event
   - DOMAIN-SUFFIX,api.nobeta.com.br
@@ -591,6 +593,7 @@ payload:
   - DOMAIN-SUFFIX,collector.ksax.com
   - DOMAIN-SUFFIX,collector.kstptv5.com
   - DOMAIN-SUFFIX,collector.mazeberry.com
+  - DOMAIN-SUFFIX,collector.ozeex.com
   - DOMAIN-SUFFIX,collector.prod.expedia.com
   - DOMAIN-SUFFIX,collector.rn.de
   - DOMAIN-SUFFIX,collector.roistat.com
@@ -742,7 +745,6 @@ payload:
   - DOMAIN-SUFFIX,dc.banggood.com
   - DOMAIN-SUFFIX,dc.letv.com
   - DOMAIN-SUFFIX,dccss.banggood.com
-  - DOMAIN-SUFFIX,dcf.espn.com
   - DOMAIN-SUFFIX,dd.nytimes.com
   - DOMAIN-SUFFIX,de-mi-nis-ner.info
   - DOMAIN-SUFFIX,de-mi-nis-ner2.info
@@ -1009,7 +1011,6 @@ payload:
   - DOMAIN-SUFFIX,g2575096355.co
   - DOMAIN-SUFFIX,g2773180690.co
   - DOMAIN-SUFFIX,g2971265025.co
-  - DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
   - DOMAIN-SUFFIX,g3169349360.co
   - DOMAIN-SUFFIX,g3367433695.co
   - DOMAIN-SUFFIX,g3565518030.co
@@ -1172,7 +1173,6 @@ payload:
   - DOMAIN-SUFFIX,imx.comedycentral.com
   - DOMAIN-SUFFIX,infinityid.condenastdigital.com
   - DOMAIN-SUFFIX,informers.sinoptik.ua
-  - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,inquiries.redhat.com
   - DOMAIN-SUFFIX,insight.fonecta.fi
   - DOMAIN-SUFFIX,insights.algolia.io
@@ -1382,6 +1382,7 @@ payload:
   - DOMAIN-SUFFIX,metrics.ctvdigital.net
   - DOMAIN-SUFFIX,metrics.ee.co.uk
   - DOMAIN-SUFFIX,metrics.extremetech.com
+  - DOMAIN-SUFFIX,metrics.getvitals.io
   - DOMAIN-SUFFIX,metrics.n-tv.de
   - DOMAIN-SUFFIX,metrics.readme.io
   - DOMAIN-SUFFIX,metrics.scribblelive.com
@@ -1514,6 +1515,7 @@ payload:
   - DOMAIN-SUFFIX,p.aty.sohu.com
   - DOMAIN-SUFFIX,p.eyebuydirect-cmr.net
   - DOMAIN-SUFFIX,p.gazeta.pl
+  - DOMAIN-SUFFIX,p.kolplay.com
   - DOMAIN-SUFFIX,p.milliyet.com.tr
   - DOMAIN-SUFFIX,p.pagesjaunes.fr
   - DOMAIN-SUFFIX,p.tencentmind.com
@@ -1727,6 +1729,7 @@ payload:
   - DOMAIN-SUFFIX,responder.wt.heise.de
   - DOMAIN-SUFFIX,response.pure360.com
   - DOMAIN-SUFFIX,retargeting.vistaprint.com
+  - DOMAIN-SUFFIX,retcode.taobao.com
   - DOMAIN-SUFFIX,retrack.q-divisioncdn.de
   - DOMAIN-SUFFIX,revsci.tvguide.com
   - DOMAIN-SUFFIX,rich-agent.s3.amazonaws.com
@@ -2253,6 +2256,7 @@ payload:
   - DOMAIN-SUFFIX,tag.boulanger.fr
   - DOMAIN-SUFFIX,tag.brandcdn.com
   - DOMAIN-SUFFIX,tag.cribnotes.jp
+  - DOMAIN-SUFFIX,tag.elevaate.io
   - DOMAIN-SUFFIX,tag.goldenbees.fr
   - DOMAIN-SUFFIX,tag.leadplace.fr
   - DOMAIN-SUFFIX,tag.myplay.com
@@ -2265,6 +2269,7 @@ payload:
   - DOMAIN-SUFFIX,tagger.opecloud.com
   - DOMAIN-SUFFIX,tagm.tchibo.de
   - DOMAIN-SUFFIX,tags.cdn.circlesix.co
+  - DOMAIN-SUFFIX,tags.clickagy.com
   - DOMAIN-SUFFIX,tags.creativille.co.uk
   - DOMAIN-SUFFIX,tags.master-perf-tools.com
   - DOMAIN-SUFFIX,tags.msnbc.com
