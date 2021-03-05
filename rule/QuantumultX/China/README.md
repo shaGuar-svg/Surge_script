@@ -8,21 +8,21 @@
 
 
 
-最后检查时间：2021-02-24 02:44:58.250172。
+最后检查时间：2021-03-05 02:45:04.481365。
 
 ## 规则统计
 
-总计规则：739 条。
+总计规则：741 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 628 |
+| HOST-SUFFIX | 629 |
 | USER-AGENT | 32 |
-| HOST-KEYWORD | 12 |
 | HOST | 15 |
-| IP-CIDR | 48 |
+| IP-CIDR | 50 |
+| HOST-KEYWORD | 11 |
 | IP6-CIDR | 4 |
 ## 配置说明
 
@@ -53,15 +53,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 | ---- | ---- | ---- | ------ |
 |  [DanDanZan](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/DanDanZan)    | 7   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   100.0% |
 |  [Clubhouse](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Clubhouse)    | 48   | [44](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   91.67% |
-|  [Sony](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Sony)    | 6   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   83.33% |
-|  [Scholar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar)    | 76   | [56](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   73.68% |
 |  [MeiTuan](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/MeiTuan)    | 7   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   71.43% |
 |  [TeamViewer](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/TeamViewer)    | 10   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   50.0% |
 |  [ClubhouseIP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ClubhouseIP)    | 83   | [37](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   44.58% |
 |  [YYeTs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YYeTs)    | 21   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   42.86% |
 |  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/SteamCN)    | 14   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   35.71% |
+|  [Scholar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar)    | 177   | [56](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   31.64% |
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Microsoft)    | 99   | [30](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   30.3% |
-|  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AsianMedia)    | 27   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   29.63% |
 |  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Steam)    | 32   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   25.0% |
 |  [DiDi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/DiDi)    | 25   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China_Repeat.list)   |   20.0% |
 ### 特别说明

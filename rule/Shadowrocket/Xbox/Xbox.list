@@ -1,9 +1,9 @@
 # NAME: Xbox
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-24 02:44:40.525285
-# DOMAIN-SUFFIX: 34
-# TOTAL: 34
+# UPDATED: 2021-03-05 02:44:41.702502
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
+DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com

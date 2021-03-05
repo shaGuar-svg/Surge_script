@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-24 02:44:35.319684
+# UPDATED: 2021-03-05 02:44:35.499692
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 15241
-# HOST: 15496
+# HOST-SUFFIX: 15240
+# HOST: 15418
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30957
+# TOTAL: 30878
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -32,7 +32,6 @@ HOST,0591101.com,AdvertisingLite
 HOST,059e025e7484.com,AdvertisingLite
 HOST,05ee3a24ed11df058c8.com,AdvertisingLite
 HOST,06f09b1008ae993a5a.com,AdvertisingLite
-HOST,073c0cec65916314a.com,AdvertisingLite
 HOST,0885.net,AdvertisingLite
 HOST,0926a687679d337e9d.com,AdvertisingLite
 HOST,0956228a2df97a.com,AdvertisingLite
@@ -124,7 +123,6 @@ HOST,158aq.com,AdvertisingLite
 HOST,15gifts.com,AdvertisingLite
 HOST,15tianqi.com,AdvertisingLite
 HOST,15yomodels.com,AdvertisingLite
-HOST,165a7c15380874ef3.com,AdvertisingLite
 HOST,166br.com,AdvertisingLite
 HOST,168logger.com,AdvertisingLite
 HOST,16e2ae8f200d975b.com,AdvertisingLite
@@ -156,7 +154,6 @@ HOST,1freecounter.com,AdvertisingLite
 HOST,1fwjpdwguvqs.com,AdvertisingLite
 HOST,1han-rit-ten.com,AdvertisingLite
 HOST,1hanritten.com,AdvertisingLite
-HOST,1lo0.net,AdvertisingLite
 HOST,1loop.com,AdvertisingLite
 HOST,1nimo.com,AdvertisingLite
 HOST,1pel.com,AdvertisingLite
@@ -391,6 +388,7 @@ HOST,53kf.com,AdvertisingLite
 HOST,53m.kuk8.com,AdvertisingLite
 HOST,53s.kuk8.com,AdvertisingLite
 HOST,54kefu.net,AdvertisingLite
+HOST,555vps.cn,AdvertisingLite
 HOST,55803.net,AdvertisingLite
 HOST,55labs.com,AdvertisingLite
 HOST,564d28256cddaeba.com,AdvertisingLite
@@ -420,6 +418,7 @@ HOST,5etv.com,AdvertisingLite
 HOST,5eyz.flzee.com,AdvertisingLite
 HOST,5f8fbbfc2244adc9.com,AdvertisingLite
 HOST,5leji.com,AdvertisingLite
+HOST,5mnh.com,AdvertisingLite
 HOST,5nt1gx7o57.com,AdvertisingLite
 HOST,5qg9ibt1a6.com,AdvertisingLite
 HOST,5ubei.com,AdvertisingLite
@@ -482,6 +481,7 @@ HOST,7.iscrv.com,AdvertisingLite
 HOST,7017042b83a65ea.com,AdvertisingLite
 HOST,70ee6484605f.com,AdvertisingLite
 HOST,70fd25cf5a7b1c57.com,AdvertisingLite
+HOST,710070.com,AdvertisingLite
 HOST,71a30cae934e.com,AdvertisingLite
 HOST,71bcab8994dbe2.com,AdvertisingLite
 HOST,71d7511a4861068.com,AdvertisingLite
@@ -538,14 +538,12 @@ HOST,7o2o.com,AdvertisingLite
 HOST,7pud.com,AdvertisingLite
 HOST,7search.com,AdvertisingLite
 HOST,7ssw.cn,AdvertisingLite
-HOST,7t15ny0f4f.top,AdvertisingLite
 HOST,7wtic7ru.com,AdvertisingLite
 HOST,7x-star.info,AdvertisingLite
 HOST,7x4.fr,AdvertisingLite
 HOST,7x5.fr,AdvertisingLite
 HOST,8.jrj.com.cn,AdvertisingLite
 HOST,800d24d61daea3c.com,AdvertisingLite
-HOST,8020home.com.cn,AdvertisingLite
 HOST,8020solutions.net,AdvertisingLite
 HOST,8080i.com,AdvertisingLite
 HOST,8092686a39ac5.com,AdvertisingLite
@@ -653,6 +651,7 @@ HOST,a-ssl.ligatus.com,AdvertisingLite
 HOST,a-sta-cn.upltv.com,AdvertisingLite
 HOST,a-static.com,AdvertisingLite
 HOST,a.19869.com,AdvertisingLite
+HOST,a.77shw.com,AdvertisingLite
 HOST,a.90370.com,AdvertisingLite
 HOST,a.adtng.com,AdvertisingLite
 HOST,a.aspnet.tech,AdvertisingLite
@@ -771,7 +770,6 @@ HOST,absurdapple.com,AdvertisingLite
 HOST,abtrcking.com,AdvertisingLite
 HOST,abtshield.com,AdvertisingLite
 HOST,abusedbabysitters.com,AdvertisingLite
-HOST,abwsunml.com,AdvertisingLite
 HOST,ac.dun.163yun.com,AdvertisingLite
 HOST,acales.ru,AdvertisingLite
 HOST,acc-hd.de,AdvertisingLite
@@ -797,7 +795,6 @@ HOST,acgbenzi.com,AdvertisingLite
 HOST,achicih.gitee.io,AdvertisingLite
 HOST,achren.org,AdvertisingLite
 HOST,acidpigs.com,AdvertisingLite
-HOST,acinfxei.com,AdvertisingLite
 HOST,ackbure.pro,AdvertisingLite
 HOST,acloudimages.com,AdvertisingLite
 HOST,acloudvideos.com,AdvertisingLite
@@ -847,7 +844,6 @@ HOST,ad-clicks.com,AdvertisingLite
 HOST,ad-display.wikawika.xyz,AdvertisingLite
 HOST,ad-flow.com,AdvertisingLite
 HOST,ad-gbn.com,AdvertisingLite
-HOST,ad-goi.com,AdvertisingLite
 HOST,ad-indicator.com,AdvertisingLite
 HOST,ad-m.asia,AdvertisingLite
 HOST,ad-mapps.com,AdvertisingLite
@@ -952,9 +948,9 @@ HOST,adcdn.hpplay.cn,AdvertisingLite
 HOST,adcell.com,AdvertisingLite
 HOST,adcell.de,AdvertisingLite
 HOST,adcentriconline.com,AdvertisingLite
-HOST,adcfrthyo.tk,AdvertisingLite
 HOST,adchap.com,AdvertisingLite
 HOST,adchemical.com,AdvertisingLite
+HOST,adchemix.com,AdvertisingLite
 HOST,adchemy-content.com,AdvertisingLite
 HOST,adchemy.com,AdvertisingLite
 HOST,adchina.cc,AdvertisingLite
@@ -1040,6 +1036,7 @@ HOST,adgitize.com,AdvertisingLite
 HOST,adgjl13.com,AdvertisingLite
 HOST,adglare.net,AdvertisingLite
 HOST,adglare.org,AdvertisingLite
+HOST,adglaze.com,AdvertisingLite
 HOST,adgoi.com,AdvertisingLite
 HOST,adgoji.com,AdvertisingLite
 HOST,adgomob.com,AdvertisingLite
@@ -1200,13 +1197,11 @@ HOST,adnz.co,AdvertisingLite
 HOST,adobeflashupdate14.com,AdvertisingLite
 HOST,adobetag.com,AdvertisingLite
 HOST,adocean.pl,AdvertisingLite
-HOST,adofqudjesh.com,AdvertisingLite
 HOST,adoftheyear.com,AdvertisingLite
 HOST,adohana.com,AdvertisingLite
 HOST,adomic.com,AdvertisingLite
 HOST,adomik.com,AdvertisingLite
 HOST,adondemand.com,AdvertisingLite
-HOST,adonion.com,AdvertisingLite
 HOST,adonly.com,AdvertisingLite
 HOST,adonnews.com,AdvertisingLite
 HOST,adonweb.ru,AdvertisingLite
@@ -1227,7 +1222,6 @@ HOST,adpass.co.uk,AdvertisingLite
 HOST,adpaths.com,AdvertisingLite
 HOST,adpay.com,AdvertisingLite
 HOST,adpays.net,AdvertisingLite
-HOST,adpdx.com,AdvertisingLite
 HOST,adperfect.com,AdvertisingLite
 HOST,adpick.co.kr,AdvertisingLite
 HOST,adpies.com,AdvertisingLite
@@ -1525,7 +1519,6 @@ HOST,adurr.com,AdvertisingLite
 HOST,adv-adlog.variflight.com,AdvertisingLite
 HOST,adv-ads.variflight.com,AdvertisingLite
 HOST,adv-adserver.com,AdvertisingLite
-HOST,adv-plus.com,AdvertisingLite
 HOST,adv.ettoday.net,AdvertisingLite
 HOST,adv.riza.it,AdvertisingLite
 HOST,adv9.net,AdvertisingLite
@@ -1542,7 +1535,6 @@ HOST,advconversion.com,AdvertisingLite
 HOST,adventori.com,AdvertisingLite
 HOST,adventory.com,AdvertisingLite
 HOST,adventurefeeds.com,AdvertisingLite
-HOST,adver.com.tw,AdvertisingLite
 HOST,adverigo.com,AdvertisingLite
 HOST,adverkeyz.com,AdvertisingLite
 HOST,adverpub.com,AdvertisingLite
@@ -1592,6 +1584,7 @@ HOST,advg.jp,AdvertisingLite
 HOST,advideum.com,AdvertisingLite
 HOST,advinci.co,AdvertisingLite
 HOST,advinci.net,AdvertisingLite
+HOST,adviralmedia.com,AdvertisingLite
 HOST,advise.co,AdvertisingLite
 HOST,advisorded.com,AdvertisingLite
 HOST,adviva.net,AdvertisingLite
@@ -1762,6 +1755,7 @@ HOST,afgr7.com,AdvertisingLite
 HOST,afgr8.com,AdvertisingLite
 HOST,afgr9.com,AdvertisingLite
 HOST,afp.qiyi.com,AdvertisingLite
+HOST,afqveoju.com,AdvertisingLite
 HOST,afraidlanguage.com,AdvertisingLite
 HOST,africawin.com,AdvertisingLite
 HOST,afriflatry.co,AdvertisingLite
@@ -1772,6 +1766,7 @@ HOST,afterdownloads.com,AdvertisingLite
 HOST,aftv-serving.bid,AdvertisingLite
 HOST,afzfzhbk.com,AdvertisingLite
 HOST,ag.qq.com,AdvertisingLite
+HOST,ag2hqdyt.site,AdvertisingLite
 HOST,againstanctu.info,AdvertisingLite
 HOST,agcdn.com,AdvertisingLite
 HOST,agd.p.360.cn,AdvertisingLite
@@ -1790,7 +1785,9 @@ HOST,agsteier.com,AdvertisingLite
 HOST,agtr.ahksqc.com.cn,AdvertisingLite
 HOST,aguo.com,AdvertisingLite
 HOST,agxclick.com,AdvertisingLite
+HOST,agzfxovg.com,AdvertisingLite
 HOST,ahalogy.com,AdvertisingLite
+HOST,ahbcagaazvtuh.com,AdvertisingLite
 HOST,ahd.ruten.com.tw,AdvertisingLite
 HOST,aheadday.com,AdvertisingLite
 HOST,ahfbb.com,AdvertisingLite
@@ -1800,6 +1797,7 @@ HOST,ahrbsdyjux.com,AdvertisingLite
 HOST,ahstrelgnh.com,AdvertisingLite
 HOST,ahxhny.cn,AdvertisingLite
 HOST,ahyhhxpeeswgtl.com,AdvertisingLite
+HOST,aibantian.cn,AdvertisingLite
 HOST,aiclicash.com,AdvertisingLite
 HOST,aicontents.net,AdvertisingLite
 HOST,aid-ad.jp,AdvertisingLite
@@ -1838,7 +1836,6 @@ HOST,ajansreklam.net,AdvertisingLite
 HOST,ajewishgift.com,AdvertisingLite
 HOST,ajillionmax.com,AdvertisingLite
 HOST,ajjhtetv87.com,AdvertisingLite
-HOST,ajjsffefpooknd.com,AdvertisingLite
 HOST,ajkrls.com,AdvertisingLite
 HOST,ajkzd9h.com,AdvertisingLite
 HOST,ak.imgaft.com,AdvertisingLite
@@ -1902,7 +1899,6 @@ HOST,alloydigital.com,AdvertisingLite
 HOST,allpass.salemwebnetwork.com,AdvertisingLite
 HOST,allsporttv.com,AdvertisingLite
 HOST,alltracked.com,AdvertisingLite
-HOST,allxscan.tk,AdvertisingLite
 HOST,allyes.com.cn,AdvertisingLite
 HOST,alma-cmp.almamedia.io,AdvertisingLite
 HOST,alnsvbmp.com,AdvertisingLite
@@ -2051,7 +2047,6 @@ HOST,aobyp1una641o8.com,AdvertisingLite
 HOST,aod-image-material.bj.bcebos.com,AdvertisingLite
 HOST,aod-image.baidu.com,AdvertisingLite
 HOST,aomeng.net,AdvertisingLite
-HOST,aomwoygnj.com,AdvertisingLite
 HOST,aoovqo8t.stats.lncld.net,AdvertisingLite
 HOST,aoparking.com,AdvertisingLite
 HOST,aoredi.com,AdvertisingLite
@@ -2063,7 +2058,6 @@ HOST,ap.ksrong.com,AdvertisingLite
 HOST,ape78cn2.com,AdvertisingLite
 HOST,apendit.com,AdvertisingLite
 HOST,apester.com,AdvertisingLite
-HOST,apex-ad.com,AdvertisingLite
 HOST,apexcdn.com,AdvertisingLite
 HOST,apexstats.com,AdvertisingLite
 HOST,apextag.com,AdvertisingLite
@@ -2179,11 +2173,11 @@ HOST,arcadechain.com,AdvertisingLite
 HOST,arcadeweb.com,AdvertisingLite
 HOST,area.baomihua.com,AdvertisingLite
 HOST,areandarm.com,AdvertisingLite
-HOST,arearmark.club,AdvertisingLite
 HOST,areasnap.com,AdvertisingLite
 HOST,arena-quantum.co.uk,AdvertisingLite
 HOST,arfeservation.info,AdvertisingLite
 HOST,arianelab.com,AdvertisingLite
+HOST,aribcosw.com,AdvertisingLite
 HOST,arizona-miner.tk,AdvertisingLite
 HOST,arkalealb.site,AdvertisingLite
 HOST,arkayne.com,AdvertisingLite
@@ -2214,6 +2208,7 @@ HOST,ashemeth.com,AdvertisingLite
 HOST,asiafriendfinder.com,AdvertisingLite
 HOST,asiangfsex.com,AdvertisingLite
 HOST,asimov-win.settings.data.microsoft.com.akadns.net,AdvertisingLite
+HOST,askallalb.club,AdvertisingLite
 HOST,askhilltop.com,AdvertisingLite
 HOST,asklots.com,AdvertisingLite
 HOST,aso1.net,AdvertisingLite
@@ -2257,7 +2252,6 @@ HOST,at2.doubanio.com,AdvertisingLite
 HOST,atacjnqbkok.com,AdvertisingLite
 HOST,atadserver.com,AdvertisingLite
 HOST,atatus.com,AdvertisingLite
-HOST,atcanjhcv.com,AdvertisingLite
 HOST,atemda.com,AdvertisingLite
 HOST,atgsvcs.com,AdvertisingLite
 HOST,athenainstitute.biz,AdvertisingLite
@@ -2278,6 +2272,7 @@ HOST,atticwicket.com,AdvertisingLite
 HOST,attracta.com,AdvertisingLite
 HOST,attractivecap.com,AdvertisingLite
 HOST,attributionapp.com,AdvertisingLite
+HOST,atvbrhljmsor.com,AdvertisingLite
 HOST,au2m8.com,AdvertisingLite
 HOST,auctionnudge.com,AdvertisingLite
 HOST,audience.systems,AdvertisingLite
@@ -2353,6 +2348,7 @@ HOST,awestatic.com,AdvertisingLite
 HOST,awgsmfzrslcp.com,AdvertisingLite
 HOST,awifi.cn,AdvertisingLite
 HOST,awin1.com,AdvertisingLite
+HOST,awjyickdugj.com,AdvertisingLite
 HOST,awltovhc.com,AdvertisingLite
 HOST,awmpartners.com,AdvertisingLite
 HOST,awmserve.com,AdvertisingLite
@@ -2379,8 +2375,6 @@ HOST,ayads.co,AdvertisingLite
 HOST,ayboll.com,AdvertisingLite
 HOST,ayc0zsm69431gfebd.info,AdvertisingLite
 HOST,ayc0zsm69431gfebd.xyz,AdvertisingLite
-HOST,ayfigdhmsypnr.com,AdvertisingLite
-HOST,aysydyqpkg.com,AdvertisingLite
 HOST,az693360.vo.msecnd.net,AdvertisingLite
 HOST,azadify.com,AdvertisingLite
 HOST,azads.com,AdvertisingLite
@@ -2390,13 +2384,16 @@ HOST,azdqwztcp.com,AdvertisingLite
 HOST,azera-s014.com,AdvertisingLite
 HOST,azjmp.com,AdvertisingLite
 HOST,aznapoz.info,AdvertisingLite
+HOST,aznuqxmji.com,AdvertisingLite
 HOST,azointel.com,AdvertisingLite
 HOST,azoos.csheaven.com,AdvertisingLite
 HOST,azorbe.com,AdvertisingLite
+HOST,azsikvmhlzuhje.com,AdvertisingLite
 HOST,aztecash.com,AdvertisingLite
 HOST,azvjudwr.info,AdvertisingLite
 HOST,b-m.xyz,AdvertisingLite
 HOST,b.19869.com,AdvertisingLite
+HOST,b.77shw.com,AdvertisingLite
 HOST,b.a0trade.top,AdvertisingLite
 HOST,b.gushiciju.com,AdvertisingLite
 HOST,b.hatena.ne.jp,AdvertisingLite
@@ -2582,10 +2579,11 @@ HOST,bc0a.com,AdvertisingLite
 HOST,bcash4you.com,AdvertisingLite
 HOST,bcfeedback.taobao.com,AdvertisingLite
 HOST,bcloudhost.com,AdvertisingLite
-HOST,bcngvwvewfvw.com,AdvertisingLite
 HOST,bcode.zhantai.com,AdvertisingLite
 HOST,bcvcmedia.com,AdvertisingLite
+HOST,bcvxpffzmkqf.com,AdvertisingLite
 HOST,bd.hao224.com,AdvertisingLite
+HOST,bd.m.biqugeso.com,AdvertisingLite
 HOST,bd1.heiguang.cn,AdvertisingLite
 HOST,bd1.idgdmg.com.cn,AdvertisingLite
 HOST,bd1.idgdmgroup.com.cn,AdvertisingLite
@@ -2618,6 +2616,7 @@ HOST,beacon2.indieclicktv.com,AdvertisingLite
 HOST,beaconads.com,AdvertisingLite
 HOST,beaconstreetservices.com,AdvertisingLite
 HOST,beampulse.com,AdvertisingLite
+HOST,beanscattering.jp,AdvertisingLite
 HOST,beanstalkdata.com,AdvertisingLite
 HOST,beanstock.com,AdvertisingLite
 HOST,beap.gemini.yahoo.com,AdvertisingLite
@@ -2632,7 +2631,6 @@ HOST,become.successfultogether.co.uk,AdvertisingLite
 HOST,becomedebtfree.com.au,AdvertisingLite
 HOST,becoquin.com,AdvertisingLite
 HOST,bedorm.com,AdvertisingLite
-HOST,bedsbreath.com,AdvertisingLite
 HOST,bee.kascend.com,AdvertisingLite
 HOST,beead.co.uk,AdvertisingLite
 HOST,beead.net,AdvertisingLite
@@ -2898,7 +2896,6 @@ HOST,bluposr.com,AdvertisingLite
 HOST,blvdstatus.com,AdvertisingLite
 HOST,bm23.com,AdvertisingLite
 HOST,bm324.com,AdvertisingLite
-HOST,bmayyviswklkd.com,AdvertisingLite
 HOST,bmlmedia.com,AdvertisingLite
 HOST,bmmetrix.com,AdvertisingLite
 HOST,bmvjnewxkyi.com,AdvertisingLite
@@ -2911,6 +2908,7 @@ HOST,bnrdom.com,AdvertisingLite
 HOST,bnrs.it,AdvertisingLite
 HOST,bnrslks.com,AdvertisingLite
 HOST,bnserving.com,AdvertisingLite
+HOST,bnsoutlaws.co.uk,AdvertisingLite
 HOST,bntech.io,AdvertisingLite
 HOST,bnuni.com,AdvertisingLite
 HOST,bo-videos.s3.amazonaws.com,AdvertisingLite
@@ -2928,6 +2926,7 @@ HOST,bonad.io,AdvertisingLite
 HOST,bongacams.com,AdvertisingLite
 HOST,bonitrust.de,AdvertisingLite
 HOST,bonnieradnetwork.se,AdvertisingLite
+HOST,bonugmdpqyvjc.com,AdvertisingLite
 HOST,bonuscounter.de,AdvertisingLite
 HOST,bonzai.ad,AdvertisingLite
 HOST,bonzuna.com,AdvertisingLite
@@ -3013,6 +3012,7 @@ HOST,brightshare.com,AdvertisingLite
 HOST,brilig.com,AdvertisingLite
 HOST,bringmesports.com,AdvertisingLite
 HOST,bristlyapace.com,AdvertisingLite
+HOST,brlfycvtbo.com,AdvertisingLite
 HOST,broadcastbed.com,AdvertisingLite
 HOST,broaddoor.com,AdvertisingLite
 HOST,broadstreetads.com,AdvertisingLite
@@ -3050,7 +3050,6 @@ HOST,btnibbler.com,AdvertisingLite
 HOST,btonzfjleinuax.com,AdvertisingLite
 HOST,btovopyov.com,AdvertisingLite
 HOST,btpnav.com,AdvertisingLite
-HOST,btrdlsehltu.com,AdvertisingLite
 HOST,btrll.com,AdvertisingLite
 HOST,btserve.com,AdvertisingLite
 HOST,btstatic.com,AdvertisingLite
@@ -3064,6 +3063,7 @@ HOST,budgetedbauer.com,AdvertisingLite
 HOST,budurl.com,AdvertisingLite
 HOST,bufferapp.com,AdvertisingLite
 HOST,bugherd.com,AdvertisingLite
+HOST,buildtrafficx.com,AdvertisingLite
 HOST,buildviet.info,AdvertisingLite
 HOST,buleor.com,AdvertisingLite
 HOST,bulkhentai.com,AdvertisingLite
@@ -3098,7 +3098,6 @@ HOST,buttons.reddit.com,AdvertisingLite
 HOST,bux1le001.com,AdvertisingLite
 HOST,buxept.com,AdvertisingLite
 HOST,buxflow.com,AdvertisingLite
-HOST,buxmllzyoxnr.com,AdvertisingLite
 HOST,buxp.org,AdvertisingLite
 HOST,buyflood.com,AdvertisingLite
 HOST,buyorselltnhomes.com,AdvertisingLite
@@ -3119,7 +3118,7 @@ HOST,buzzparadise.com,AdvertisingLite
 HOST,buzzzoo.net,AdvertisingLite
 HOST,bvakl.ifeng.com,AdvertisingLite
 HOST,bvflzrtmcssyea.com,AdvertisingLite
-HOST,bwaguyek.com,AdvertisingLite
+HOST,bwhkzhvq.com,AdvertisingLite
 HOST,bwinpartypartners.com,AdvertisingLite
 HOST,bxg68.com,AdvertisingLite
 HOST,bxgjpocfz1g1jiwb.pro,AdvertisingLite
@@ -3128,6 +3127,7 @@ HOST,bxs.bilandgo.com,AdvertisingLite
 HOST,by98.com,AdvertisingLite
 HOST,byaqcsehcj.com,AdvertisingLite
 HOST,byebye.ml,AdvertisingLite
+HOST,byfgrwrpqjdkj.com,AdvertisingLite
 HOST,byspot.com,AdvertisingLite
 HOST,bystfied.pro,AdvertisingLite
 HOST,bytemgdd.com,AdvertisingLite
@@ -3152,10 +3152,12 @@ HOST,c.greystripe.com,AdvertisingLite
 HOST,c.hit.ua,AdvertisingLite
 HOST,c.iche88.cn,AdvertisingLite
 HOST,c.j782e.cn,AdvertisingLite
+HOST,c.jntxst.cn,AdvertisingLite
 HOST,c.lattebank.com,AdvertisingLite
 HOST,c.paypal.com,AdvertisingLite
 HOST,c.pub.network,AdvertisingLite
 HOST,c.qhruixin.cn,AdvertisingLite
+HOST,c.sixiuwl.cn,AdvertisingLite
 HOST,c.ssp.qq.com,AdvertisingLite
 HOST,c.vrvm.com,AdvertisingLite
 HOST,c.vserv.mobi,AdvertisingLite
@@ -3278,6 +3280,7 @@ HOST,cashbigo.com,AdvertisingLite
 HOST,cashburners.com,AdvertisingLite
 HOST,cashcave.net,AdvertisingLite
 HOST,cashcount.com,AdvertisingLite
+HOST,cashinme.com,AdvertisingLite
 HOST,cashlayer.com,AdvertisingLite
 HOST,cashmylinks.com,AdvertisingLite
 HOST,cashthat.com,AdvertisingLite
@@ -3331,7 +3334,6 @@ HOST,cdn.optmd.com,AdvertisingLite
 HOST,cdn.rhombusads.com,AdvertisingLite
 HOST,cdn.segment.io,AdvertisingLite
 HOST,cdn.static-cnt.bid,AdvertisingLite
-HOST,cdn.surroundtm.com,AdvertisingLite
 HOST,cdn.taboola.com.cn,AdvertisingLite
 HOST,cdn.trafficexchangelist.com,AdvertisingLite
 HOST,cdn.trafficforce.com,AdvertisingLite
@@ -3343,7 +3345,6 @@ HOST,cdn2.crispadvertising.com,AdvertisingLite
 HOST,cdn7.network,AdvertisingLite
 HOST,cdn7.rocks,AdvertisingLite
 HOST,cdna.tremormedia.com,AdvertisingLite
-HOST,cdnanalytics.xyz,AdvertisingLite
 HOST,cdnapi.net,AdvertisingLite
 HOST,cdnasjdkajgfhgajfjkagfa.pro,AdvertisingLite
 HOST,cdnativ.com,AdvertisingLite
@@ -3360,7 +3361,6 @@ HOST,cdnquality.com,AdvertisingLite
 HOST,cdnrl.com,AdvertisingLite
 HOST,cdntrf.com,AdvertisingLite
 HOST,cdp.cloud.unity3d.com,AdvertisingLite
-HOST,cdshusen.cn,AdvertisingLite
 HOST,cdvjpzltcouxm.com,AdvertisingLite
 HOST,ce62e0d222bc5aca.com,AdvertisingLite
 HOST,ce9c00f41ae8cdd.com,AdvertisingLite
@@ -3492,7 +3492,6 @@ HOST,cjiv.chengjie168.com.cn,AdvertisingLite
 HOST,cjotzbxtyxwplr.com,AdvertisingLite
 HOST,cjt1.net,AdvertisingLite
 HOST,ck-cdn.com,AdvertisingLite
-HOST,ckotfhgn.com,AdvertisingLite
 HOST,ckrf1.com,AdvertisingLite
 HOST,clarity.ms,AdvertisingLite
 HOST,clarityray.com,AdvertisingLite
@@ -3589,6 +3588,7 @@ HOST,clickonometrics.pl,AdvertisingLite
 HOST,clickopop1000.com,AdvertisingLite
 HOST,clickosmedia.com,AdvertisingLite
 HOST,clickpapa.com,AdvertisingLite
+HOST,clickpartoffon.xyz,AdvertisingLite
 HOST,clickpathmedia.com,AdvertisingLite
 HOST,clickperks.info,AdvertisingLite
 HOST,clickpoint.com,AdvertisingLite
@@ -3657,7 +3657,6 @@ HOST,clubcollector.com,AdvertisingLite
 HOST,cm.dmp.360.cn,AdvertisingLite
 HOST,cm.lianmeng.360.cn,AdvertisingLite
 HOST,cmbestsrv.com,AdvertisingLite
-HOST,cmcintra.net,AdvertisingLite
 HOST,cmfads.com,AdvertisingLite
 HOST,cmfflktyndtqnt.com,AdvertisingLite
 HOST,cmicapui.ce.gov.br,AdvertisingLite
@@ -3724,7 +3723,6 @@ HOST,coinmedia.co,AdvertisingLite
 HOST,coinpot.co,AdvertisingLite
 HOST,cointraffic.io,AdvertisingLite
 HOST,coinwebmining.com,AdvertisingLite
-HOST,coinwire.eu,AdvertisingLite
 HOST,coinzilla.io,AdvertisingLite
 HOST,coinzillatag.com,AdvertisingLite
 HOST,cold-cold-freezing.com,AdvertisingLite
@@ -3757,7 +3755,6 @@ HOST,commdata.v.qq.com,AdvertisingLite
 HOST,commercial.shouji.360.cn,AdvertisingLite
 HOST,commercialvalue.org,AdvertisingLite
 HOST,commission-junction.com,AdvertisingLite
-HOST,commission.bz,AdvertisingLite
 HOST,commissionfactory.com.au,AdvertisingLite
 HOST,commissionlounge.com,AdvertisingLite
 HOST,commissionmonster.com,AdvertisingLite
@@ -3829,6 +3826,7 @@ HOST,content-cooperation.com,AdvertisingLite
 HOST,content-recommendation.net,AdvertisingLite
 HOST,content-square.net,AdvertisingLite
 HOST,content.ad,AdvertisingLite
+HOST,content.liveuniverse.com,AdvertisingLite
 HOST,content.secondspace.com,AdvertisingLite
 HOST,contentcache-a.akamaihd.net,AdvertisingLite
 HOST,contentclick.co.uk,AdvertisingLite
@@ -3961,7 +3959,6 @@ HOST,counteronline.de,AdvertisingLite
 HOST,counters4u.com,AdvertisingLite
 HOST,counterseite.de,AdvertisingLite
 HOST,counterserver.de,AdvertisingLite
-HOST,counterservis.com,AdvertisingLite
 HOST,countersforlife.com,AdvertisingLite
 HOST,counterstation.de,AdvertisingLite
 HOST,counterstatistik.de,AdvertisingLite
@@ -4100,10 +4097,12 @@ HOST,cs.exposedontape.com,AdvertisingLite
 HOST,cs02-pps-drcn.dbankcdn.com,AdvertisingLite
 HOST,csaimall.com,AdvertisingLite
 HOST,csdata1.com,AdvertisingLite
+HOST,csfkhqzegycmux.com,AdvertisingLite
 HOST,csnqzwwdtjg.com,AdvertisingLite
 HOST,cssrvsync.com,AdvertisingLite
 HOST,cstmedia.com.cn,AdvertisingLite
 HOST,cswilliamsburg.com,AdvertisingLite
+HOST,csyjaajr.com,AdvertisingLite
 HOST,cszz.ru,AdvertisingLite
 HOST,ct.eid.co.nz,AdvertisingLite
 HOST,ct.itbusinessedge.com,AdvertisingLite
@@ -4150,7 +4149,6 @@ HOST,cvtr.io,AdvertisingLite
 HOST,cwandzytnzplqn.com,AdvertisingLite
 HOST,cweiwoydalr.com,AdvertisingLite
 HOST,cwkuki.com,AdvertisingLite
-HOST,cwplubzglmfah.com,AdvertisingLite
 HOST,cwsgwqbcdhtk.com,AdvertisingLite
 HOST,cx.v5cam.com,AdvertisingLite
 HOST,cxense.com,AdvertisingLite
@@ -4466,6 +4464,7 @@ HOST,dashbida.com,AdvertisingLite
 HOST,dashboard.io,AdvertisingLite
 HOST,dashboardad.net,AdvertisingLite
 HOST,dat.red,AdvertisingLite
+HOST,data-analytics.jp,AdvertisingLite
 HOST,data-data-vac.com,AdvertisingLite
 HOST,data-dynamic.net,AdvertisingLite
 HOST,data-ero-advertising.com,AdvertisingLite
@@ -4519,7 +4518,6 @@ HOST,dbclix.com,AdvertisingLite
 HOST,dblpmp.com,AdvertisingLite
 HOST,dbnw.jyzmsy.com.cn,AdvertisingLite
 HOST,dbrxdvqz.com,AdvertisingLite
-HOST,dbtlonlnjlnr.com,AdvertisingLite
 HOST,dc-storm.com,AdvertisingLite
 HOST,dc.tremormedia.com,AdvertisingLite
 HOST,dc08i221b0n8a.cloudfront.net,AdvertisingLite
@@ -4530,19 +4528,19 @@ HOST,dc8xl0ndzn2cb.cloudfront.net,AdvertisingLite
 HOST,dcmn.com,AdvertisingLite
 HOST,dcmn.io,AdvertisingLite
 HOST,dcms.1688.com,AdvertisingLite
-HOST,dcqthcwm.com,AdvertisingLite
+HOST,dcwgzqbfl.com,AdvertisingLite
 HOST,dcxmy.com,AdvertisingLite
 HOST,dcxtvftrdd.com,AdvertisingLite
 HOST,dd1.freep.cn,AdvertisingLite
 HOST,dd2.freep.cn,AdvertisingLite
 HOST,dd6zx4ibq538k.cloudfront.net,AdvertisingLite
 HOST,ddd.gouwuke.cn,AdvertisingLite
-HOST,ddf67683e4778d.com,AdvertisingLite
 HOST,ddl.3g567.com,AdvertisingLite
 HOST,ddm.io,AdvertisingLite
 HOST,ddns.name,AdvertisingLite
 HOST,ddvbjehruuj5y.cloudfront.net,AdvertisingLite
 HOST,ddvfoj5yrl2oi.cloudfront.net,AdvertisingLite
+HOST,ddzfjyppcbv.com,AdvertisingLite
 HOST,de17a.com,AdvertisingLite
 HOST,deal.maabm.com,AdvertisingLite
 HOST,dealcurrent.com,AdvertisingLite
@@ -4683,10 +4681,10 @@ HOST,digitalpush.org,AdvertisingLite
 HOST,digitaltarget.ru,AdvertisingLite
 HOST,digitalthrottle.com,AdvertisingLite
 HOST,digitiminimi.com,AdvertisingLite
+HOST,digitrevenue.com,AdvertisingLite
 HOST,dignow.org,AdvertisingLite
 HOST,digreality.com,AdvertisingLite
 HOST,digsby.com,AdvertisingLite
-HOST,dijutbdzbv.com,AdvertisingLite
 HOST,dimarsbg.com,AdvertisingLite
 HOST,dimenal.com.br,AdvertisingLite
 HOST,dimestore.com,AdvertisingLite
@@ -4886,7 +4884,6 @@ HOST,downloadgot.com,AdvertisingLite
 HOST,downloads-whatsapp.com,AdvertisingLite
 HOST,downloadthesefile.com,AdvertisingLite
 HOST,downmn.com,AdvertisingLite
-HOST,doyugqaizcecne.com,AdvertisingLite
 HOST,dp-medien.eu,AdvertisingLite
 HOST,dp25.kr,AdvertisingLite
 HOST,dp3.play.aiseet.atianqi.com,AdvertisingLite
@@ -4908,7 +4905,6 @@ HOST,dr3k6qonw2kee.cloudfront.net,AdvertisingLite
 HOST,dr8pk6ovub897.cloudfront.net,AdvertisingLite
 HOST,dradvice.in,AdvertisingLite
 HOST,draulinehandon.info,AdvertisingLite
-HOST,drbwugautcgh.com,AdvertisingLite
 HOST,dreamaquarium.com,AdvertisingLite
 HOST,dreamcounter.de,AdvertisingLite
 HOST,dreamine.com,AdvertisingLite
@@ -4927,6 +4923,7 @@ HOST,dsie7h4lo9wxu.cloudfront.net,AdvertisingLite
 HOST,dsmmadvantage.com,AdvertisingLite
 HOST,dsnextgen.com,AdvertisingLite
 HOST,dsnr-affiliates.com,AdvertisingLite
+HOST,dsnxvnkxyimczk.com,AdvertisingLite
 HOST,dsp.brand.sogo.com,AdvertisingLite
 HOST,dspack.com.cn,AdvertisingLite
 HOST,dsparking.com,AdvertisingLite
@@ -4967,6 +4964,7 @@ HOST,duote.com,AdvertisingLite
 HOST,durdcn.doglobal.net,AdvertisingLite
 HOST,duroternout.info,AdvertisingLite
 HOST,duu8lzqdm8tsz.cloudfront.net,AdvertisingLite
+HOST,duzakergeex.com,AdvertisingLite
 HOST,duzt6rhr7wo8p.cloudfront.net,AdvertisingLite
 HOST,dv7t7qyvgyrt5.cloudfront.net,AdvertisingLite
 HOST,dvaminusodin.net,AdvertisingLite
@@ -5005,7 +5003,6 @@ HOST,dynsrvtyu.com,AdvertisingLite
 HOST,dyntrk.com,AdvertisingLite
 HOST,dyscb.cn,AdvertisingLite
 HOST,dywjcc.top,AdvertisingLite
-HOST,dyzvxhch.com,AdvertisingLite
 HOST,dz4ad.com,AdvertisingLite
 HOST,dzhss.cn,AdvertisingLite
 HOST,dzizsih.ru,AdvertisingLite
@@ -5127,6 +5124,7 @@ HOST,ecpmrocks.com,AdvertisingLite
 HOST,ecpms.net,AdvertisingLite
 HOST,ecto-ecto-uno.com,AdvertisingLite
 HOST,ecustomeropinions.com,AdvertisingLite
+HOST,ecyexjyti.com,AdvertisingLite
 HOST,ed9wkbpy.com,AdvertisingLite
 HOST,edchargina.pro,AdvertisingLite
 HOST,edf.fr.kfskz.com,AdvertisingLite
@@ -5243,6 +5241,7 @@ HOST,emsservice.de,AdvertisingLite
 HOST,emxdgt.com,AdvertisingLite
 HOST,enclasmodifyt.info,AdvertisingLite
 HOST,enecto.com,AdvertisingLite
+HOST,eneritchmax.info,AdvertisingLite
 HOST,engage.im,AdvertisingLite
 HOST,engageclick.com,AdvertisingLite
 HOST,engagemaster.com,AdvertisingLite
@@ -5268,8 +5267,11 @@ HOST,enticelabs.com,AdvertisingLite
 HOST,entitlements.jwplayer.com,AdvertisingLite
 HOST,entrecard.s3.amazonaws.com,AdvertisingLite
 HOST,enviousshape.com,AdvertisingLite
+HOST,eo.3y4n.cn,AdvertisingLite
+HOST,eo.tsnsrix.cn,AdvertisingLite
 HOST,eo62cocntx.com,AdvertisingLite
 HOST,eolcdn.com,AdvertisingLite
+HOST,eopbflgmxcr.com,AdvertisingLite
 HOST,eosads.com,AdvertisingLite
 HOST,ep4p.com,AdvertisingLite
 HOST,epacash.com,AdvertisingLite
@@ -5293,6 +5295,7 @@ HOST,er.5ykj.com,AdvertisingLite
 HOST,erabaru.net,AdvertisingLite
 HOST,erate.co.il,AdvertisingLite
 HOST,eratqmdr.com,AdvertisingLite
+HOST,erbabjmdu.com,AdvertisingLite
 HOST,erberos.xyz,AdvertisingLite
 HOST,eredexpendin.com,AdvertisingLite
 HOST,erendri.com,AdvertisingLite
@@ -5341,6 +5344,7 @@ HOST,etcjliejxlcfw.com,AdvertisingLite
 HOST,etcodes.com,AdvertisingLite
 HOST,ete.cn,AdvertisingLite
 HOST,eternitymobiles.com,AdvertisingLite
+HOST,etgdta.com,AdvertisingLite
 HOST,eth-pocket.com,AdvertisingLite
 HOST,eth-pocket.de,AdvertisingLite
 HOST,eth-pocket.eu,AdvertisingLite
@@ -5353,16 +5357,16 @@ HOST,ethtrader.de,AdvertisingLite
 HOST,etology.com,AdvertisingLite
 HOST,etracker.com,AdvertisingLite
 HOST,etracker.de,AdvertisingLite
+HOST,etracking24.de,AdvertisingLite
 HOST,etrader.kalahari.com,AdvertisingLite
 HOST,etrader.kalahari.net,AdvertisingLite
 HOST,etrigue.com,AdvertisingLite
 HOST,etrust.eu,AdvertisingLite
+HOST,etvgjkyo.com,AdvertisingLite
 HOST,etyper.com,AdvertisingLite
 HOST,etzbnfuigipwvs.ru,AdvertisingLite
-HOST,etzyzocznjd.com,AdvertisingLite
 HOST,eu.vortex-win.data.microsoft.com,AdvertisingLite
 HOST,eucsoft.com,AdvertisingLite
-HOST,eujjcfegnqfa.com,AdvertisingLite
 HOST,eulerian.net,AdvertisingLite
 HOST,euleriancdn.net,AdvertisingLite
 HOST,euro-pr.eu,AdvertisingLite
@@ -5392,9 +5396,9 @@ HOST,eventtracker.videostrip.com,AdvertisingLite
 HOST,everestjs.net,AdvertisingLite
 HOST,evergage.com,AdvertisingLite
 HOST,evewrite.net,AdvertisingLite
-HOST,evghlumwjasu.com,AdvertisingLite
 HOST,eviclick.pro,AdvertisingLite
 HOST,evisitanalyst.com,AdvertisingLite
+HOST,evnoxawvqhda.com,AdvertisingLite
 HOST,evolvemediallc.com,AdvertisingLite
 HOST,evolvenation.com,AdvertisingLite
 HOST,evt.collarity.com,AdvertisingLite
@@ -5450,7 +5454,6 @@ HOST,extra33.com,AdvertisingLite
 HOST,extreme-dm.com,AdvertisingLite
 HOST,extreme-ip-lookup.com,AdvertisingLite
 HOST,extremereach.io,AdvertisingLite
-HOST,exvrvcnlfc.com,AdvertisingLite
 HOST,eyein.com,AdvertisingLite
 HOST,eyemedias.com,AdvertisingLite
 HOST,eyere.com,AdvertisingLite
@@ -5499,7 +5502,6 @@ HOST,fadsabs.com,AdvertisingLite
 HOST,fadsats.com,AdvertisingLite
 HOST,fadsecz.com,AdvertisingLite
 HOST,faed4.cc,AdvertisingLite
-HOST,fafgamdtlulo.com,AdvertisingLite
 HOST,faibl.org,AdvertisingLite
 HOST,faidoud.com,AdvertisingLite
 HOST,fairadsnetwork.com,AdvertisingLite
@@ -5519,7 +5521,6 @@ HOST,fanplayr.com,AdvertisingLite
 HOST,fansign.streamray.com,AdvertisingLite
 HOST,fapality.com,AdvertisingLite
 HOST,fapping.club,AdvertisingLite
-HOST,faq-candrive.tk,AdvertisingLite
 HOST,far-far-star.com,AdvertisingLite
 HOST,fark.com,AdvertisingLite
 HOST,farmergoldfish.com,AdvertisingLite
@@ -5607,12 +5608,12 @@ HOST,fenixm.com,AdvertisingLite
 HOST,feraciumus.com,AdvertisingLite
 HOST,ferank.fr,AdvertisingLite
 HOST,fernomius.com,AdvertisingLite
-HOST,fesrsxtmkjgms.com,AdvertisingLite
 HOST,fessoovy.com,AdvertisingLite
 HOST,festaporno.com,AdvertisingLite
 HOST,fethungi.com,AdvertisingLite
 HOST,fetishfitnessbabes.com,AdvertisingLite
 HOST,fetishlocator.com,AdvertisingLite
+HOST,feyfjlpeexvg.com,AdvertisingLite
 HOST,ff.xue63.com,AdvertisingLite
 HOST,ff123.hao0202.com,AdvertisingLite
 HOST,ff5bd8d9f8df.com,AdvertisingLite
@@ -5625,7 +5626,6 @@ HOST,fgbmjogeurrqe.com,AdvertisingLite
 HOST,fgddrrr.com,AdvertisingLite
 HOST,fgjasshw.com,AdvertisingLite
 HOST,fhluqrhmqs.com,AdvertisingLite
-HOST,fhoexcvjspuh.com,AdvertisingLite
 HOST,fhserve.com,AdvertisingLite
 HOST,ficusoid.xyz,AdvertisingLite
 HOST,fiechaev.com,AdvertisingLite
@@ -5669,6 +5669,7 @@ HOST,fixpass.net,AdvertisingLite
 HOST,fjmsdaswvhktht.com,AdvertisingLite
 HOST,fjzimaoqu.cn,AdvertisingLite
 HOST,fkbwtoopwg.com,AdvertisingLite
+HOST,fkgbxlgcnzf.com,AdvertisingLite
 HOST,flagads.net,AdvertisingLite
 HOST,flagcounter.com,AdvertisingLite
 HOST,flaghit.com,AdvertisingLite
@@ -5680,6 +5681,7 @@ HOST,flash-counter.com,AdvertisingLite
 HOST,flashadtools.com,AdvertisingLite
 HOST,flashclicks.com,AdvertisingLite
 HOST,flashgroup.com,AdvertisingLite
+HOST,flashsavant.com,AdvertisingLite
 HOST,flashwing.net,AdvertisingLite
 HOST,flashx.cc,AdvertisingLite
 HOST,flashx.pw,AdvertisingLite
@@ -5696,19 +5698,21 @@ HOST,flix360.com,AdvertisingLite
 HOST,flixfacts.co.uk,AdvertisingLite
 HOST,flixsyndication.net,AdvertisingLite
 HOST,fljozww19f.com,AdvertisingLite
+HOST,flloczhqdkn.com,AdvertisingLite
 HOST,flmyidbnljphko.com,AdvertisingLite
 HOST,flnwaqyh.com,AdvertisingLite
 HOST,flockflame.com,AdvertisingLite
 HOST,flodonas.com,AdvertisingLite
 HOST,flomigo.com,AdvertisingLite
 HOST,flowplus.meituan.net,AdvertisingLite
-HOST,fltfwrhpv.com,AdvertisingLite
 HOST,fluencymedia.com,AdvertisingLite
+HOST,fluidads.co,AdvertisingLite
 HOST,fluidsurveys.com,AdvertisingLite
 HOST,flux16.com,AdvertisingLite
 HOST,fluxads.com,AdvertisingLite
 HOST,flx1.com,AdvertisingLite
 HOST,flxpxl.com,AdvertisingLite
+HOST,flybhyis.com,AdvertisingLite
 HOST,flyingpt.com,AdvertisingLite
 HOST,flymyads.com,AdvertisingLite
 HOST,flytomars.online,AdvertisingLite
@@ -5720,7 +5724,6 @@ HOST,fmsads.com,AdvertisingLite
 HOST,fmscash.com,AdvertisingLite
 HOST,fmstigat.online,AdvertisingLite
 HOST,fn-pz.com,AdvertisingLite
-HOST,fnbsrxtemj.com,AdvertisingLite
 HOST,fncash.com,AdvertisingLite
 HOST,fncnet1.com,AdvertisingLite
 HOST,fnrqbhhyff.com,AdvertisingLite
@@ -5814,6 +5817,7 @@ HOST,freecountercode.com,AdvertisingLite
 HOST,freecounterstat.com,AdvertisingLite
 HOST,freecouponbiz.com,AdvertisingLite
 HOST,freefblikes.phpnet.us,AdvertisingLite
+HOST,freegamespub.com,AdvertisingLite
 HOST,freegeoip.app,AdvertisingLite
 HOST,freegeoip.net,AdvertisingLite
 HOST,freehitscounter.org,AdvertisingLite
@@ -5833,7 +5837,6 @@ HOST,freestats.com,AdvertisingLite
 HOST,freestats.me,AdvertisingLite
 HOST,freestats.net,AdvertisingLite
 HOST,freestats.org,AdvertisingLite
-HOST,freestats.tk,AdvertisingLite
 HOST,freestats.tv,AdvertisingLite
 HOST,freestats.ws,AdvertisingLite
 HOST,freetellafriend.com,AdvertisingLite
@@ -5900,6 +5903,7 @@ HOST,fuk.xckxjtbg.com,AdvertisingLite
 HOST,fukkzdxfyrchhc.com,AdvertisingLite
 HOST,fun-hits.com,AdvertisingLite
 HOST,funchill.com,AdvertisingLite
+HOST,fungus.online,AdvertisingLite
 HOST,funklicks.com,AdvertisingLite
 HOST,funmatrix.net,AdvertisingLite
 HOST,funneld.com,AdvertisingLite
@@ -5919,7 +5923,6 @@ HOST,fuz.cc,AdvertisingLite
 HOST,fuziontech.net,AdvertisingLite
 HOST,fvdwltww.com,AdvertisingLite
 HOST,fvenxjtzuaxu.com,AdvertisingLite
-HOST,fvhyqudibhqgpn.com,AdvertisingLite
 HOST,fvkdatbzswo.bid,AdvertisingLite
 HOST,fvugxwoy.com,AdvertisingLite
 HOST,fvwlzsm3tt921krvoq6.pro,AdvertisingLite
@@ -5936,7 +5939,6 @@ HOST,fyreball.com,AdvertisingLite
 HOST,fyredet.xyz,AdvertisingLite
 HOST,fyrvxydxsrww.com,AdvertisingLite
 HOST,fzb01.qiushibaike.com,AdvertisingLite
-HOST,fzlkdwivfnreg.com,AdvertisingLite
 HOST,fzqmjlkvb.com,AdvertisingLite
 HOST,fztmn.top,AdvertisingLite
 HOST,g--o.info,AdvertisingLite
@@ -5988,7 +5990,6 @@ HOST,gamesrevenue.com,AdvertisingLite
 HOST,gamevui24.com,AdvertisingLite
 HOST,gammachug.com,AdvertisingLite
 HOST,ganardineroreal.com,AdvertisingLite
-HOST,gandrad.org,AdvertisingLite
 HOST,ganja.com,AdvertisingLite
 HOST,gannett.gcion.com,AdvertisingLite
 HOST,gaoguai.com,AdvertisingLite
@@ -6021,7 +6022,6 @@ HOST,geakr.com,AdvertisingLite
 HOST,gear5.me,AdvertisingLite
 HOST,geede.info,AdvertisingLite
 HOST,geethoap.com,AdvertisingLite
-HOST,geil.alon3.tk,AdvertisingLite
 HOST,geistm.com,AdvertisingLite
 HOST,gelbitelf.club,AdvertisingLite
 HOST,gemius.pl,AdvertisingLite
@@ -6097,7 +6097,6 @@ HOST,getreview.pl,AdvertisingLite
 HOST,getscorecash.com,AdvertisingLite
 HOST,getscoutapp.com,AdvertisingLite
 HOST,getscriptjs.com,AdvertisingLite
-HOST,getsecuredfiles.com,AdvertisingLite
 HOST,getsitecontrol.com,AdvertisingLite
 HOST,getsmartcontent.com,AdvertisingLite
 HOST,getsmartlook.com,AdvertisingLite
@@ -6107,7 +6106,6 @@ HOST,getsupernova.com,AdvertisingLite
 HOST,gettraff.com,AdvertisingLite
 HOST,getui.net,AdvertisingLite
 HOST,getxml.org,AdvertisingLite
-HOST,geusihivdqkwzf.com,AdvertisingLite
 HOST,gez.io,AdvertisingLite
 HOST,gezaehlt.de,AdvertisingLite
 HOST,gfaf-banners.s3.amazonaws.com,AdvertisingLite
@@ -6126,7 +6124,6 @@ HOST,ggsafe.com,AdvertisingLite
 HOST,ggwcash.com,AdvertisingLite
 HOST,ggx.cmvideo.cn,AdvertisingLite
 HOST,gho.ysbjgjwh.com,AdvertisingLite
-HOST,ghrbmfggqylld.com,AdvertisingLite
 HOST,giantaffiliates.com,AdvertisingLite
 HOST,giantsavings-a.akamaihd.net,AdvertisingLite
 HOST,giddycoat.com,AdvertisingLite
@@ -6146,7 +6143,6 @@ HOST,givemeb33f.com,AdvertisingLite
 HOST,givingsol.com,AdvertisingLite
 HOST,gixmo.dk,AdvertisingLite
 HOST,gjh111.cn,AdvertisingLite
-HOST,gjqbidroh.com,AdvertisingLite
 HOST,gklmedia.com,AdvertisingLite
 HOST,gkpsrxgdbco.com,AdvertisingLite
 HOST,gkrvcunjoacvc.com,AdvertisingLite
@@ -6162,9 +6158,9 @@ HOST,gld35wndkn.com,AdvertisingLite
 HOST,gleaminist.info,AdvertisingLite
 HOST,gleebsex.net,AdvertisingLite
 HOST,gleechie.net,AdvertisingLite
+HOST,gleechood.com,AdvertisingLite
 HOST,glerteeb.com,AdvertisingLite
 HOST,gletaums.net,AdvertisingLite
-HOST,glgcclcyz.com,AdvertisingLite
 HOST,glishais.net,AdvertisingLite
 HOST,glo-glo-oom.com,AdvertisingLite
 HOST,gloalrie.com,AdvertisingLite
@@ -6189,7 +6185,6 @@ HOST,gloorajo.com,AdvertisingLite
 HOST,glotchat.click,AdvertisingLite
 HOST,glowdot.com,AdvertisingLite
 HOST,glumtitu.net,AdvertisingLite
-HOST,gluokdhafryxtw.com,AdvertisingLite
 HOST,gm.uc003.com,AdvertisingLite
 HOST,gm99.com,AdvertisingLite
 HOST,gmads.net,AdvertisingLite
@@ -6283,7 +6278,6 @@ HOST,gplusapi.appspot.com,AdvertisingLite
 HOST,gpr.hu,AdvertisingLite
 HOST,gpscard.cn,AdvertisingLite
 HOST,gpsecureads.com,AdvertisingLite
-HOST,gqecfgovxbj.com,AdvertisingLite
 HOST,gqqdlckj8y.com,AdvertisingLite
 HOST,grabmyads.com,AdvertisingLite
 HOST,grabo.bg,AdvertisingLite
@@ -6321,6 +6315,7 @@ HOST,greengaming.de,AdvertisingLite
 HOST,greenlabelppc.com,AdvertisingLite
 HOST,greenprints.org.cn,AdvertisingLite
 HOST,greensuy.net,AdvertisingLite
+HOST,greetpanda.info,AdvertisingLite
 HOST,grensauy.com,AdvertisingLite
 HOST,grepdata.com,AdvertisingLite
 HOST,grergoch.net,AdvertisingLite
@@ -6344,7 +6339,6 @@ HOST,gruglooh.net,AdvertisingLite
 HOST,grumrt.com,AdvertisingLite
 HOST,gruponn.com,AdvertisingLite
 HOST,grvmedia.com,AdvertisingLite
-HOST,grykuutktgaun.com,AdvertisingLite
 HOST,gscontxt.net,AdvertisingLite
 HOST,gsecondscreen.com,AdvertisingLite
 HOST,gsimedia.net,AdvertisingLite
@@ -6353,7 +6347,6 @@ HOST,gsniper2.com,AdvertisingLite
 HOST,gsspat.jp,AdvertisingLite
 HOST,gsspcln.jp,AdvertisingLite
 HOST,gssprt.jp,AdvertisingLite
-HOST,gtciedhftphow.com,AdvertisingLite
 HOST,gtcslt-di2.com,AdvertisingLite
 HOST,gtdkx91r.pro,AdvertisingLite
 HOST,gtlp.net.cn,AdvertisingLite
@@ -6394,9 +6387,7 @@ HOST,gynax.com,AdvertisingLite
 HOST,gzbywl.com,AdvertisingLite
 HOST,gzcl999.cn,AdvertisingLite
 HOST,gzcl999.com,AdvertisingLite
-HOST,gzivryjzal.com,AdvertisingLite
 HOST,gzjtfzs.cn,AdvertisingLite
-HOST,gzmlvrvkven.com,AdvertisingLite
 HOST,gzqczl.cn,AdvertisingLite
 HOST,gzsadlmy.cn,AdvertisingLite
 HOST,h-bid.com,AdvertisingLite
@@ -6555,7 +6546,6 @@ HOST,hiddenbucks.com,AdvertisingLite
 HOST,hiddencounter.de,AdvertisingLite
 HOST,hidupsoo.com,AdvertisingLite
 HOST,hiekeegi.com,AdvertisingLite
-HOST,higher.dwebsi.tk,AdvertisingLite
 HOST,higherengine.com,AdvertisingLite
 HOST,higheurest.com,AdvertisingLite
 HOST,highmetrics.com,AdvertisingLite
@@ -6618,7 +6608,6 @@ HOST,hkhotpewfxr.com,AdvertisingLite
 HOST,hkoxlirf.com,AdvertisingLite
 HOST,hkswktixvcot.com,AdvertisingLite
 HOST,hlads.com,AdvertisingLite
-HOST,hlitvetlw.com,AdvertisingLite
 HOST,hljdnserror1.wo.com.cn,AdvertisingLite
 HOST,hljdnserror2.wo.com.cn,AdvertisingLite
 HOST,hljdnserror3.wo.com.cn,AdvertisingLite
@@ -6631,12 +6620,12 @@ HOST,hm.baidu.com.jnsiematcnc.com,AdvertisingLite
 HOST,hm.baidu.com.zzsdtzb.com,AdvertisingLite
 HOST,hmbgumjgey.com,AdvertisingLite
 HOST,hmongcash.com,AdvertisingLite
-HOST,hmora.fred-build.tk,AdvertisingLite
 HOST,hmstats.com,AdvertisingLite
 HOST,hmtoday.com,AdvertisingLite
 HOST,hmwebs.top,AdvertisingLite
 HOST,hn-button.herokuapp.com,AdvertisingLite
 HOST,hnbutton.appspot.com,AdvertisingLite
+HOST,hncahnvieotyu.com,AdvertisingLite
 HOST,hndnserror1.wo.com.cn,AdvertisingLite
 HOST,hndnserror2.wo.com.cn,AdvertisingLite
 HOST,hndnserror3.wo.com.cn,AdvertisingLite
@@ -6684,10 +6673,6 @@ HOST,hostave2.net,AdvertisingLite
 HOST,hostave4.net,AdvertisingLite
 HOST,hostcontent.live,AdvertisingLite
 HOST,hosticanaffiliate.com,AdvertisingLite
-HOST,hosting-controlid1.tk,AdvertisingLite
-HOST,hosting-controlnext.tk,AdvertisingLite
-HOST,hosting-controlpin.tk,AdvertisingLite
-HOST,hosting-controlpr.tk,AdvertisingLite
 HOST,hosting.conduit.com,AdvertisingLite
 HOST,hostingcloud.party,AdvertisingLite
 HOST,hostingcloud.racing,AdvertisingLite
@@ -6728,7 +6713,6 @@ HOST,hqpass.com,AdvertisingLite
 HOST,hrahdmon.com,AdvertisingLite
 HOST,hrgbolmbxmovli.com,AdvertisingLite
 HOST,hrjg.com.cn,AdvertisingLite
-HOST,hrklcreflssza.com,AdvertisingLite
 HOST,hrsddepycjmvdd.com,AdvertisingLite
 HOST,hrtya.com,AdvertisingLite
 HOST,hrtyc.com,AdvertisingLite
@@ -6737,7 +6721,6 @@ HOST,hs-banner.com,AdvertisingLite
 HOST,hsadspixel.net,AdvertisingLite
 HOST,hscta.net,AdvertisingLite
 HOST,hsdn.org,AdvertisingLite
-HOST,hshcspczsaa.com,AdvertisingLite
 HOST,hskj88.cn,AdvertisingLite
 HOST,hsleadflows.net,AdvertisingLite
 HOST,hsmkj.net,AdvertisingLite
@@ -6799,7 +6782,6 @@ HOST,hwad.zuimeitianqi.com,AdvertisingLite
 HOST,hwekl8dz1d.com,AdvertisingLite
 HOST,hwpub.com,AdvertisingLite
 HOST,hx623.cn,AdvertisingLite
-HOST,hxhymfdpmgs.com,AdvertisingLite
 HOST,hxqu.com,AdvertisingLite
 HOST,hxtrack.com,AdvertisingLite
 HOST,hy-brasil.mhwang.com,AdvertisingLite
@@ -6827,7 +6809,6 @@ HOST,hzlewuunwm.com,AdvertisingLite
 HOST,hzlsghfoqsvawe.com,AdvertisingLite
 HOST,hzsmmfohtye.com,AdvertisingLite
 HOST,hzyd.cdn.bcebos.com,AdvertisingLite
-HOST,hzyxmywj.com,AdvertisingLite
 HOST,hzzmoouuqb.com,AdvertisingLite
 HOST,i-stats.com,AdvertisingLite
 HOST,i.bestcontentfare.top,AdvertisingLite
@@ -6849,6 +6830,7 @@ HOST,iacpromotion.s3.amazonaws.com,AdvertisingLite
 HOST,iad.apple.com,AdvertisingLite
 HOST,iad.e.360.cn,AdvertisingLite
 HOST,iadmat.nosdn.127.net,AdvertisingLite
+HOST,iajcvxcqktpm.com,AdvertisingLite
 HOST,iamagameaddict.com,AdvertisingLite
 HOST,iasbetaffiliates.com,AdvertisingLite
 HOST,iask.cn,AdvertisingLite
@@ -6900,10 +6882,10 @@ HOST,idownloadgalore.com,AdvertisingLite
 HOST,idreammedia.com,AdvertisingLite
 HOST,idtargeting.com,AdvertisingLite
 HOST,ie.5500w.com,AdvertisingLite
+HOST,iedzocfoflfgam.com,AdvertisingLite
 HOST,iee5.com,AdvertisingLite
 HOST,ieju.zgtwpscw.cn,AdvertisingLite
 HOST,iesnare.com,AdvertisingLite
-HOST,iettnkls.com,AdvertisingLite
 HOST,ifactz.com,AdvertisingLite
 HOST,ifeuddaywa.com,AdvertisingLite
 HOST,ifilez.org,AdvertisingLite
@@ -6929,7 +6911,6 @@ HOST,iguang.tw,AdvertisingLite
 HOST,ihgehlpfzoefmd.com,AdvertisingLite
 HOST,ihookupdaily.com,AdvertisingLite
 HOST,ihosetch.com,AdvertisingLite
-HOST,ihzwuzeslfh.com,AdvertisingLite
 HOST,iicheewi.com,AdvertisingLite
 HOST,iid-network.jp,AdvertisingLite
 HOST,iidfyyelvijfk.com,AdvertisingLite
@@ -6937,7 +6918,9 @@ HOST,iivt.com,AdvertisingLite
 HOST,ijdl.hbyongwan.cn,AdvertisingLite
 HOST,ijeu.pdkzyy.cn,AdvertisingLite
 HOST,ijfchpiptvvzko.com,AdvertisingLite
+HOST,ijiraeitwqpj.com,AdvertisingLite
 HOST,ijrah.top,AdvertisingLite
+HOST,ijxfkfsvzvnyk.com,AdvertisingLite
 HOST,ikuailian.com,AdvertisingLite
 HOST,ilce.alicdn.com,AdvertisingLite
 HOST,ilepai.com,AdvertisingLite
@@ -6946,6 +6929,7 @@ HOST,iljmp.com,AdvertisingLite
 HOST,illazkka.com,AdvertisingLite
 HOST,illumenix.com,AdvertisingLite
 HOST,illustriousoatmeal.com,AdvertisingLite
+HOST,ilmijlktgjx.com,AdvertisingLite
 HOST,ilogbox.com,AdvertisingLite
 HOST,im-apps.net,AdvertisingLite
 HOST,im2ss2ss.top,AdvertisingLite
@@ -7079,7 +7063,6 @@ HOST,informer.yandex.ru,AdvertisingLite
 HOST,informvisitors.com,AdvertisingLite
 HOST,informz.net,AdvertisingLite
 HOST,infostroy.nnov.ru,AdvertisingLite
-HOST,infoweb-coolinfo.tk,AdvertisingLite
 HOST,infox.sg,AdvertisingLite
 HOST,infra-ad.com,AdvertisingLite
 HOST,infra.systems,AdvertisingLite
@@ -7172,7 +7155,6 @@ HOST,intermrkts.vo.llnwd.net,AdvertisingLite
 HOST,intermundomedia.com,AdvertisingLite
 HOST,intern.forskning.no,AdvertisingLite
 HOST,internebula.net,AdvertisingLite
-HOST,internet-bb.tk,AdvertisingLite
 HOST,internetadbrokers.com,AdvertisingLite
 HOST,internetdefenseleague.org,AdvertisingLite
 HOST,interpolls.com,AdvertisingLite
@@ -7228,7 +7210,6 @@ HOST,ip2phrase.com,AdvertisingLite
 HOST,ipaddresslabs.com,AdvertisingLite
 HOST,ipapi.co,AdvertisingLite
 HOST,ipaypay.cn,AdvertisingLite
-HOST,ipbiydocgvllrg.com,AdvertisingLite
 HOST,ipcatch.com,AdvertisingLite
 HOST,ipcount.net,AdvertisingLite
 HOST,iper2.com,AdvertisingLite
@@ -7260,6 +7241,7 @@ HOST,iqdata.ai,AdvertisingLite
 HOST,iqfp1.com,AdvertisingLite
 HOST,iqoakacwvzrp.com,AdvertisingLite
 HOST,iqyewu.cn,AdvertisingLite
+HOST,iqyxvcqns.com,AdvertisingLite
 HOST,irdcdrpzs.com,AdvertisingLite
 HOST,iridiumsergeiprogenitor.info,AdvertisingLite
 HOST,irjfsrocuzwkpf.com,AdvertisingLite
@@ -7310,7 +7292,6 @@ HOST,iuiweb.com,AdvertisingLite
 HOST,ivbifyia.com,AdvertisingLite
 HOST,ivcbrasil.org.br,AdvertisingLite
 HOST,ivitrack.com,AdvertisingLite
-HOST,ivqxarewpk.com,AdvertisingLite
 HOST,ivstracker.net,AdvertisingLite
 HOST,ivwbox.de,AdvertisingLite
 HOST,iwa.iplsc.com,AdvertisingLite
@@ -7337,7 +7318,6 @@ HOST,j.credit.wwz114.cn,AdvertisingLite
 HOST,j.microad.net,AdvertisingLite
 HOST,j.taokeweizhan.com,AdvertisingLite
 HOST,j.xingshangnet.com,AdvertisingLite
-HOST,j2k9.in,AdvertisingLite
 HOST,j8j9.com,AdvertisingLite
 HOST,j93557g.com,AdvertisingLite
 HOST,jackao.net,AdvertisingLite
@@ -7361,7 +7341,7 @@ HOST,javacript.gq,AdvertisingLite
 HOST,javacript.tk,AdvertisingLite
 HOST,javbucks.com,AdvertisingLite
 HOST,jaymancash.com,AdvertisingLite
-HOST,jbcbio.cn,AdvertisingLite
+HOST,jazdoxthxiv.com,AdvertisingLite
 HOST,jbpsorexvuapf.com,AdvertisingLite
 HOST,jbrlsr.com,AdvertisingLite
 HOST,jc.bubbleandyeson.com,AdvertisingLite
@@ -7388,7 +7368,6 @@ HOST,jf71qh5v14.com,AdvertisingLite
 HOST,jfavhjmb.com,AdvertisingLite
 HOST,jfduv7.com,AdvertisingLite
 HOST,jffoydsb.com,AdvertisingLite
-HOST,jfgvtdcgomvmwv.com,AdvertisingLite
 HOST,jfmtvybvze.com,AdvertisingLite
 HOST,jfresi.com,AdvertisingLite
 HOST,jgl.microad.net,AdvertisingLite
@@ -7435,6 +7414,7 @@ HOST,jlhniewc.com,AdvertisingLite
 HOST,jm1.xiao89.com,AdvertisingLite
 HOST,jmait.cn,AdvertisingLite
 HOST,jmtitdorwfxe.com,AdvertisingLite
+HOST,jmxjqlagfwz.com,AdvertisingLite
 HOST,jmxphjxsxd.com,AdvertisingLite
 HOST,jntmedia.cn,AdvertisingLite
 HOST,job.510mall.com,AdvertisingLite
@@ -7461,7 +7441,6 @@ HOST,jqcdn.download,AdvertisingLite
 HOST,jqcdn01.herokuapp.com,AdvertisingLite
 HOST,jqcdn03.herokuapp.com,AdvertisingLite
 HOST,jqcdn2.herokuapp.com,AdvertisingLite
-HOST,jqfjrjka5t.top,AdvertisingLite
 HOST,jqki.cn,AdvertisingLite
 HOST,jqnshpbuj.com,AdvertisingLite
 HOST,jquery-cdn.download,AdvertisingLite
@@ -7485,6 +7464,7 @@ HOST,js.ptengine.cn,AdvertisingLite
 HOST,js.sghjtc.xyz,AdvertisingLite
 HOST,js.static.tebaidu.cn,AdvertisingLite
 HOST,js.stroeermediabrands.de,AdvertisingLite
+HOST,js.yulzm.com,AdvertisingLite
 HOST,js.zjsyawqj.cn,AdvertisingLite
 HOST,jsa.15tianqi.com,AdvertisingLite
 HOST,jsapi.html5.qq.com,AdvertisingLite
@@ -7531,7 +7511,6 @@ HOST,jumplead.io,AdvertisingLite
 HOST,jumptap.com,AdvertisingLite
 HOST,junbi-tracker.com,AdvertisingLite
 HOST,junioneruytew.info,AdvertisingLite
-HOST,junnew.com,AdvertisingLite
 HOST,junta.net,AdvertisingLite
 HOST,juoyisupjqds.com,AdvertisingLite
 HOST,juricts.xyz,AdvertisingLite
@@ -7552,6 +7531,7 @@ HOST,juyoufan.net,AdvertisingLite
 HOST,jwcavytgs.com,AdvertisingLite
 HOST,jwduahujge.ru,AdvertisingLite
 HOST,jwmstats.com,AdvertisingLite
+HOST,jwmwtcmexc.com,AdvertisingLite
 HOST,jwplayer.space,AdvertisingLite
 HOST,jwvwak1a.com,AdvertisingLite
 HOST,jx.cn,AdvertisingLite
@@ -7563,6 +7543,7 @@ HOST,jybtpabickzf.com,AdvertisingLite
 HOST,jyhfuqoh.info,AdvertisingLite
 HOST,jynp9m209p.com,AdvertisingLite
 HOST,jypoagtophu.com,AdvertisingLite
+HOST,jyqqpjpbvya.com,AdvertisingLite
 HOST,jyzmsy.com.cn,AdvertisingLite
 HOST,jz9ugaqb.com,AdvertisingLite
 HOST,jzjzuwllinruj.com,AdvertisingLite
@@ -7616,7 +7597,6 @@ HOST,kctag.net,AdvertisingLite
 HOST,kcveufgl.com,AdvertisingLite
 HOST,kdata.fr,AdvertisingLite
 HOST,kdcmgzgxears.com,AdvertisingLite
-HOST,kdfumeftulzzpp.com,AdvertisingLite
 HOST,kdly.net,AdvertisingLite
 HOST,kdmmm.cn,AdvertisingLite
 HOST,kdowqlpt.info,AdvertisingLite
@@ -7646,7 +7626,6 @@ HOST,keywordsconnect.com,AdvertisingLite
 HOST,keywordstrategy.org,AdvertisingLite
 HOST,keyxel.com,AdvertisingLite
 HOST,kfptslry.com,AdvertisingLite
-HOST,kfrnlaiqm.com,AdvertisingLite
 HOST,khgj.cn,AdvertisingLite
 HOST,khidhfrk.com,AdvertisingLite
 HOST,khzbeucrltin.com,AdvertisingLite
@@ -7684,7 +7663,6 @@ HOST,kjltxn.com,AdvertisingLite
 HOST,kjlzt.cn,AdvertisingLite
 HOST,kkf.sxdxsfw.com,AdvertisingLite
 HOST,kkk.lichaoliang.com,AdvertisingLite
-HOST,kknhirncxal.com,AdvertisingLite
 HOST,kkpgv2.xunlei.com,AdvertisingLite
 HOST,klakus.com,AdvertisingLite
 HOST,klamm-counter.de,AdvertisingLite
@@ -7705,12 +7683,11 @@ HOST,klonedaset.org,AdvertisingLite
 HOST,klqwhndhm.com,AdvertisingLite
 HOST,klsdee.com,AdvertisingLite
 HOST,klvvo.xhzlovehyx.cn,AdvertisingLite
-HOST,klwdbmowf.com,AdvertisingLite
 HOST,km-sea.net,AdvertisingLite
-HOST,kmafwyzccd.com,AdvertisingLite
 HOST,kmdqyjebswoa.com,AdvertisingLite
 HOST,kmindex.ru,AdvertisingLite
 HOST,kmmtxuxow.com,AdvertisingLite
+HOST,kmrnnqjfjjp.com,AdvertisingLite
 HOST,kmtx.io,AdvertisingLite
 HOST,knb.hlgmsy.com,AdvertisingLite
 HOST,knkgaslmisue.com,AdvertisingLite
@@ -7741,18 +7718,14 @@ HOST,koten.zone,AdvertisingLite
 HOST,kouraija.net,AdvertisingLite
 HOST,kouwheey.net,AdvertisingLite
 HOST,kovla.com,AdvertisingLite
-HOST,kpfrihmnxnayo.com,AdvertisingLite
 HOST,kpstaticbj.wx.ckjr001.com,AdvertisingLite
-HOST,kpyxcbdaftlxt.com,AdvertisingLite
 HOST,kqbigsdyqtdh.com,AdvertisingLite
 HOST,kqzyfj.com,AdvertisingLite
 HOST,kr3vinsx.com,AdvertisingLite
 HOST,krb.devphp.org.ua,AdvertisingLite
 HOST,krison.xyz,AdvertisingLite
-HOST,krsccftmf.com,AdvertisingLite
 HOST,krsutcnex.com,AdvertisingLite
 HOST,ksncmrkfrzkgla.com,AdvertisingLite
-HOST,ksvxikbr.com,AdvertisingLite
 HOST,ksyrium0014.com,AdvertisingLite
 HOST,kt5850pjz0.com,AdvertisingLite
 HOST,ktxtr.com,AdvertisingLite
@@ -7763,7 +7736,6 @@ HOST,kuaizitech.com,AdvertisingLite
 HOST,kugo.cc,AdvertisingLite
 HOST,kuk8.com,AdvertisingLite
 HOST,kuku99.com,AdvertisingLite
-HOST,kuldifatlje.com,AdvertisingLite
 HOST,kulro.csheaven.com,AdvertisingLite
 HOST,kumpulblogger.com,AdvertisingLite
 HOST,kunpeng-sc.csdnimg.cn,AdvertisingLite
@@ -7781,7 +7753,6 @@ HOST,kymirasite.pro,AdvertisingLite
 HOST,kypisecmxzhaww.com,AdvertisingLite
 HOST,kyrsu.frost-electric-supply.com,AdvertisingLite
 HOST,kzhusrcuytpruk.com,AdvertisingLite
-HOST,kzkxvrsomub.com,AdvertisingLite
 HOST,kzrwzjmlasll.com,AdvertisingLite
 HOST,kzsha.com,AdvertisingLite
 HOST,l.fairblocker.com,AdvertisingLite
@@ -7819,7 +7790,6 @@ HOST,large-format.net,AdvertisingLite
 HOST,lasagneandands.com,AdvertisingLite
 HOST,laserstat.com,AdvertisingLite
 HOST,laserveradedomaina.com,AdvertisingLite
-HOST,last2.cn,AdvertisingLite
 HOST,laughcloth.com,AdvertisingLite
 HOST,laujouty.com,AdvertisingLite
 HOST,launchbit.com,AdvertisingLite
@@ -7922,7 +7892,6 @@ HOST,lfg5jnbi.com,AdvertisingLite
 HOST,lfhgumhsrjjgrt.com,AdvertisingLite
 HOST,lfov.net,AdvertisingLite
 HOST,lfstmedia.com,AdvertisingLite
-HOST,lfztmoamieum.com,AdvertisingLite
 HOST,lgcblkbn.com,AdvertisingLite
 HOST,lgse.com,AdvertisingLite
 HOST,lgsvywogylblv.com,AdvertisingLite
@@ -7975,7 +7944,6 @@ HOST,linkelevator.com,AdvertisingLite
 HOST,linker.hr,AdvertisingLite
 HOST,linkexchange.com,AdvertisingLite
 HOST,linkexchangers.net,AdvertisingLite
-HOST,linkforme.tk,AdvertisingLite
 HOST,linkforyoud.com,AdvertisingLite
 HOST,linkgrand.com,AdvertisingLite
 HOST,linkoffers.net,AdvertisingLite
@@ -8001,7 +7969,6 @@ HOST,linkybank.com,AdvertisingLite
 HOST,linkz.net,AdvertisingLite
 HOST,liod1ours.com,AdvertisingLite
 HOST,liqwid.net,AdvertisingLite
-HOST,lirawhivaoglha.com,AdvertisingLite
 HOST,lishi.yxbao.com,AdvertisingLite
 HOST,lishi1.yxbao.com,AdvertisingLite
 HOST,list.z.qingting.fm,AdvertisingLite
@@ -8086,6 +8053,7 @@ HOST,lnxsrmsebsd.com,AdvertisingLite
 HOST,loa-traffic.com,AdvertisingLite
 HOST,loadercdn.com,AdvertisingLite
 HOST,loading-delivery1.com,AdvertisingLite
+HOST,loading-resource.com,AdvertisingLite
 HOST,localadbuy.com,AdvertisingLite
 HOST,localedgemedia.com,AdvertisingLite
 HOST,localsearch24.co.uk,AdvertisingLite
@@ -8145,6 +8113,7 @@ HOST,logxp.ru,AdvertisingLite
 HOST,logystowtencon.info,AdvertisingLite
 HOST,logz.ru,AdvertisingLite
 HOST,lokvel.ru,AdvertisingLite
+HOST,loldata.top,AdvertisingLite
 HOST,loldyttw.com,AdvertisingLite
 HOST,loldyttw.net,AdvertisingLite
 HOST,loltrk.com,AdvertisingLite
@@ -8184,6 +8153,7 @@ HOST,lp.ncdownloader.com,AdvertisingLite
 HOST,lp.titanpoker.com,AdvertisingLite
 HOST,lp4.io,AdvertisingLite
 HOST,lpbeta.com,AdvertisingLite
+HOST,lpoggqfdlmdsg.com,AdvertisingLite
 HOST,lporirxe.com,AdvertisingLite
 HOST,lpqlmevjhis.com,AdvertisingLite
 HOST,lpqrgmxuju.com,AdvertisingLite
@@ -8201,7 +8171,6 @@ HOST,lsckvlhhqlo.com,AdvertisingLite
 HOST,lsfinteractive.com,AdvertisingLite
 HOST,lskwsx.m.zwdu.com,AdvertisingLite
 HOST,ltassrv.com.s3.amazonaws.com,AdvertisingLite
-HOST,ltdwkrgogvkgn.com,AdvertisingLite
 HOST,ltg69t.com,AdvertisingLite
 HOST,ltnvnvxzetvhk.com,AdvertisingLite
 HOST,luchtenbergdecor.com.br,AdvertisingLite
@@ -8258,11 +8227,10 @@ HOST,lwxjg.com,AdvertisingLite
 HOST,lx2rv.com,AdvertisingLite
 HOST,lxbjs.baidu.com,AdvertisingLite
 HOST,lxhkqjqpswhg.com,AdvertisingLite
-HOST,lxoakdaejjryws.com,AdvertisingLite
 HOST,lxtrack.com,AdvertisingLite
-HOST,lyaaikspui.com,AdvertisingLite
 HOST,lygnasa.cn,AdvertisingLite
 HOST,lylog.1391.com,AdvertisingLite
+HOST,lyngro.com,AdvertisingLite
 HOST,lypn.com,AdvertisingLite
 HOST,lypn.net,AdvertisingLite
 HOST,lytics.io,AdvertisingLite
@@ -8307,6 +8275,7 @@ HOST,m.cjjcby.cn,AdvertisingLite
 HOST,m.ckaim.com,AdvertisingLite
 HOST,m.cpgzh.com,AdvertisingLite
 HOST,m.ecenf.com,AdvertisingLite
+HOST,m.ehwhwz.cn,AdvertisingLite
 HOST,m.eiiteho.cn,AdvertisingLite
 HOST,m.epoch168.com,AdvertisingLite
 HOST,m.future888.net,AdvertisingLite
@@ -8314,6 +8283,7 @@ HOST,m.gexings.com,AdvertisingLite
 HOST,m.gomev.cn,AdvertisingLite
 HOST,m.gvez.top,AdvertisingLite
 HOST,m.h0x.cn,AdvertisingLite
+HOST,m.hdjy999.com,AdvertisingLite
 HOST,m.heshanwan.cn,AdvertisingLite
 HOST,m.hpcat.cn,AdvertisingLite
 HOST,m.hx623.cn,AdvertisingLite
@@ -8338,6 +8308,7 @@ HOST,m.shilian168.cn,AdvertisingLite
 HOST,m.shwedar.com.cn,AdvertisingLite
 HOST,m.szmt02.cn,AdvertisingLite
 HOST,m.szmt18.cn,AdvertisingLite
+HOST,m.tcenn.com,AdvertisingLite
 HOST,m.tdiea.com,AdvertisingLite
 HOST,m.track.ad.xiaomi.com,AdvertisingLite
 HOST,m.u4q2.cn,AdvertisingLite
@@ -8528,7 +8499,6 @@ HOST,mdn2015x5.com,AdvertisingLite
 HOST,mdn3.phluantmobile.net,AdvertisingLite
 HOST,mdn3origin.phluantmobile.net,AdvertisingLite
 HOST,mdotlabs.com,AdvertisingLite
-HOST,mdqpfqvienzr.com,AdvertisingLite
 HOST,mds.xmgsjd.com,AdvertisingLite
 HOST,mdsauswjligigj.com,AdvertisingLite
 HOST,mdsngpush.finanzen.net,AdvertisingLite
@@ -8669,7 +8639,6 @@ HOST,mgcash.com,AdvertisingLite
 HOST,mgcashgate.com,AdvertisingLite
 HOST,mgfd1b.petrix.net,AdvertisingLite
 HOST,mgjumvwmgusai.com,AdvertisingLite
-HOST,mgnkokxa.com,AdvertisingLite
 HOST,mgplatform.com,AdvertisingLite
 HOST,mgzgmyzz.com,AdvertisingLite
 HOST,mh1.zhengdongwuye.cn,AdvertisingLite
@@ -8751,21 +8720,17 @@ HOST,mixi.mn,AdvertisingLite
 HOST,mixmarket.biz,AdvertisingLite
 HOST,mixpo.com,AdvertisingLite
 HOST,mixturehopeful.com,AdvertisingLite
-HOST,mixuaeielbnlg.com,AdvertisingLite
 HOST,miyudaquan.top,AdvertisingLite
 HOST,mjf.lijun8.com,AdvertisingLite
 HOST,mjmbfjbgtqpu.com,AdvertisingLite
-HOST,mjpjjbbvct.com,AdvertisingLite
 HOST,mkgosjtrbhag.com,AdvertisingLite
 HOST,mkhoj.com,AdvertisingLite
-HOST,mkkxioajtwm.com,AdvertisingLite
 HOST,mkt3261.com,AdvertisingLite
 HOST,mkt51.net,AdvertisingLite
 HOST,mkt6333.com,AdvertisingLite
 HOST,mkt941.com,AdvertisingLite
 HOST,mktmobi.com,AdvertisingLite
 HOST,mktoresp.com,AdvertisingLite
-HOST,mkyrxfftdmqx.com,AdvertisingLite
 HOST,ml-attr.com,AdvertisingLite
 HOST,ml314.com,AdvertisingLite
 HOST,mldy.xdaay.cn,AdvertisingLite
@@ -8776,7 +8741,6 @@ HOST,mlltyllhgohn.com,AdvertisingLite
 HOST,mlnadvertising.com,AdvertisingLite
 HOST,mlno6.com,AdvertisingLite
 HOST,mlonsougoylpbu.com,AdvertisingLite
-HOST,mlqrytbjgrbe.com,AdvertisingLite
 HOST,mlstat.com,AdvertisingLite
 HOST,mlyqbqha.com,AdvertisingLite
 HOST,mm-syringe.com,AdvertisingLite
@@ -8812,10 +8776,9 @@ HOST,mncvjhg.com,AdvertisingLite
 HOST,mnetads.com,AdvertisingLite
 HOST,mnfiiphpwzyncr.com,AdvertisingLite
 HOST,mno.link,AdvertisingLite
-HOST,mnozqjxzrhko.com,AdvertisingLite
 HOST,mntzr11.net,AdvertisingLite
 HOST,mntzrlt.net,AdvertisingLite
-HOST,mnzdgidf.com,AdvertisingLite
+HOST,mo.4k9b.cn,AdvertisingLite
 HOST,mo.baidu.com,AdvertisingLite
 HOST,mo.bsxr.com.cn,AdvertisingLite
 HOST,mo.grqf.com.cn,AdvertisingLite
@@ -8823,6 +8786,7 @@ HOST,mo.lbmx.com.cn,AdvertisingLite
 HOST,mo.oneshouyou.cn,AdvertisingLite
 HOST,mo.qitouch.cn,AdvertisingLite
 HOST,mo.rltk.com.cn,AdvertisingLite
+HOST,mo.tsnsrix.cn,AdvertisingLite
 HOST,mo.zdceaa.cn,AdvertisingLite
 HOST,mo8mwxi1.com,AdvertisingLite
 HOST,moafoche.com,AdvertisingLite
@@ -8955,7 +8919,6 @@ HOST,mptentry.com,AdvertisingLite
 HOST,mpuls.ru,AdvertisingLite
 HOST,mpuqvoa.com,AdvertisingLite
 HOST,mpwe.net,AdvertisingLite
-HOST,mqhubpjjlhszv.com,AdvertisingLite
 HOST,mql5.com,AdvertisingLite
 HOST,mr-rank.de,AdvertisingLite
 HOST,mrjppjqmc.com,AdvertisingLite
@@ -9033,7 +8996,6 @@ HOST,mxsads.com,AdvertisingLite
 HOST,mxsuikhqaggf.com,AdvertisingLite
 HOST,mxtads.com,AdvertisingLite
 HOST,mxvncslrduda.com,AdvertisingLite
-HOST,mxysalqnbj.com,AdvertisingLite
 HOST,my-material.zone1.meitudata.com,AdvertisingLite
 HOST,my-ranking.de,AdvertisingLite
 HOST,my-stats.info,AdvertisingLite
@@ -9051,7 +9013,6 @@ HOST,mycasinoaccounts.com,AdvertisingLite
 HOST,mycctvmedia.com,AdvertisingLite
 HOST,mycdn.co,AdvertisingLite
 HOST,mycdn2.co,AdvertisingLite
-HOST,mycleanpc.tk,AdvertisingLite
 HOST,myclickbankads.com,AdvertisingLite
 HOST,mycookies.it,AdvertisingLite
 HOST,mycounter.com.ua,AdvertisingLite
@@ -9177,12 +9138,12 @@ HOST,navrcholu.cz,AdvertisingLite
 HOST,naytev.com,AdvertisingLite
 HOST,nba.emohe.com,AdvertisingLite
 HOST,nbbull.com,AdvertisingLite
+HOST,nbeejafjpbm.com,AdvertisingLite
 HOST,nbijjhqnzcwr.com,AdvertisingLite
 HOST,nbjmp.com,AdvertisingLite
 HOST,nbook.far.ru,AdvertisingLite
 HOST,nbrwvrqyz.com,AdvertisingLite
 HOST,nbstatic.com,AdvertisingLite
-HOST,nbuzrpmvgwsmjg.com,AdvertisingLite
 HOST,ncaudienceexchange.com,AdvertisingLite
 HOST,ncom.dk,AdvertisingLite
 HOST,nda3456.com,AdvertisingLite
@@ -9262,7 +9223,6 @@ HOST,neuesdate.com,AdvertisingLite
 HOST,neumashop.cl,AdvertisingLite
 HOST,never2date.com,AdvertisingLite
 HOST,nevergreen.net,AdvertisingLite
-HOST,new-address.tk,AdvertisingLite
 HOST,new-new-years.com,AdvertisingLite
 HOST,new.minr.pw,AdvertisingLite
 HOST,new17write.com,AdvertisingLite
@@ -9321,7 +9281,6 @@ HOST,nexac.com,AdvertisingLite
 HOST,nexeps.com,AdvertisingLite
 HOST,nextbdom.ru,AdvertisingLite
 HOST,nextdoor.com,AdvertisingLite
-HOST,nextlandingads.com,AdvertisingLite
 HOST,nextmillennium.io,AdvertisingLite
 HOST,nextoptim.com,AdvertisingLite
 HOST,nextstat.com,AdvertisingLite
@@ -9402,7 +9361,6 @@ HOST,nmldqncelrpht.com,AdvertisingLite
 HOST,nmsbaseball.com,AdvertisingLite
 HOST,nmywwgnnkmud.com,AdvertisingLite
 HOST,nnfgfuhecdfls.com,AdvertisingLite
-HOST,nnmmdhpi.com,AdvertisingLite
 HOST,noadblock.net,AdvertisingLite
 HOST,noadblock.org,AdvertisingLite
 HOST,noaptauw.com,AdvertisingLite
@@ -9416,7 +9374,6 @@ HOST,nokaut.link,AdvertisingLite
 HOST,nompakru.click,AdvertisingLite
 HOST,nonissue.com,AdvertisingLite
 HOST,nonkads.com,AdvertisingLite
-HOST,nonpaly.ru,AdvertisingLite
 HOST,nonsi.csheaven.com,AdvertisingLite
 HOST,nonstoppartner.de,AdvertisingLite
 HOST,noobgirls.com,AdvertisingLite
@@ -9490,12 +9447,12 @@ HOST,nstracking.com,AdvertisingLite
 HOST,nsvfl7p9.com,AdvertisingLite
 HOST,nszmz.com,AdvertisingLite
 HOST,nt-associates.com,AdvertisingLite
-HOST,ntbtvdbomevgzs.com,AdvertisingLite
 HOST,ntent.com,AdvertisingLite
 HOST,ntlab.org,AdvertisingLite
 HOST,ntryonoxojiyya.com,AdvertisingLite
 HOST,ntv.io,AdvertisingLite
 HOST,ntvk1.ru,AdvertisingLite
+HOST,ntvsw.com,AdvertisingLite
 HOST,nucgjbkrixsyh.com,AdvertisingLite
 HOST,nuconomy.com,AdvertisingLite
 HOST,nudebeachgalleries.net,AdvertisingLite
@@ -9519,7 +9476,6 @@ HOST,nvtbspcwhb.com,AdvertisingLite
 HOST,nwfhalifax.com,AdvertisingLite
 HOST,nxcxithvcoeh.com,AdvertisingLite
 HOST,nxtck.com,AdvertisingLite
-HOST,nxtuaeko.com,AdvertisingLite
 HOST,nxw.0518g.com,AdvertisingLite
 HOST,ny5159.com,AdvertisingLite
 HOST,nyacampwk.com,AdvertisingLite
@@ -9545,6 +9501,7 @@ HOST,o6ek91ag15.com,AdvertisingLite
 HOST,oadaheba.net,AdvertisingLite
 HOST,oageeedhvyyojj.com,AdvertisingLite
 HOST,oainternetservices.com,AdvertisingLite
+HOST,oaitcmlscwe.com,AdvertisingLite
 HOST,oakso.tourstogo.us,AdvertisingLite
 HOST,oalselry.com,AdvertisingLite
 HOST,oampa.csheaven.com,AdvertisingLite
@@ -9568,7 +9525,6 @@ HOST,oclasrv.com,AdvertisingLite
 HOST,oclus.com,AdvertisingLite
 HOST,oconner.biz,AdvertisingLite
 HOST,ocpersian.com,AdvertisingLite
-HOST,ocphuulbithyyd.com,AdvertisingLite
 HOST,octavius.rocks,AdvertisingLite
 HOST,octomarket.com,AdvertisingLite
 HOST,octopart-analytics.com,AdvertisingLite
@@ -9581,6 +9537,7 @@ HOST,odukhsymyua.com,AdvertisingLite
 HOST,odwofgksbcyoh.com,AdvertisingLite
 HOST,odysseus-nua.com,AdvertisingLite
 HOST,oe.tredsd.com,AdvertisingLite
+HOST,oefyjdykepx.com,AdvertisingLite
 HOST,oegzbchydxbjkz.com,AdvertisingLite
 HOST,oevery.com,AdvertisingLite
 HOST,oewabox.at,AdvertisingLite
@@ -9601,9 +9558,7 @@ HOST,offerstrategy.com,AdvertisingLite
 HOST,officeon.ch.ma,AdvertisingLite
 HOST,ofhappinyer.com,AdvertisingLite
 HOST,ofigraiw.net,AdvertisingLite
-HOST,ofkrfhjded.com,AdvertisingLite
 HOST,ofy3m0gp.com,AdvertisingLite
-HOST,ogdzyxly.com,AdvertisingLite
 HOST,ogercron.com,AdvertisingLite
 HOST,oggifinogi.com,AdvertisingLite
 HOST,oghub.io,AdvertisingLite
@@ -9660,7 +9615,6 @@ HOST,omnitagjs.com,AdvertisingLite
 HOST,omrdatacapture.com,AdvertisingLite
 HOST,omtvxcle.com,AdvertisingLite
 HOST,omynews.net,AdvertisingLite
-HOST,omzwbcsev.com,AdvertisingLite
 HOST,on-line.lv,AdvertisingLite
 HOST,on-push.com,AdvertisingLite
 HOST,onad.eu,AdvertisingLite
@@ -9792,6 +9746,7 @@ HOST,opto-22.com.cn,AdvertisingLite
 HOST,optorb.com,AdvertisingLite
 HOST,optout.crsspxl.com,AdvertisingLite
 HOST,opus.analytics.yahoo.com,AdvertisingLite
+HOST,oqbxbautpu.com,AdvertisingLite
 HOST,oqxyzvkwso.com,AdvertisingLite
 HOST,oracleinfinity.io,AdvertisingLite
 HOST,orangeads.fr,AdvertisingLite
@@ -9813,7 +9768,6 @@ HOST,origer.info,AdvertisingLite
 HOST,ornament-i.com,AdvertisingLite
 HOST,ort-stsdk.vivo.com.cn,AdvertisingLite
 HOST,orts.wixawin.com,AdvertisingLite
-HOST,orvzvaqig.com,AdvertisingLite
 HOST,os-data.com,AdvertisingLite
 HOST,os.tc,AdvertisingLite
 HOST,osdata.solutions,AdvertisingLite
@@ -9825,6 +9779,7 @@ HOST,osny2p7a0k.com,AdvertisingLite
 HOST,ospreymedialp.com,AdvertisingLite
 HOST,ospserver.net,AdvertisingLite
 HOST,osvryhznx.com,AdvertisingLite
+HOST,otaijing.com,AdvertisingLite
 HOST,otaserve.net,AdvertisingLite
 HOST,otcbuqxriuht.com,AdvertisingLite
 HOST,otcxzgcu.com,AdvertisingLite
@@ -9833,7 +9788,6 @@ HOST,othernedm.info,AdvertisingLite
 HOST,otherprofit.com,AdvertisingLite
 HOST,othersonline.com,AdvertisingLite
 HOST,otheve.beacon.qq.com,AdvertisingLite
-HOST,otmyoesv.com,AdvertisingLite
 HOST,otnolabttmup.com,AdvertisingLite
 HOST,otnolatrnup.com,AdvertisingLite
 HOST,otoshiana.com,AdvertisingLite
@@ -9851,6 +9805,7 @@ HOST,ounion.openadx.com,AdvertisingLite
 HOST,ouo.io,AdvertisingLite
 HOST,ouptoobe.net,AdvertisingLite
 HOST,oupushee.com,AdvertisingLite
+HOST,ouqlhdajsaq.com,AdvertisingLite
 HOST,ournet-analytics.com,AdvertisingLite
 HOST,ourstats.de,AdvertisingLite
 HOST,oushenoo.net,AdvertisingLite
@@ -9891,10 +9846,12 @@ HOST,ozmifi.info,AdvertisingLite
 HOST,ozonemedia.com,AdvertisingLite
 HOST,ozora.work,AdvertisingLite
 HOST,ozrdgjalmch.com,AdvertisingLite
+HOST,ozrmnwplx.com,AdvertisingLite
 HOST,ozwjhdler.com,AdvertisingLite
 HOST,p-advg.com,AdvertisingLite
 HOST,p-digital-server.com,AdvertisingLite
 HOST,p-td.com,AdvertisingLite
+HOST,p.5mnh.com,AdvertisingLite
 HOST,p.8es.net,AdvertisingLite
 HOST,p.buluo.qq.com,AdvertisingLite
 HOST,p.delivery.net,AdvertisingLite
@@ -10031,7 +9988,6 @@ HOST,pdbu.net,AdvertisingLite
 HOST,pdfcomplete.com,AdvertisingLite
 HOST,pdiinfo.com.cn,AdvertisingLite
 HOST,pdmp.jp,AdvertisingLite
-HOST,pdmucolwl.com,AdvertisingLite
 HOST,pdn-1.com,AdvertisingLite
 HOST,pdn-2.com,AdvertisingLite
 HOST,pdywlbjkeq.work,AdvertisingLite
@@ -10095,6 +10051,7 @@ HOST,petiteumbrella.com,AdvertisingLite
 HOST,petsarlaaafru.com,AdvertisingLite
 HOST,petsoocm.com,AdvertisingLite
 HOST,pexu.com,AdvertisingLite
+HOST,pfcjhjogq.com,AdvertisingLite
 HOST,pfmmqofcadze.com,AdvertisingLite
 HOST,pfyalardueu.com,AdvertisingLite
 HOST,pg-ad-b1.ws.126.net,AdvertisingLite
@@ -10145,6 +10102,7 @@ HOST,photo.rdguj.cn,AdvertisingLite
 HOST,photographpan.com,AdvertisingLite
 HOST,photorank.me,AdvertisingLite
 HOST,phpstat.com,AdvertisingLite
+HOST,phvmjnkysnj.com,AdvertisingLite
 HOST,phywi.org,AdvertisingLite
 HOST,pi-stats.com,AdvertisingLite
 HOST,pibaba.com.cn,AdvertisingLite
@@ -10261,7 +10219,6 @@ HOST,plexop.com,AdvertisingLite
 HOST,plexop.net,AdvertisingLite
 HOST,plexworks.de,AdvertisingLite
 HOST,plgrrkpxnjrvac.com,AdvertisingLite
-HOST,plhielbsmvlm.com,AdvertisingLite
 HOST,plified.pro,AdvertisingLite
 HOST,plinx.net,AdvertisingLite
 HOST,plocap.com,AdvertisingLite
@@ -10386,7 +10343,6 @@ HOST,porno-file.ru,AdvertisingLite
 HOST,pornoh.info,AdvertisingLite
 HOST,pornomovies.com,AdvertisingLite
 HOST,pornoow.com,AdvertisingLite
-HOST,pornstarss.tk,AdvertisingLite
 HOST,porntagged.com,AdvertisingLite
 HOST,porntrack.com,AdvertisingLite
 HOST,pornworld.online,AdvertisingLite
@@ -10431,6 +10387,7 @@ HOST,ppro.de,AdvertisingLite
 HOST,ppt.tianya999.com,AdvertisingLite
 HOST,ppvabs.pplive.com,AdvertisingLite
 HOST,pqmfbegdsuwqiz.com,AdvertisingLite
+HOST,pqpuraoxacaxw.com,AdvertisingLite
 HOST,pr-chart.com,AdvertisingLite
 HOST,pr-chart.de,AdvertisingLite
 HOST,pr-linktausch.de,AdvertisingLite
@@ -10835,7 +10792,6 @@ HOST,q64a9ris0j.com,AdvertisingLite
 HOST,qadserve.com,AdvertisingLite
 HOST,qadservice.com,AdvertisingLite
 HOST,qaggfomwjko.com,AdvertisingLite
-HOST,qagkaxrj.com,AdvertisingLite
 HOST,qai-ir.quartic.pl,AdvertisingLite
 HOST,qai.quartic.pl,AdvertisingLite
 HOST,qapm.baidu.com,AdvertisingLite
@@ -10860,11 +10816,14 @@ HOST,qfdn3gyfbs.com,AdvertisingLite
 HOST,qfwjclpckrdehi.com,AdvertisingLite
 HOST,qfy.innotechx.com,AdvertisingLite
 HOST,qgevavwyafjf.com,AdvertisingLite
+HOST,qggcjrrjvlif.com,AdvertisingLite
 HOST,qgkmjpgwg.com,AdvertisingLite
 HOST,qgrazpvofra.com,AdvertisingLite
 HOST,qgwazwmlx.com,AdvertisingLite
+HOST,qhdanxdyeuzdio.com,AdvertisingLite
 HOST,qhsyg.top,AdvertisingLite
 HOST,qhupdate.com,AdvertisingLite
+HOST,qiaepasvtp.com,AdvertisingLite
 HOST,qianwei.wang,AdvertisingLite
 HOST,qianyilamian.cn,AdvertisingLite
 HOST,qichetiemo.info,AdvertisingLite
@@ -10876,17 +10835,17 @@ HOST,qinxpsktrelpl.com,AdvertisingLite
 HOST,qjhlc.com,AdvertisingLite
 HOST,qjnofrpbv.com,AdvertisingLite
 HOST,qjqfcsgnjk.com,AdvertisingLite
-HOST,qjumbyzsnomwt.com,AdvertisingLite
 HOST,qkkjd.com,AdvertisingLite
-HOST,qkpmdadu.com,AdvertisingLite
 HOST,qksrv.net,AdvertisingLite
 HOST,qksz.net,AdvertisingLite
 HOST,qkxmnpxtr.com,AdvertisingLite
 HOST,qlitics.com,AdvertisingLite
 HOST,qlzn6i1l.com,AdvertisingLite
 HOST,qmkr7isp3o.com,AdvertisingLite
+HOST,qmokxgfz.com,AdvertisingLite
 HOST,qmovnrphbgqr.com,AdvertisingLite
 HOST,qmxkmsmkjxlar.com,AdvertisingLite
+HOST,qnemxzckwx.com,AdvertisingLite
 HOST,qnsr.com,AdvertisingLite
 HOST,qoijertneio.com,AdvertisingLite
 HOST,qoppaeqd.com,AdvertisingLite
@@ -10906,7 +10865,6 @@ HOST,qrbizr.cn,AdvertisingLite
 HOST,qreoifgajnoor.com,AdvertisingLite
 HOST,qrius.me,AdvertisingLite
 HOST,qrlsx.com,AdvertisingLite
-HOST,qrpwaluz.com,AdvertisingLite
 HOST,qrusnsgwuzgrs.com,AdvertisingLite
 HOST,qservz.com,AdvertisingLite
 HOST,qsstats.com,AdvertisingLite
@@ -10949,7 +10907,6 @@ HOST,quintelligence.com,AdvertisingLite
 HOST,quitsnap-blue.com,AdvertisingLite
 HOST,quizzicalzephyr.com,AdvertisingLite
 HOST,qumagee.com,AdvertisingLite
-HOST,qumwhbfjvbrrr.com,AdvertisingLite
 HOST,quotidiennokoue.com,AdvertisingLite
 HOST,qutyan8848.com,AdvertisingLite
 HOST,qvmgjhspiebe.com,AdvertisingLite
@@ -10962,7 +10919,6 @@ HOST,qwerty24.net,AdvertisingLite
 HOST,qwxcs.com,AdvertisingLite
 HOST,qxlohjsxaaq.com,AdvertisingLite
 HOST,qyixifzol.com,AdvertisingLite
-HOST,qzljxgufyvmupa.com,AdvertisingLite
 HOST,qzlog.com,AdvertisingLite
 HOST,qzpb.qq.com,AdvertisingLite
 HOST,qzvgrwayranpn.com,AdvertisingLite
@@ -11046,7 +11002,6 @@ HOST,rcscaxhjmm.com,AdvertisingLite
 HOST,rcurn.com,AdvertisingLite
 HOST,rcvhzfcnja.com,AdvertisingLite
 HOST,rd.rakuten.co.jp,AdvertisingLite
-HOST,rdcespozlwv.com,AdvertisingLite
 HOST,rddywd.com,AdvertisingLite
 HOST,rdiul.com,AdvertisingLite
 HOST,rdrtrk.com,AdvertisingLite
@@ -11288,7 +11243,6 @@ HOST,rhombusads.com,AdvertisingLite
 HOST,rhythmxchange.com,AdvertisingLite
 HOST,riastats.com,AdvertisingLite
 HOST,ribbon.india.com,AdvertisingLite
-HOST,ribstygzuiz.com,AdvertisingLite
 HOST,ric-ric-rum.com,AdvertisingLite
 HOST,ricead.com,AdvertisingLite
 HOST,richard-group.com,AdvertisingLite
@@ -11318,8 +11272,8 @@ HOST,ritzykey.com,AdvertisingLite
 HOST,rivcash.com,AdvertisingLite
 HOST,rivrai.com,AdvertisingLite
 HOST,rixaka.com,AdvertisingLite
+HOST,riykotovmy.com,AdvertisingLite
 HOST,rjaepduiirw.com,AdvertisingLite
-HOST,rjvochbc.com,AdvertisingLite
 HOST,rkdms.com,AdvertisingLite
 HOST,rkpecade.com,AdvertisingLite
 HOST,rktch.com,AdvertisingLite
@@ -11391,12 +11345,10 @@ HOST,rp-rep.net,AdvertisingLite
 HOST,rplzmw.cn,AdvertisingLite
 HOST,rpt.hpplay.cn,AdvertisingLite
 HOST,rpts.org,AdvertisingLite
-HOST,rpuuwsjcu.com,AdvertisingLite
 HOST,rqbxfbls.com,AdvertisingLite
 HOST,rqtrk.eu,AdvertisingLite
 HOST,rrdtjj.top,AdvertisingLite
 HOST,rrimpl.com,AdvertisingLite
-HOST,rrjgenyklff.com,AdvertisingLite
 HOST,rrshibwsq.com,AdvertisingLite
 HOST,rrvpscehvjuz.com,AdvertisingLite
 HOST,rs-staticart.ybcdn.net,AdvertisingLite
@@ -11462,10 +11414,9 @@ HOST,rutarget.ru,AdvertisingLite
 HOST,ruthlessdegree.com,AdvertisingLite
 HOST,rvlzsbmshtt.com,AdvertisingLite
 HOST,rvnc72k.com,AdvertisingLite
-HOST,rwrqmqyhfn.com,AdvertisingLite
 HOST,rwyprejibmvcfh.com,AdvertisingLite
 HOST,rxthdr.com,AdvertisingLite
-HOST,rygiukfvtos.com,AdvertisingLite
+HOST,ryaqdetppzpw.com,AdvertisingLite
 HOST,ryminos.com,AdvertisingLite
 HOST,rynotnfdekb.com,AdvertisingLite
 HOST,ryquhezrbhfp.com,AdvertisingLite
@@ -11569,7 +11520,6 @@ HOST,santacruzsuspension.com,AdvertisingLite
 HOST,sapha.com,AdvertisingLite
 HOST,sarahdaniella.com,AdvertisingLite
 HOST,sare25.com,AdvertisingLite
-HOST,sarimsol.com,AdvertisingLite
 HOST,sarov.ws,AdvertisingLite
 HOST,sas.com,AdvertisingLite
 HOST,sas15k01.com,AdvertisingLite
@@ -11599,14 +11549,9 @@ HOST,sbs-ad.com,AdvertisingLite
 HOST,sbscribeme.com,AdvertisingLite
 HOST,sc-static.net,AdvertisingLite
 HOST,scaledb.com,AdvertisingLite
-HOST,scaner-figy.tk,AdvertisingLite
-HOST,scaner-or.tk,AdvertisingLite
-HOST,scaner-sbite.tk,AdvertisingLite
-HOST,scaner-sboom.tk,AdvertisingLite
 HOST,scanmedios.com,AdvertisingLite
 HOST,scanscout.com,AdvertisingLite
 HOST,scarabresearch.com,AdvertisingLite
-HOST,scdsfdfgdr12.tk,AdvertisingLite
 HOST,scenbe.com,AdvertisingLite
 HOST,sceno.ru,AdvertisingLite
 HOST,schedhomoso.pro,AdvertisingLite
@@ -11914,13 +11859,11 @@ HOST,sexy.fling.com,AdvertisingLite
 HOST,sexykittenporn.com,AdvertisingLite
 HOST,sexyoilwrestling.com,AdvertisingLite
 HOST,sexystat.com,AdvertisingLite
-HOST,sexyster.tk,AdvertisingLite
 HOST,sf.vserv.mobi,AdvertisingLite
 HOST,sf14g.com,AdvertisingLite
 HOST,sf3-ttcdn-tos.pstatp.com,AdvertisingLite
 HOST,sf6-ttcdn-tos.pstatp.com,AdvertisingLite
 HOST,sflekykzhqz.com,AdvertisingLite
-HOST,sflyycxlsad.com,AdvertisingLite
 HOST,sftpgyqdrexl.com,AdvertisingLite
 HOST,sg-autorepondeur.com,AdvertisingLite
 HOST,sg888.vip,AdvertisingLite
@@ -12100,6 +12043,7 @@ HOST,skqfrvciqfco.com,AdvertisingLite
 HOST,skryptcookies.pl,AdvertisingLite
 HOST,skyactivate.com,AdvertisingLite
 HOST,skyglue.com,AdvertisingLite
+HOST,skyjh.cn,AdvertisingLite
 HOST,skyligh.co,AdvertisingLite
 HOST,skylog.kz,AdvertisingLite
 HOST,skymedia.co.uk,AdvertisingLite
@@ -12297,7 +12241,6 @@ HOST,snaps.vidiemi.com,AdvertisingLite
 HOST,snapsmedia.io,AdvertisingLite
 HOST,snapwidget.com,AdvertisingLite
 HOST,snbnhngl.ifeng.com,AdvertisingLite
-HOST,snbybgwiyfug.com,AdvertisingLite
 HOST,sndkorea.co.kr,AdvertisingLite
 HOST,sndkorea.nowcdn.co.kr,AdvertisingLite
 HOST,sneakystamp.com,AdvertisingLite
@@ -12458,6 +12401,7 @@ HOST,sponsormob.com,AdvertisingLite
 HOST,sportradarserving.com,AdvertisingLite
 HOST,sportsbetaffiliates.com.au,AdvertisingLite
 HOST,sportsyndicator.com,AdvertisingLite
+HOST,spotmx.com,AdvertisingLite
 HOST,spotrails.com,AdvertisingLite
 HOST,spotscenered.info,AdvertisingLite
 HOST,spottednoise.com,AdvertisingLite
@@ -12689,10 +12633,10 @@ HOST,stiffstem.com,AdvertisingLite
 HOST,stipple.cachefly.net,AdvertisingLite
 HOST,stipple.com,AdvertisingLite
 HOST,stippleit.com,AdvertisingLite
-HOST,stkyqouwanr.com,AdvertisingLite
 HOST,stnetsdk.appstore.vivo.com.cn,AdvertisingLite
 HOST,stnetsdk.vivo.com.cn,AdvertisingLite
 HOST,stoaksie.com,AdvertisingLite
+HOST,stoashou.net,AdvertisingLite
 HOST,stocker.bonnint.net,AdvertisingLite
 HOST,stonecalcom.com,AdvertisingLite
 HOST,stootoat.com,AdvertisingLite
@@ -12793,7 +12737,6 @@ HOST,supersitetime.com,AdvertisingLite
 HOST,superstat.info,AdvertisingLite
 HOST,superstats.com,AdvertisingLite
 HOST,supert.ag,AdvertisingLite
-HOST,superwebs.pro,AdvertisingLite
 HOST,superwidget-assets.gowatchit.com,AdvertisingLite
 HOST,supletcedintand.pro,AdvertisingLite
 HOST,supply.upjers.com,AdvertisingLite
@@ -12807,7 +12750,6 @@ HOST,surfe.pro,AdvertisingLite
 HOST,surfertracker.com,AdvertisingLite
 HOST,surfingbird.ru,AdvertisingLite
 HOST,surgeprice.com,AdvertisingLite
-HOST,surroundtm.com,AdvertisingLite
 HOST,survey-poll.com,AdvertisingLite
 HOST,survey.constantcontact.com,AdvertisingLite
 HOST,survey.io,AdvertisingLite
@@ -12902,6 +12844,7 @@ HOST,t.h5data.com,AdvertisingLite
 HOST,t.ksrong.com,AdvertisingLite
 HOST,t.powerreviews.com,AdvertisingLite
 HOST,t.pzclw.cn,AdvertisingLite
+HOST,t.sdpaji.com,AdvertisingLite
 HOST,t.xiumii.top,AdvertisingLite
 HOST,t.zisu.cn.com,AdvertisingLite
 HOST,t1.a.market.xiaomi.com,AdvertisingLite
@@ -12919,7 +12862,6 @@ HOST,tabex.sopharma.bg,AdvertisingLite
 HOST,tabici.com,AdvertisingLite
 HOST,taboolasyndication.com,AdvertisingLite
 HOST,tabunder.com,AdvertisingLite
-HOST,tacbljtvygnokv.com,AdvertisingLite
 HOST,tacrater.com,AdvertisingLite
 HOST,tacticalrepublic.com,AdvertisingLite
 HOST,tafmaster.com,AdvertisingLite
@@ -13009,7 +12951,6 @@ HOST,tdc.qq.com,AdvertisingLite
 HOST,tdfamwrbdwkosn.com,AdvertisingLite
 HOST,tdmd.us,AdvertisingLite
 HOST,tdntrack.com,AdvertisingLite
-HOST,tdrhecmigtrm.com,AdvertisingLite
 HOST,tds.io,AdvertisingLite
 HOST,tdsjsext.com,AdvertisingLite
 HOST,tdxipgdorydvzo.com,AdvertisingLite
@@ -13084,7 +13025,6 @@ HOST,testnet.nl,AdvertisingLite
 HOST,testtralala.xorg.pl,AdvertisingLite
 HOST,tetigi.com,AdvertisingLite
 HOST,tetoolbox.com,AdvertisingLite
-HOST,teueondocabsu.com,AdvertisingLite
 HOST,text-link-ads.com,AdvertisingLite
 HOST,textonlyads.com,AdvertisingLite
 HOST,textspeier.de,AdvertisingLite
@@ -13092,7 +13032,6 @@ HOST,textsrv.com,AdvertisingLite
 HOST,tf2www.com,AdvertisingLite
 HOST,tfa5e.top,AdvertisingLite
 HOST,tfag.de,AdvertisingLite
-HOST,tfbqvqclg.com,AdvertisingLite
 HOST,tfqexqeldxjvet.com,AdvertisingLite
 HOST,tgdaudience.com,AdvertisingLite
 HOST,tget.me,AdvertisingLite
@@ -13114,9 +13053,7 @@ HOST,thebestlinks.com,AdvertisingLite
 HOST,thebigchair.com.au,AdvertisingLite
 HOST,thebrighttag.com,AdvertisingLite
 HOST,thebunsenburner.com,AdvertisingLite
-HOST,thecloudtrader.com,AdvertisingLite
 HOST,thecounter.com,AdvertisingLite
-HOST,thecrop.vip,AdvertisingLite
 HOST,theechosystem.com,AdvertisingLite
 HOST,theersoa.net,AdvertisingLite
 HOST,thefifthera.com,AdvertisingLite
@@ -13191,7 +13128,6 @@ HOST,ticklesign.com,AdvertisingLite
 HOST,ticrite.com,AdvertisingLite
 HOST,tidaltv.com,AdvertisingLite
 HOST,tiexing.com,AdvertisingLite
-HOST,tifbhyfrik.com,AdvertisingLite
 HOST,tiller.co,AdvertisingLite
 HOST,timothycopus.aimoo.com,AdvertisingLite
 HOST,timteen.com,AdvertisingLite
@@ -13250,7 +13186,9 @@ HOST,tmqhw.us,AdvertisingLite
 HOST,tmserver-1.com,AdvertisingLite
 HOST,tmserver-2.net,AdvertisingLite
 HOST,tmtrck.com,AdvertisingLite
+HOST,tmtxtltrid.com,AdvertisingLite
 HOST,tmvtp.com,AdvertisingLite
+HOST,tmyxrlpkn.com,AdvertisingLite
 HOST,tnative.ru,AdvertisingLite
 HOST,tnbyhwawsh.com,AdvertisingLite
 HOST,tncexvzu.com,AdvertisingLite
@@ -13279,6 +13217,7 @@ HOST,tongji.eastday.com,AdvertisingLite
 HOST,tongji.leju.com,AdvertisingLite
 HOST,tongji.miercn.com,AdvertisingLite
 HOST,tongji.southmoney.com,AdvertisingLite
+HOST,tongji.tt.shouji56.com,AdvertisingLite
 HOST,tongji.wlongchina.com,AdvertisingLite
 HOST,tongji.xinmin.cn,AdvertisingLite
 HOST,tongjiyu.com,AdvertisingLite
@@ -13358,13 +13297,11 @@ HOST,tours.imlive.com,AdvertisingLite
 HOST,tourstogo.us,AdvertisingLite
 HOST,touy.deryakose.com,AdvertisingLite
 HOST,tovery.net,AdvertisingLite
-HOST,tpbpojpo.com,AdvertisingLite
 HOST,tpdads.com,AdvertisingLite
 HOST,tpm.pw,AdvertisingLite
 HOST,tpn134.com,AdvertisingLite
 HOST,tqbmcmttzid.com,AdvertisingLite
 HOST,tqddgnqsrya.com,AdvertisingLite
-HOST,tqguvxunwvk.com,AdvertisingLite
 HOST,tqlkg.com,AdvertisingLite
 HOST,tr.jianshu.com,AdvertisingLite
 HOST,tr.p.360.cn,AdvertisingLite
@@ -13420,6 +13357,7 @@ HOST,tracking.drsfostersmith.com,AdvertisingLite
 HOST,tracking.edvisors.com,AdvertisingLite
 HOST,tracking.fccinteractive.com,AdvertisingLite
 HOST,tracking.interweave.com,AdvertisingLite
+HOST,tracking.klickthru.com,AdvertisingLite
 HOST,tracking.m6r.eu,AdvertisingLite
 HOST,tracking.maxcdn.com,AdvertisingLite
 HOST,tracking.plattformad.com,AdvertisingLite
@@ -13606,6 +13544,7 @@ HOST,tsk4.com,AdvertisingLite
 HOST,tsk5.com,AdvertisingLite
 HOST,tslomhfys.com,AdvertisingLite
 HOST,tst14netreal.com,AdvertisingLite
+HOST,tswmel.com,AdvertisingLite
 HOST,tsyndicate.com,AdvertisingLite
 HOST,tszritnomuy.com,AdvertisingLite
 HOST,tt114.net,AdvertisingLite
@@ -13711,8 +13650,6 @@ HOST,tuxi.com.cn,AdvertisingLite
 HOST,tvas-b.pw,AdvertisingLite
 HOST,tvduznfdgim.com,AdvertisingLite
 HOST,tvjkilgfanpt.com,AdvertisingLite
-HOST,tvkgdonh.com,AdvertisingLite
-HOST,tvmzvqoudtj.com,AdvertisingLite
 HOST,tvpixel.com,AdvertisingLite
 HOST,tvprocessing.com,AdvertisingLite
 HOST,tvriqjez.com,AdvertisingLite
@@ -13799,7 +13736,6 @@ HOST,uctrac.com,AdvertisingLite
 HOST,ucvrtwfh.com,AdvertisingLite
 HOST,ucweb.com,AdvertisingLite
 HOST,udarem.com,AdvertisingLite
-HOST,udllxpudd.com,AdvertisingLite
 HOST,udmserve.net,AdvertisingLite
 HOST,udr26c.cn,AdvertisingLite
 HOST,udrivemyr54.com,AdvertisingLite
@@ -13815,7 +13751,6 @@ HOST,ug.snssdk.com,AdvertisingLite
 HOST,ugdturner.com,AdvertisingLite
 HOST,ughdqpwtfabsqg.com,AdvertisingLite
 HOST,ugoooo.com,AdvertisingLite
-HOST,uhjedvnlaq.com,AdvertisingLite
 HOST,uhygtf1.com,AdvertisingLite
 HOST,uhytajrtpo-a.akamaihd.net,AdvertisingLite
 HOST,uie.data.cbc.ca,AdvertisingLite
@@ -13829,7 +13764,6 @@ HOST,ujuqvalvvvof.com,AdvertisingLite
 HOST,ujylaibwmgtaow.com,AdvertisingLite
 HOST,uk8866.cn,AdvertisingLite
 HOST,ukbanners.com,AdvertisingLite
-HOST,ukqevyhhs.com,AdvertisingLite
 HOST,ukugl.tourstogo.us,AdvertisingLite
 HOST,ukw.jp,AdvertisingLite
 HOST,ularunicalrep.info,AdvertisingLite
@@ -13876,14 +13810,12 @@ HOST,unityads.unitychina.cn,AdvertisingLite
 HOST,universaltrackingcontainer.com,AdvertisingLite
 HOST,universityofinternetscience.com,AdvertisingLite
 HOST,unknowntray.com,AdvertisingLite
-HOST,unlim-app.tk,AdvertisingLite
 HOST,unlockr.com,AdvertisingLite
 HOST,unoblotto.net,AdvertisingLite
 HOST,unrulymedia.com,AdvertisingLite
 HOST,untidyquestion.com,AdvertisingLite
 HOST,untidyrice.com,AdvertisingLite
 HOST,unumbonum.com,AdvertisingLite
-HOST,unwyiror.com,AdvertisingLite
 HOST,unyhjoehc.com,AdvertisingLite
 HOST,uo.jstaogu.com,AdvertisingLite
 HOST,uod2quk646.com,AdvertisingLite
@@ -13923,7 +13855,6 @@ HOST,uqdqwaolvyxbjc.com,AdvertisingLite
 HOST,uqyatperdvczfw.com,AdvertisingLite
 HOST,uralweb.ru,AdvertisingLite
 HOST,uriuridfg.com,AdvertisingLite
-HOST,url-cameralist.tk,AdvertisingLite
 HOST,url.jiemengle.com,AdvertisingLite
 HOST,url.ms,AdvertisingLite
 HOST,urlads.net,AdvertisingLite
@@ -13933,7 +13864,6 @@ HOST,urldelivery.com,AdvertisingLite
 HOST,urlself.com,AdvertisingLite
 HOST,urmilan.info,AdvertisingLite
 HOST,urstats.de,AdvertisingLite
-HOST,urynnngdrt.com,AdvertisingLite
 HOST,us.l.qq.com,AdvertisingLite
 HOST,us.vortex-win.data.microsoft.com,AdvertisingLite
 HOST,usa.cc,AdvertisingLite
@@ -14006,8 +13936,10 @@ HOST,v.aty.sohu.com,AdvertisingLite
 HOST,v.center,AdvertisingLite
 HOST,v.dengbaozx.cn,AdvertisingLite
 HOST,v.iche88.cn,AdvertisingLite
+HOST,v.jntxst.cn,AdvertisingLite
 HOST,v.movad.de,AdvertisingLite
 HOST,v.qhruixin.cn,AdvertisingLite
+HOST,v.sixiuwl.cn,AdvertisingLite
 HOST,v.tf.360.cn,AdvertisingLite
 HOST,v.u22l.cc,AdvertisingLite
 HOST,v.xi666.com,AdvertisingLite
@@ -14049,8 +13981,6 @@ HOST,vatname.info,AdvertisingLite
 HOST,vaultwrite.com,AdvertisingLite
 HOST,vaxaqngzs3.com,AdvertisingLite
 HOST,vaygzgvc.com,AdvertisingLite
-HOST,vbcmgmhfoj.com,AdvertisingLite
-HOST,vbhfrdqskvcvxj.com,AdvertisingLite
 HOST,vbkrzqopqbhrd.com,AdvertisingLite
 HOST,vbtrax.com,AdvertisingLite
 HOST,vcardsdkservice.vivo.com.cn,AdvertisingLite
@@ -14109,8 +14039,8 @@ HOST,vg.aty.sohu.com,AdvertisingLite
 HOST,vg74gi6mea.com,AdvertisingLite
 HOST,vgf.zuihuixuan.com,AdvertisingLite
 HOST,vghd.com,AdvertisingLite
+HOST,vghjsrae.com,AdvertisingLite
 HOST,vgsgaming-ads.com,AdvertisingLite
-HOST,vhec.jhjhyn.cn,AdvertisingLite
 HOST,vhldwuv6om.com,AdvertisingLite
 HOST,vhmengine.com,AdvertisingLite
 HOST,vhmnetwork.com,AdvertisingLite
@@ -14160,6 +14090,7 @@ HOST,viewablemedia.net,AdvertisingLite
 HOST,viewar.org,AdvertisingLite
 HOST,viewclc.com,AdvertisingLite
 HOST,viewscout.com,AdvertisingLite
+HOST,vignmvwjlyc.com,AdvertisingLite
 HOST,vihtori-analytics.fi,AdvertisingLite
 HOST,vihub.ru,AdvertisingLite
 HOST,villalecchi.com,AdvertisingLite
@@ -14239,10 +14170,10 @@ HOST,vltwox7zl7h1wv.com,AdvertisingLite
 HOST,vm.aty.sohu.com,AdvertisingLite
 HOST,vm5apis.com,AdvertisingLite
 HOST,vmay.com,AdvertisingLite
-HOST,vmetkehutsu.com,AdvertisingLite
 HOST,vmindhls.tc.qq.com,AdvertisingLite
 HOST,vmm-satellite1.com,AdvertisingLite
 HOST,vmmpxl.com,AdvertisingLite
+HOST,vmqgouvq.com,AdvertisingLite
 HOST,vnet.cn,AdvertisingLite
 HOST,vnrherdsxr.com,AdvertisingLite
 HOST,vntsm.com,AdvertisingLite
@@ -14675,7 +14606,6 @@ HOST,wos.lv,AdvertisingLite
 HOST,wouvista.com,AdvertisingLite
 HOST,wowanalytics.co.uk,AdvertisingLite
 HOST,wp-monero-miner.de,AdvertisingLite
-HOST,wp-stats.com,AdvertisingLite
 HOST,wp9.ru,AdvertisingLite
 HOST,wpadsx.com,AdvertisingLite
 HOST,wpan.sc2yun.com,AdvertisingLite
@@ -14704,7 +14634,6 @@ HOST,wsockd.com,AdvertisingLite
 HOST,wss.nablabee.com,AdvertisingLite
 HOST,wss.rand.com.ru,AdvertisingLite
 HOST,wstatslive.com,AdvertisingLite
-HOST,wswrfjuevvfz.com,AdvertisingLite
 HOST,wt-eu02.net,AdvertisingLite
 HOST,wt-safetag.com,AdvertisingLite
 HOST,wtbtop.cn,AdvertisingLite
@@ -14721,8 +14650,8 @@ HOST,wundercounter.com,AdvertisingLite
 HOST,wunderloop.net,AdvertisingLite
 HOST,wuvac.agwebdigital.com,AdvertisingLite
 HOST,wv-law.com,AdvertisingLite
-HOST,wvbdtcyhgwy.com,AdvertisingLite
 HOST,wvesvozyuoxg.com,AdvertisingLite
+HOST,wvhsouzoan.com,AdvertisingLite
 HOST,wwbn.com,AdvertisingLite
 HOST,wwclicknews.club,AdvertisingLite
 HOST,wwgate.ru,AdvertisingLite
@@ -14823,12 +14752,14 @@ HOST,www.ilkwork.com,AdvertisingLite
 HOST,www.infra.by,AdvertisingLite
 HOST,www.iscrv.com,AdvertisingLite
 HOST,www.isitone.com,AdvertisingLite
+HOST,www.jazdoxthxiv.com,AdvertisingLite
 HOST,www.jcmarcadolib.com,AdvertisingLite
 HOST,www.jiudianxing.cn,AdvertisingLite
 HOST,www.jiudianxing.com,AdvertisingLite
 HOST,www.joomlalivechat.com,AdvertisingLite
 HOST,www.jquery-cdn.download,AdvertisingLite
 HOST,www.jshonghuadq.com,AdvertisingLite
+HOST,www.jwmwtcmexc.com,AdvertisingLite
 HOST,www.kanjiantu.com,AdvertisingLite
 HOST,www.kanshuapp.com,AdvertisingLite
 HOST,www.kcta.or.kr,AdvertisingLite
@@ -14844,7 +14775,6 @@ HOST,www.lostartofbeingadame.com,AdvertisingLite
 HOST,www.lowes-pianos-and-organs.com,AdvertisingLite
 HOST,www.lyzgs.com,AdvertisingLite
 HOST,www.m-barati.de,AdvertisingLite
-HOST,www.makohela.tk,AdvertisingLite
 HOST,www.marinoderosas.com,AdvertisingLite
 HOST,www.marss.eu,AdvertisingLite
 HOST,www.media.net,AdvertisingLite
@@ -14959,7 +14889,6 @@ HOST,wxa79ef55c1a84e284.wx.ckjr001.com,AdvertisingLite
 HOST,wxbrdppfpr.com,AdvertisingLite
 HOST,wxcwtehxsfri.com,AdvertisingLite
 HOST,wxggtg.dre8.com,AdvertisingLite
-HOST,wxrotkricj.com,AdvertisingLite
 HOST,wxwbvytlvabs.com,AdvertisingLite
 HOST,wy213.com,AdvertisingLite
 HOST,wylblxhn.com,AdvertisingLite
@@ -14971,6 +14900,7 @@ HOST,wzfjsh.cn,AdvertisingLite
 HOST,wzfxiaggxcpjb.com,AdvertisingLite
 HOST,wzrk.co,AdvertisingLite
 HOST,wzrkt.com,AdvertisingLite
+HOST,x-adservice.com,AdvertisingLite
 HOST,x-stat.de,AdvertisingLite
 HOST,x-traceur.com,AdvertisingLite
 HOST,x.allabout.co.jp,AdvertisingLite
@@ -14989,7 +14919,6 @@ HOST,xajx.com,AdvertisingLite
 HOST,xamateurpornlic.www1.biz,AdvertisingLite
 HOST,xameleonads.com,AdvertisingLite
 HOST,xaxoro.com,AdvertisingLite
-HOST,xbrfevoe.com,AdvertisingLite
 HOST,xcelltech.com,AdvertisingLite
 HOST,xcelsiusadserver.com,AdvertisingLite
 HOST,xcggpt.com,AdvertisingLite
@@ -15042,7 +14971,9 @@ HOST,xkpoynygjpvc.com,AdvertisingLite
 HOST,xlcun.com,AdvertisingLite
 HOST,xlingdi.com,AdvertisingLite
 HOST,xlisting.jp,AdvertisingLite
+HOST,xlmis.com,AdvertisingLite
 HOST,xlovecam.com,AdvertisingLite
+HOST,xlxamrkeiawkco.com,AdvertisingLite
 HOST,xmas-xmas-wow.com,AdvertisingLite
 HOST,xmaswrite.com,AdvertisingLite
 HOST,xmaterial.tu.qq.com,AdvertisingLite
@@ -15052,8 +14983,8 @@ HOST,xmlmonetize.com,AdvertisingLite
 HOST,xmr.cool,AdvertisingLite
 HOST,xmrminer.cc,AdvertisingLite
 HOST,xmrpool.net,AdvertisingLite
+HOST,xmvoodgr.com,AdvertisingLite
 HOST,xn--18225-zta.biz,AdvertisingLite
-HOST,xnhchuvtoqk.com,AdvertisingLite
 HOST,xnkmmbfpyokevaxsjtky.com,AdvertisingLite
 HOST,xnxx.com,AdvertisingLite
 HOST,xoalt.com,AdvertisingLite
@@ -15073,6 +15004,7 @@ HOST,xpwppacpda.com,AdvertisingLite
 HOST,xpx7heciz9.com,AdvertisingLite
 HOST,xpyyrkwpcpwf.com,AdvertisingLite
 HOST,xq0wju848zr.ga,AdvertisingLite
+HOST,xqankuajhtdehe.com,AdvertisingLite
 HOST,xqgjtzushomki.com,AdvertisingLite
 HOST,xrbvsiyyr.com,AdvertisingLite
 HOST,xref.io,AdvertisingLite
@@ -15105,6 +15037,7 @@ HOST,xxccdshj.com,AdvertisingLite
 HOST,xxkcdvpurae.com,AdvertisingLite
 HOST,xxltr.com,AdvertisingLite
 HOST,xxtu.be,AdvertisingLite
+HOST,xxxadv.com,AdvertisingLite
 HOST,xxxallaccesspass.com,AdvertisingLite
 HOST,xxxbannerswap.com,AdvertisingLite
 HOST,xxxblackbook.com,AdvertisingLite
@@ -15123,8 +15056,8 @@ HOST,xy.nullrefexcep.com,AdvertisingLite
 HOST,xyoss.g.com.cn,AdvertisingLite
 HOST,xywdvhd.com,AdvertisingLite
 HOST,xyztraffic.com,AdvertisingLite
+HOST,xz.tongji.shouji56.com,AdvertisingLite
 HOST,xz518.cn,AdvertisingLite
-HOST,xzdlleawpx.com,AdvertisingLite
 HOST,xzipy.com,AdvertisingLite
 HOST,xztyzs.cn,AdvertisingLite
 HOST,y-track.com,AdvertisingLite
@@ -15149,7 +15082,6 @@ HOST,ybotvisit.com,AdvertisingLite
 HOST,ycczhbzoyseg.com,AdvertisingLite
 HOST,yceml.net,AdvertisingLite
 HOST,ych168.cn,AdvertisingLite
-HOST,ychijnziuhvu.com,AdvertisingLite
 HOST,ycreateam.cn,AdvertisingLite
 HOST,ydcpc.com,AdvertisingLite
 HOST,ydsnqaekjr.com,AdvertisingLite
@@ -15171,7 +15103,6 @@ HOST,yesra.xyz,AdvertisingLite
 HOST,yext-pixel.com,AdvertisingLite
 HOST,yfcxyejwyeyjse.com,AdvertisingLite
 HOST,yfibjzosrqrtmv.com,AdvertisingLite
-HOST,yfnvswrfjw.com,AdvertisingLite
 HOST,yghua.com,AdvertisingLite
 HOST,yglhcn.cn,AdvertisingLite
 HOST,ygsm.com,AdvertisingLite
@@ -15210,7 +15141,6 @@ HOST,yjtag.jp,AdvertisingLite
 HOST,yjwtxskmswcjc.com,AdvertisingLite
 HOST,yldmgrimg.net,AdvertisingLite
 HOST,yldr.io,AdvertisingLite
-HOST,ylihbkbiefgj.com,AdvertisingLite
 HOST,ylog.huya.com,AdvertisingLite
 HOST,ylqbiljjlyq.com,AdvertisingLite
 HOST,ylx-1.com,AdvertisingLite
@@ -15218,12 +15148,11 @@ HOST,ylx-2.com,AdvertisingLite
 HOST,ylx-3.com,AdvertisingLite
 HOST,ylx-4.com,AdvertisingLite
 HOST,ylzx.net,AdvertisingLite
-HOST,ymbpndswe.com,AdvertisingLite
 HOST,ymetrica1.com,AdvertisingLite
+HOST,ymkymasmvsuosd.com,AdvertisingLite
 HOST,ymuoqhmhnifzl.com,AdvertisingLite
 HOST,ymzrrizntbhde.com,AdvertisingLite
 HOST,ymztsuzm.com,AdvertisingLite
-HOST,ynopkisq.com,AdvertisingLite
 HOST,ynuf.aliapp.org,AdvertisingLite
 HOST,ynuf.alipay.com,AdvertisingLite
 HOST,ynvwvckgqich.com,AdvertisingLite
@@ -15231,6 +15160,7 @@ HOST,ynyfcz.cn,AdvertisingLite
 HOST,yobihost.com,AdvertisingLite
 HOST,yobthmvxwedkkg.com,AdvertisingLite
 HOST,yoc-adserver.com,AdvertisingLite
+HOST,yodr.net,AdvertisingLite
 HOST,yomeno.xyz,AdvertisingLite
 HOST,yoochoose.net,AdvertisingLite
 HOST,yooclick.com,AdvertisingLite
@@ -15264,13 +15194,10 @@ HOST,ypkbybzpd.com,AdvertisingLite
 HOST,ypmadserver.com,AdvertisingLite
 HOST,ypolukuxt.com,AdvertisingLite
 HOST,yppw666.cn,AdvertisingLite
-HOST,yppxexinajadu.com,AdvertisingLite
 HOST,ypreferred.com,AdvertisingLite
 HOST,ypzhrmspnfmy.com,AdvertisingLite
-HOST,yqecjuoxiquvr.com,AdvertisingLite
 HOST,yqezqofkb1nnmz.com,AdvertisingLite
 HOST,yql.yahoo.com,AdvertisingLite
-HOST,yqmhrvvlbm.com,AdvertisingLite
 HOST,yqmzhilyjzw.com,AdvertisingLite
 HOST,yr9n47004g.com,AdvertisingLite
 HOST,yrdrtzmsmt.com,AdvertisingLite
@@ -15319,7 +15246,6 @@ HOST,yxyenzslsk.com,AdvertisingLite
 HOST,yxyhtea.com,AdvertisingLite
 HOST,yy32.com,AdvertisingLite
 HOST,yyivakszwh.com,AdvertisingLite
-HOST,yywctdppuncv.com,AdvertisingLite
 HOST,yyywwbpkf.com,AdvertisingLite
 HOST,yzexonvknhw.com,AdvertisingLite
 HOST,yzmiwdjviuzk.com,AdvertisingLite
@@ -15352,7 +15278,6 @@ HOST,zboac.com,AdvertisingLite
 HOST,zbtaiqess.com,AdvertisingLite
 HOST,zconfig.alibabausercontent.com,AdvertisingLite
 HOST,zcoup.com,AdvertisingLite
-HOST,zcwjasfrog.com,AdvertisingLite
 HOST,zd6789.com,AdvertisingLite
 HOST,zdbb.net,AdvertisingLite
 HOST,zddxlih.com,AdvertisingLite
@@ -15409,12 +15334,12 @@ HOST,zibup.csheaven.com,AdvertisingLite
 HOST,ziccardia.com,AdvertisingLite
 HOST,zichenit.com,AdvertisingLite
 HOST,zidedge.com,AdvertisingLite
-HOST,zidtqsrzosud.com,AdvertisingLite
 HOST,ziffdavis.com,AdvertisingLite
 HOST,zijaipse.com,AdvertisingLite
 HOST,zim-zim-zam.com,AdvertisingLite
 HOST,zinhavnpak.com,AdvertisingLite
 HOST,zinrora.pw,AdvertisingLite
+HOST,zioe.com.cn,AdvertisingLite
 HOST,zip-zip-swan.com,AdvertisingLite
 HOST,ziphentai.com,AdvertisingLite
 HOST,ziphoumt.net,AdvertisingLite
@@ -15439,7 +15364,6 @@ HOST,zlp6s.pw,AdvertisingLite
 HOST,zlx.com.br,AdvertisingLite
 HOST,zm232.com,AdvertisingLite
 HOST,zmasxytjskg.com,AdvertisingLite
-HOST,zmbuidget.com,AdvertisingLite
 HOST,zmctrack.net,AdvertisingLite
 HOST,znaptag.com,AdvertisingLite
 HOST,zndsssp.dangbei.net,AdvertisingLite
@@ -15471,7 +15395,6 @@ HOST,zrav2wkbrs.com,AdvertisingLite
 HOST,zrosbqwecw.com,AdvertisingLite
 HOST,zryydi.com,AdvertisingLite
 HOST,zsdqemzzzbtn.com,AdvertisingLite
-HOST,zsjgmnmtgm.com,AdvertisingLite
 HOST,zt.tim-taxi.com,AdvertisingLite
 HOST,ztcadx.com,AdvertisingLite
 HOST,ztdsp.com,AdvertisingLite
@@ -15493,6 +15416,7 @@ HOST,zxevjtzvqlxy.com,AdvertisingLite
 HOST,zxw51.com,AdvertisingLite
 HOST,zxxds.net,AdvertisingLite
 HOST,zy16eoat1w.com,AdvertisingLite
+HOST,zyddpern.com,AdvertisingLite
 HOST,zyiis.net,AdvertisingLite
 HOST,zymbrlgu.cn,AdvertisingLite
 HOST,zypenetwork.com,AdvertisingLite
@@ -15500,10 +15424,8 @@ HOST,zyxmnqkt.com,AdvertisingLite
 HOST,zzad.com,AdvertisingLite
 HOST,zzb6.cn,AdvertisingLite
 HOST,zzbb1.top,AdvertisingLite
-HOST,zzoacwqfw.com,AdvertisingLite
 HOST,zzomiuob.com,AdvertisingLite
 HOST,zzsdtzb.com,AdvertisingLite
-HOST,zzxlukodff.com,AdvertisingLite
 HOST-SUFFIX,000dn.com,AdvertisingLite
 HOST-SUFFIX,001union.com,AdvertisingLite
 HOST-SUFFIX,0024aaaa.com,AdvertisingLite
@@ -17263,7 +17185,6 @@ HOST-SUFFIX,ads.weilitoutiao.net,AdvertisingLite
 HOST-SUFFIX,ads.yahoo.com,AdvertisingLite
 HOST-SUFFIX,ads.yam.com,AdvertisingLite
 HOST-SUFFIX,ads.yimg.com,AdvertisingLite
-HOST-SUFFIX,ads.youtube.com,AdvertisingLite
 HOST-SUFFIX,ads.zynga.com,AdvertisingLite
 HOST-SUFFIX,ads1.lfengmobile.com,AdvertisingLite
 HOST-SUFFIX,ads1.msn.com,AdvertisingLite

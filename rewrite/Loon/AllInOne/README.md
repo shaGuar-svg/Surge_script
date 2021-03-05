@@ -8,22 +8,21 @@
 
 
 
-最后检查时间：2021-02-24 02:45:29。
+最后检查时间：2021-03-05 02:45:46。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 654 |
+| mitm | 640 |
 | DOMAIN-SUFFIX | 1 |
-| URL-REGEX | 6 |
+| URL-REGEX | 8 |
 | DOMAIN | 4 |
-| DOMAIN-KEYWORD | 1 |
 | IP-CIDR | 1 |
+| IP-CIDR6 | 1 |
 | USER-AGENT | 1 |
-| reject | 818 |
-| http-request | 17 |
-| http-response | 24 |
+| reject | 820 |
+| http-response | 22 |
 | redirect | 51 |
 ## 配置说明
 
@@ -56,23 +55,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/L
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
 - https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Advertising.conf
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didachuxing/didachuxing_plus.lnscript
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/jiazhangbang/jiazhangbang_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.lnscript
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.lnscript
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule

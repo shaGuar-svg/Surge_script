@@ -8,20 +8,21 @@
 
 
 
-最后检查时间：2021-02-24 02:45:29。
+最后检查时间：2021-03-05 02:45:46。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | mitm | 18 |
+| force_http_engine_hosts | 0 |
 | DOMAIN-SUFFIX | 1 |
-| URL-REGEX | 6 |
+| URL-REGEX | 8 |
 | DOMAIN | 4 |
-| DOMAIN-KEYWORD | 1 |
 | IP-CIDR | 1 |
+| IP-CIDR6 | 1 |
 | USER-AGENT | 1 |
-| reject | 16 |
+| reject | 18 |
 | http-response | 22 |
 ## 配置说明
 
