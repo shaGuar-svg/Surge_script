@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 02:44:39.529727
-# DOMAIN-KEYWORD: 60
-# DOMAIN-SUFFIX: 41821
-# DOMAIN: 21063
-# IP-CIDR: 244
-# TOTAL: 63188
+# UPDATED: 2021-03-14 01:54:26.596314
+# DOMAIN-KEYWORD: 62
+# DOMAIN-SUFFIX: 45453
+# DOMAIN: 20743
+# IP-CIDR: 245
+# TOTAL: 66503
 payload:
   - DOMAIN-KEYWORD,adashx
   - DOMAIN-KEYWORD,admarvel
@@ -57,6 +57,8 @@ payload:
   - DOMAIN-KEYWORD,pingfore
   - DOMAIN-KEYWORD,securepubads
   - DOMAIN-KEYWORD,socdm
+  - DOMAIN-KEYWORD,stsdk.vivo.com.cn
+  - DOMAIN-KEYWORD,stsdk.vivoglobal.com
   - DOMAIN-KEYWORD,supersonicads
   - DOMAIN-KEYWORD,taboola
   - DOMAIN-KEYWORD,talkingdata
@@ -220,6 +222,7 @@ payload:
   - IP-CIDR,199.231.214.62/32
   - IP-CIDR,202.104.1.27/32
   - IP-CIDR,202.105.165.202/32
+  - IP-CIDR,203.107.1.65/32
   - IP-CIDR,203.119.206.64/32
   - IP-CIDR,203.119.211.219/32
   - IP-CIDR,203.205.239.44/32

@@ -1,17 +1,18 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 02:44:33.703369
-# DOMAIN-SUFFIX: 28487
+# UPDATED: 2021-03-14 01:54:20.210123
+# DOMAIN-SUFFIX: 28514
 # USER-AGENT: 12
-# DOMAIN: 34
+# DOMAIN: 39
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 28653
+# TOTAL: 28685
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
+audio-ak-spotify-com.akamaized.net
 blizzard.nefficient.co.kr
 blznav.akamaized.net
 bnetshopus.akamaized.net
@@ -19,9 +20,11 @@ cdn77.scoreuniverse.com
 cisco.evergage.com
 courier-push-apple.com.akadns.net
 ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
 gamedownloads-rockstargames-com.akamaized.net
 github-avatars.oss-cn-hongkong.aliyuncs.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
+heads4-ak-spotify-com.akamaized.net
 hpstore.corpmerchandise.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
@@ -40,6 +43,8 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 tesla-cdn.thron.com
 videos-rockstargames-com.akamaized.net
+vod-dash-ww-live.akamaized.net
+vod-thumb-ww-live.akamaized.net
 voice.telephony.goog
 widgets.stripst.com
 www-cdn.icloud.com.akadns.net
@@ -3379,7 +3384,6 @@ www-cdn.icloud.com.akadns.net
 .ballbet.com
 .ballbet5.com
 .baltimorebmw.com
-.bamgrid.com
 .bamsoftware.com
 .banamex
 .banana-vpn.com
@@ -3495,13 +3499,13 @@ www-cdn.icloud.com.akadns.net
 .bbc.org.cn
 .bbcchinese.com
 .bbchat.tv
-.bbci.co
 .bbci.co.uk
 .bbcnews.co.uk
 .bbcnews.com
 .bbcpersian.com
 .bbcukchina.com
 .bbcurdu.com
+.bbcverticals.com
 .bbcworldnews.com
 .bbei7.com
 .bbestmall.com
@@ -4810,7 +4814,6 @@ www-cdn.icloud.com.akadns.net
 .bravoteens.com
 .bravotube.com
 .bravotube.net
-.braze.com
 .brazilpartneruniversity.com
 .brazzers-girls.com
 .brazzers.com
@@ -5612,6 +5615,8 @@ www-cdn.icloud.com.akadns.net
 .cdn.statically.io
 .cdn.tranquilli.org
 .cdn.ub8go.com
+.cdn77.com
+.cdn77.org
 .cdnews.com.tw
 .cdninstagram.com
 .cdnjs.com
@@ -6423,7 +6428,6 @@ www-cdn.icloud.com.akadns.net
 .contest.com
 .convegnonazionalegeotecnica.it
 .convio.net
-.conviva.com
 .convrgencegame.com
 .coobay.com
 .cookiechoices.org
@@ -6548,6 +6552,7 @@ www-cdn.icloud.com.akadns.net
 .cricketcountry.com
 .crikey.com.au
 .crisisresponse.google
+.crisp.chat
 .cristyli.com
 .crit-staging.com
 .crittercism.com
@@ -7054,6 +7059,7 @@ www-cdn.icloud.com.akadns.net
 .deloitte
 .delta
 .delusionscho.weebly.com
+.delvenetworks.com
 .demandware.com
 .demdex.net
 .demo.nyris.io
@@ -7369,6 +7375,7 @@ www-cdn.icloud.com.akadns.net
 .dmm-extension.com
 .dmm.co.jp
 .dmm.com
+.dmmapis.com
 .dmmbus.com
 .dnaindia.com
 .dnainfo.com
@@ -12370,6 +12377,7 @@ www-cdn.icloud.com.akadns.net
 .incredibox.fr
 .ind.sh
 .indazn.com
+.indaznlab.com
 .independent.co.uk
 .independentoperatorcn.com
 .indexoncensorship.org
@@ -12568,7 +12576,10 @@ www-cdn.icloud.com.akadns.net
 .intelstore.com
 .inteltechnologyprovider.com
 .intelvmwarecybersecurity.com
+.intercom.com
 .intercom.io
+.intercomassets.com
+.intercomcdn.com
 .internationalconnectionsacademy.com
 .internationalsaimoe.com
 .internet-studies.org
@@ -12973,16 +12984,9 @@ www-cdn.icloud.com.akadns.net
 .japaninporn.com
 .japanknowledge.com
 .japantimes.co.jp
-.japonx.com
 .japonx.net
-.japonx.tv
-.japonx.vip
 .japorn.tv
 .jappydolls.net
-.japronx.com
-.japronx.net
-.japronx.tv
-.japronx.vip
 .jasminearoma.co
 .jason.fi
 .jasoncoyne.com
@@ -12997,6 +13001,7 @@ www-cdn.icloud.com.akadns.net
 .jav18.cc
 .jav18.xyz
 .jav2be.com
+.jav321.com
 .jav68.me
 .jav68.tv
 .jav777.cc
@@ -13573,6 +13578,7 @@ www-cdn.icloud.com.akadns.net
 .kiwi.kz
 .kjpnote.com
 .kk-whys.co.jp
+.kk.stream
 .kk168.com.cn
 .kk2267.com
 .kkbox.com
@@ -13586,7 +13592,6 @@ www-cdn.icloud.com.akadns.net
 .kkp.org.hk
 .kksod.com
 .kktix.com
-.kktv-theater.kk.stream
 .kktv.me
 .kl8888.com
 .klienux.org
@@ -14064,6 +14069,7 @@ www-cdn.icloud.com.akadns.net
 .lilly
 .limbopro.xyz
 .limejs.com
+.limelight.com
 .limiao.net
 .lin.ee
 .linco.cl
@@ -14173,7 +14179,12 @@ www-cdn.icloud.com.akadns.net
 .ll699.net
 .llamador.cl
 .llbn.tv
+.lldns.net
+.llnw-trials.com
+.llnw.com
+.llnw.net
 .llnwd.net
+.llnwi.net
 .llqpipe.com
 .llss.me
 .lm.1731788.com
@@ -18462,11 +18473,13 @@ www-cdn.icloud.com.akadns.net
 .px.mystakidis.gr
 .pximg.net
 .pxt.io
+.pycon.org
 .pydabogados.com.ar
 .pyhapp.com
 .pyntsquare.com
 .pyorrhoea.org
 .pypa.io
+.pypi.io
 .pypi.org
 .pypl.com
 .pypl.info
@@ -19360,6 +19373,7 @@ www-cdn.icloud.com.akadns.net
 .sbofa88.com
 .sbs
 .sbs.com.au
+.sbuxcard.com
 .sc
 .sc-cdn.net
 .sc.sh22.us
@@ -20422,9 +20436,25 @@ www-cdn.icloud.com.akadns.net
 .stanford.edu
 .staples
 .star-telegram.com
+.starbucks-stars.com
+.starbucks.be
+.starbucks.ch
+.starbucks.co.id
 .starbucks.com
+.starbucks.com.co
+.starbucks.it
+.starbucks.pt
+.starbucks.rs
 .starbucksathome.com
+.starbuckscardb2b.com
+.starbuckscoffeegear.com
+.starbuckscoffeegearstore.com
+.starbucksforlife.com
+.starbuckspoq.com
 .starbucksreserve.com
+.starbucksrewardsstarland.com
+.starbucksrtd.com
+.starbuckssummergame.com
 .starcelebs.com
 .starchu.com
 .starcraft.com
@@ -21242,7 +21272,6 @@ www-cdn.icloud.com.akadns.net
 .thepaypalshop.com
 .thepetitionsite.com
 .thepiratebay.org
-.theplatform.com
 .thepolicy.us
 .theporndude.com
 .theportalwiki.com
@@ -22684,6 +22713,7 @@ www-cdn.icloud.com.akadns.net
 .verizon.com
 .verizon.net
 .verizonbusinessfios.com
+.verizondigitalmedia.com
 .verizonenterprise.com
 .verizonfios.com
 .verizonmedia.com
@@ -25697,11 +25727,11 @@ www-cdn.icloud.com.akadns.net
 .www.jailbreakvpn.com
 .www.jainchetan.com
 .www.jameshooker.co.uk
+.www.japonx.tv
 .www.jasonfbrennan.com
 .www.jav007.com
 .www.jav008.com
 .www.jav28.com
-.www.jav321.com
 .www.jav777.xyz
 .www.java9countdown.xyz
 .www.javbaike.com
@@ -27410,6 +27440,7 @@ www-cdn.icloud.com.akadns.net
 .x06966.com
 .x12express.com
 .x188betx.com
+.x18r.com
 .x1949x.com
 .x24hr.com
 .x258888.com
@@ -28305,6 +28336,7 @@ www-cdn.icloud.com.akadns.net
 .zeitworld.com
 .zello.com
 .zencdn.net
+.zencoder.com
 .zend2.com
 .zendesk.com
 .zendproxy.com

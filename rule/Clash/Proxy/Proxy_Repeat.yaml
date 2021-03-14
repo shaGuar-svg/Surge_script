@@ -1,59 +1,9 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 02:44:48.059139
+# UPDATED: 2021-03-14 01:54:37.159455
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
-#  与 Wikipedia 共 12 条规则重复
-  - DOMAIN-SUFFIX,mediawiki.org
-  - DOMAIN-SUFFIX,wikibooks.org
-  - DOMAIN-SUFFIX,wikidata.org
-  - DOMAIN-SUFFIX,wikileaks.org
-  - DOMAIN-SUFFIX,wikimedia.org
-  - DOMAIN-SUFFIX,wikinews.org
-  - DOMAIN-SUFFIX,wikipedia.org
-  - DOMAIN-SUFFIX,wikiquote.org
-  - DOMAIN-SUFFIX,wikisource.org
-  - DOMAIN-SUFFIX,wikiversity.org
-  - DOMAIN-SUFFIX,wikivoyage.org
-  - DOMAIN-SUFFIX,wiktionary.org
-#  与 Spark 共 5 条规则重复
-  - DOMAIN-SUFFIX,amplitude.com
-  - DOMAIN-SUFFIX,firebaseio.com
-  - DOMAIN-SUFFIX,hockeyapp.net
-  - DOMAIN-SUFFIX,readdle.com
-  - DOMAIN-SUFFIX,smartmailcloud.com
-#  与 ATTWatchTV 共 6 条规则重复
-  - DOMAIN-SUFFIX,att.tv
-  - DOMAIN-SUFFIX,atttvnow.com
-  - DOMAIN-SUFFIX,attwatchtv.com
-  - DOMAIN-SUFFIX,directv.com
-  - DOMAIN-SUFFIX,dtvce.com
-  - DOMAIN-SUFFIX,nettyinternet.com
-#  与 CNN 共 6 条规则重复
-  - DOMAIN-SUFFIX,cnn.com
-  - DOMAIN-SUFFIX,cnn.io
-  - DOMAIN-SUFFIX,cnn.it
-  - DOMAIN-SUFFIX,cnnarabic.com
-  - DOMAIN-SUFFIX,cnnlabs.com
-  - DOMAIN-SUFFIX,cnnmoney.ch
-#  与 Voxmedia 共 16 条规则重复
-  - DOMAIN-SUFFIX,cstatic.net
-  - DOMAIN-SUFFIX,curbed.com
-  - DOMAIN-SUFFIX,eater.com
-  - DOMAIN-SUFFIX,funnyordie.com
-  - DOMAIN-SUFFIX,meridian.net
-  - DOMAIN-SUFFIX,polygon.com
-  - DOMAIN-SUFFIX,racked.com
-  - DOMAIN-SUFFIX,recode.net
-  - DOMAIN-SUFFIX,sbnation.com
-  - DOMAIN-SUFFIX,theverge.com
-  - DOMAIN-SUFFIX,vox-cdn.com
-  - DOMAIN-SUFFIX,vox.com
-  - DOMAIN-SUFFIX,voxcreative.com
-  - DOMAIN-SUFFIX,voxfieldguide.com
-  - DOMAIN-SUFFIX,voxmedia.com
-  - DOMAIN-SUFFIX,voxops.net
 #  与 9to5 共 7 条规则重复
   - DOMAIN-SUFFIX,9to5google.com
   - DOMAIN-SUFFIX,9to5mac.com
@@ -62,12 +12,26 @@ payload:
   - DOMAIN-SUFFIX,dronedj.com
   - DOMAIN-SUFFIX,electrek.co
   - DOMAIN-SUFFIX,spaceexplored.com
+#  与 ATTWatchTV 共 6 条规则重复
+  - DOMAIN-SUFFIX,att.tv
+  - DOMAIN-SUFFIX,atttvnow.com
+  - DOMAIN-SUFFIX,attwatchtv.com
+  - DOMAIN-SUFFIX,directv.com
+  - DOMAIN-SUFFIX,dtvce.com
+  - DOMAIN-SUFFIX,nettyinternet.com
 #  与 Atlassian 共 5 条规则重复
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,statuspage.io
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,trellocdn.com
+#  与 CNN 共 6 条规则重复
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
 #  与 Comodo 共 5 条规则重复
   - DOMAIN-SUFFIX,comodo.com
   - DOMAIN-SUFFIX,comodoca.com
@@ -138,6 +102,12 @@ payload:
   - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,snapchat.com
   - DOMAIN-SUFFIX,snapkit.co
+#  与 Spark 共 5 条规则重复
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,hockeyapp.net
+  - DOMAIN-SUFFIX,readdle.com
+  - DOMAIN-SUFFIX,smartmailcloud.com
 #  与 Stackexchange 共 15 条规则重复
   - DOMAIN-SUFFIX,askubuntu.com
   - DOMAIN-SUFFIX,blogoverflow.com
@@ -162,6 +132,23 @@ payload:
   - DOMAIN-SUFFIX,vk-portal.net
   - DOMAIN-SUFFIX,vk.cc
   - DOMAIN-SUFFIX,vk.com
+#  与 Voxmedia 共 16 条规则重复
+  - DOMAIN-SUFFIX,cstatic.net
+  - DOMAIN-SUFFIX,curbed.com
+  - DOMAIN-SUFFIX,eater.com
+  - DOMAIN-SUFFIX,funnyordie.com
+  - DOMAIN-SUFFIX,meridian.net
+  - DOMAIN-SUFFIX,polygon.com
+  - DOMAIN-SUFFIX,racked.com
+  - DOMAIN-SUFFIX,recode.net
+  - DOMAIN-SUFFIX,sbnation.com
+  - DOMAIN-SUFFIX,theverge.com
+  - DOMAIN-SUFFIX,vox-cdn.com
+  - DOMAIN-SUFFIX,vox.com
+  - DOMAIN-SUFFIX,voxcreative.com
+  - DOMAIN-SUFFIX,voxfieldguide.com
+  - DOMAIN-SUFFIX,voxmedia.com
+  - DOMAIN-SUFFIX,voxops.net
 #  与 WIX 共 9 条规则重复
   - DOMAIN-SUFFIX,editorx.com
   - DOMAIN-SUFFIX,parastorage.com
@@ -193,6 +180,19 @@ payload:
   - DOMAIN-SUFFIX,wmcloud.org
   - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wmfusercontent.org
+#  与 Wikipedia 共 12 条规则重复
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikileaks.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiversity.org
+  - DOMAIN-SUFFIX,wikivoyage.org
+  - DOMAIN-SUFFIX,wiktionary.org
 #  与 Wordpress 共 8 条规则重复
   - DOMAIN-SUFFIX,videopress.com
   - DOMAIN-SUFFIX,w.org
@@ -209,10 +209,11 @@ payload:
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zndsk.com
   - DOMAIN-SUFFIX,zopim.com
-#  与 Global 共 28555 条规则重复
+#  与 Global 共 28587 条规则重复
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
   - DOMAIN,assets-priconne-redive-us.akamaized.net
+  - DOMAIN,audio-ak-spotify-com.akamaized.net
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,blznav.akamaized.net
   - DOMAIN,bnetshopus.akamaized.net
@@ -220,9 +221,11 @@ payload:
   - DOMAIN,cisco.evergage.com
   - DOMAIN,courier-push-apple.com.akadns.net
   - DOMAIN,ds-linear-abematv.akamaized.net
+  - DOMAIN,ds-vod-abematv.akamaized.net
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
   - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN,heads4-ak-spotify-com.akamaized.net
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
   - DOMAIN,img-s-msn-com.akamaized.net
@@ -241,6 +244,8 @@ payload:
   - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,videos-rockstargames-com.akamaized.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
   - DOMAIN,widgets.stripst.com
   - DOMAIN,www-cdn.icloud.com.akadns.net
   - DOMAIN-KEYWORD,-tiktokcdn-com
@@ -3597,7 +3602,6 @@ payload:
   - DOMAIN-SUFFIX,ballbet.com
   - DOMAIN-SUFFIX,ballbet5.com
   - DOMAIN-SUFFIX,baltimorebmw.com
-  - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,bamsoftware.com
   - DOMAIN-SUFFIX,banamex
   - DOMAIN-SUFFIX,banana-vpn.com
@@ -3713,13 +3717,13 @@ payload:
   - DOMAIN-SUFFIX,bbc.org.cn
   - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbchat.tv
-  - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,bbcnews.co.uk
   - DOMAIN-SUFFIX,bbcnews.com
   - DOMAIN-SUFFIX,bbcpersian.com
   - DOMAIN-SUFFIX,bbcukchina.com
   - DOMAIN-SUFFIX,bbcurdu.com
+  - DOMAIN-SUFFIX,bbcverticals.com
   - DOMAIN-SUFFIX,bbcworldnews.com
   - DOMAIN-SUFFIX,bbei7.com
   - DOMAIN-SUFFIX,bbestmall.com
@@ -5024,7 +5028,6 @@ payload:
   - DOMAIN-SUFFIX,bravoteens.com
   - DOMAIN-SUFFIX,bravotube.com
   - DOMAIN-SUFFIX,bravotube.net
-  - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,brazilpartneruniversity.com
   - DOMAIN-SUFFIX,brazzers-girls.com
   - DOMAIN-SUFFIX,brazzers.com
@@ -5826,6 +5829,8 @@ payload:
   - DOMAIN-SUFFIX,cdn.statically.io
   - DOMAIN-SUFFIX,cdn.tranquilli.org
   - DOMAIN-SUFFIX,cdn.ub8go.com
+  - DOMAIN-SUFFIX,cdn77.com
+  - DOMAIN-SUFFIX,cdn77.org
   - DOMAIN-SUFFIX,cdnews.com.tw
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cdnjs.com
@@ -6629,7 +6634,6 @@ payload:
   - DOMAIN-SUFFIX,contest.com
   - DOMAIN-SUFFIX,convegnonazionalegeotecnica.it
   - DOMAIN-SUFFIX,convio.net
-  - DOMAIN-SUFFIX,conviva.com
   - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,coobay.com
   - DOMAIN-SUFFIX,cookiechoices.org
@@ -6754,6 +6758,7 @@ payload:
   - DOMAIN-SUFFIX,cricketcountry.com
   - DOMAIN-SUFFIX,crikey.com.au
   - DOMAIN-SUFFIX,crisisresponse.google
+  - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
   - DOMAIN-SUFFIX,crit-staging.com
   - DOMAIN-SUFFIX,crittercism.com
@@ -7258,6 +7263,7 @@ payload:
   - DOMAIN-SUFFIX,delmonte
   - DOMAIN-SUFFIX,deloitte
   - DOMAIN-SUFFIX,delta
+  - DOMAIN-SUFFIX,delvenetworks.com
   - DOMAIN-SUFFIX,demandware.com
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,demo.nyris.io
@@ -7571,6 +7577,7 @@ payload:
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmmapis.com
   - DOMAIN-SUFFIX,dmmbus.com
   - DOMAIN-SUFFIX,dnaindia.com
   - DOMAIN-SUFFIX,dnainfo.com
@@ -12560,6 +12567,7 @@ payload:
   - DOMAIN-SUFFIX,incredibox.fr
   - DOMAIN-SUFFIX,ind.sh
   - DOMAIN-SUFFIX,indazn.com
+  - DOMAIN-SUFFIX,indaznlab.com
   - DOMAIN-SUFFIX,independent.co.uk
   - DOMAIN-SUFFIX,independentoperatorcn.com
   - DOMAIN-SUFFIX,indexoncensorship.org
@@ -12758,7 +12766,10 @@ payload:
   - DOMAIN-SUFFIX,intelstore.com
   - DOMAIN-SUFFIX,inteltechnologyprovider.com
   - DOMAIN-SUFFIX,intelvmwarecybersecurity.com
+  - DOMAIN-SUFFIX,intercom.com
   - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomassets.com
+  - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,internationalconnectionsacademy.com
   - DOMAIN-SUFFIX,internationalsaimoe.com
   - DOMAIN-SUFFIX,internet-studies.org
@@ -13163,16 +13174,9 @@ payload:
   - DOMAIN-SUFFIX,japaninporn.com
   - DOMAIN-SUFFIX,japanknowledge.com
   - DOMAIN-SUFFIX,japantimes.co.jp
-  - DOMAIN-SUFFIX,japonx.com
   - DOMAIN-SUFFIX,japonx.net
-  - DOMAIN-SUFFIX,japonx.tv
-  - DOMAIN-SUFFIX,japonx.vip
   - DOMAIN-SUFFIX,japorn.tv
   - DOMAIN-SUFFIX,jappydolls.net
-  - DOMAIN-SUFFIX,japronx.com
-  - DOMAIN-SUFFIX,japronx.net
-  - DOMAIN-SUFFIX,japronx.tv
-  - DOMAIN-SUFFIX,japronx.vip
   - DOMAIN-SUFFIX,jasminearoma.co
   - DOMAIN-SUFFIX,jason.fi
   - DOMAIN-SUFFIX,jasoncoyne.com
@@ -13187,6 +13191,7 @@ payload:
   - DOMAIN-SUFFIX,jav18.cc
   - DOMAIN-SUFFIX,jav18.xyz
   - DOMAIN-SUFFIX,jav2be.com
+  - DOMAIN-SUFFIX,jav321.com
   - DOMAIN-SUFFIX,jav68.me
   - DOMAIN-SUFFIX,jav68.tv
   - DOMAIN-SUFFIX,jav777.cc
@@ -13762,6 +13767,7 @@ payload:
   - DOMAIN-SUFFIX,kiwi.kz
   - DOMAIN-SUFFIX,kjpnote.com
   - DOMAIN-SUFFIX,kk-whys.co.jp
+  - DOMAIN-SUFFIX,kk.stream
   - DOMAIN-SUFFIX,kk168.com.cn
   - DOMAIN-SUFFIX,kk2267.com
   - DOMAIN-SUFFIX,kkbox.com
@@ -13775,7 +13781,6 @@ payload:
   - DOMAIN-SUFFIX,kkp.org.hk
   - DOMAIN-SUFFIX,kksod.com
   - DOMAIN-SUFFIX,kktix.com
-  - DOMAIN-SUFFIX,kktv-theater.kk.stream
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,kl8888.com
   - DOMAIN-SUFFIX,klienux.org
@@ -14248,6 +14253,7 @@ payload:
   - DOMAIN-SUFFIX,lilly
   - DOMAIN-SUFFIX,limbopro.xyz
   - DOMAIN-SUFFIX,limejs.com
+  - DOMAIN-SUFFIX,limelight.com
   - DOMAIN-SUFFIX,limiao.net
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,linco.cl
@@ -14356,7 +14362,12 @@ payload:
   - DOMAIN-SUFFIX,ll699.net
   - DOMAIN-SUFFIX,llamador.cl
   - DOMAIN-SUFFIX,llbn.tv
+  - DOMAIN-SUFFIX,lldns.net
+  - DOMAIN-SUFFIX,llnw-trials.com
+  - DOMAIN-SUFFIX,llnw.com
+  - DOMAIN-SUFFIX,llnw.net
   - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,llnwi.net
   - DOMAIN-SUFFIX,llqpipe.com
   - DOMAIN-SUFFIX,llss.me
   - DOMAIN-SUFFIX,lm.1731788.com
@@ -18637,11 +18648,13 @@ payload:
   - DOMAIN-SUFFIX,px.mystakidis.gr
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,pxt.io
+  - DOMAIN-SUFFIX,pycon.org
   - DOMAIN-SUFFIX,pydabogados.com.ar
   - DOMAIN-SUFFIX,pyhapp.com
   - DOMAIN-SUFFIX,pyntsquare.com
   - DOMAIN-SUFFIX,pyorrhoea.org
   - DOMAIN-SUFFIX,pypa.io
+  - DOMAIN-SUFFIX,pypi.io
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,pypl.com
   - DOMAIN-SUFFIX,pypl.info
@@ -19530,6 +19543,7 @@ payload:
   - DOMAIN-SUFFIX,sbofa88.com
   - DOMAIN-SUFFIX,sbs
   - DOMAIN-SUFFIX,sbs.com.au
+  - DOMAIN-SUFFIX,sbuxcard.com
   - DOMAIN-SUFFIX,sc
   - DOMAIN-SUFFIX,sc-cdn.net
   - DOMAIN-SUFFIX,sc.sh22.us
@@ -20586,9 +20600,25 @@ payload:
   - DOMAIN-SUFFIX,stanford.edu
   - DOMAIN-SUFFIX,staples
   - DOMAIN-SUFFIX,star-telegram.com
+  - DOMAIN-SUFFIX,starbucks-stars.com
+  - DOMAIN-SUFFIX,starbucks.be
+  - DOMAIN-SUFFIX,starbucks.ch
+  - DOMAIN-SUFFIX,starbucks.co.id
   - DOMAIN-SUFFIX,starbucks.com
+  - DOMAIN-SUFFIX,starbucks.com.co
+  - DOMAIN-SUFFIX,starbucks.it
+  - DOMAIN-SUFFIX,starbucks.pt
+  - DOMAIN-SUFFIX,starbucks.rs
   - DOMAIN-SUFFIX,starbucksathome.com
+  - DOMAIN-SUFFIX,starbuckscardb2b.com
+  - DOMAIN-SUFFIX,starbuckscoffeegear.com
+  - DOMAIN-SUFFIX,starbuckscoffeegearstore.com
+  - DOMAIN-SUFFIX,starbucksforlife.com
+  - DOMAIN-SUFFIX,starbuckspoq.com
   - DOMAIN-SUFFIX,starbucksreserve.com
+  - DOMAIN-SUFFIX,starbucksrewardsstarland.com
+  - DOMAIN-SUFFIX,starbucksrtd.com
+  - DOMAIN-SUFFIX,starbuckssummergame.com
   - DOMAIN-SUFFIX,starcelebs.com
   - DOMAIN-SUFFIX,starchu.com
   - DOMAIN-SUFFIX,starcraft.com
@@ -21401,7 +21431,6 @@ payload:
   - DOMAIN-SUFFIX,thepaypalshop.com
   - DOMAIN-SUFFIX,thepetitionsite.com
   - DOMAIN-SUFFIX,thepiratebay.org
-  - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,thepolicy.us
   - DOMAIN-SUFFIX,theporndude.com
   - DOMAIN-SUFFIX,theportalwiki.com
@@ -22840,6 +22869,7 @@ payload:
   - DOMAIN-SUFFIX,verizon.com
   - DOMAIN-SUFFIX,verizon.net
   - DOMAIN-SUFFIX,verizonbusinessfios.com
+  - DOMAIN-SUFFIX,verizondigitalmedia.com
   - DOMAIN-SUFFIX,verizonenterprise.com
   - DOMAIN-SUFFIX,verizonfios.com
   - DOMAIN-SUFFIX,verizonmedia.com
@@ -25847,11 +25877,11 @@ payload:
   - DOMAIN-SUFFIX,www.jailbreakvpn.com
   - DOMAIN-SUFFIX,www.jainchetan.com
   - DOMAIN-SUFFIX,www.jameshooker.co.uk
+  - DOMAIN-SUFFIX,www.japonx.tv
   - DOMAIN-SUFFIX,www.jasonfbrennan.com
   - DOMAIN-SUFFIX,www.jav007.com
   - DOMAIN-SUFFIX,www.jav008.com
   - DOMAIN-SUFFIX,www.jav28.com
-  - DOMAIN-SUFFIX,www.jav321.com
   - DOMAIN-SUFFIX,www.jav777.xyz
   - DOMAIN-SUFFIX,www.java9countdown.xyz
   - DOMAIN-SUFFIX,www.javbaike.com
@@ -27554,6 +27584,7 @@ payload:
   - DOMAIN-SUFFIX,x06966.com
   - DOMAIN-SUFFIX,x12express.com
   - DOMAIN-SUFFIX,x188betx.com
+  - DOMAIN-SUFFIX,x18r.com
   - DOMAIN-SUFFIX,x1949x.com
   - DOMAIN-SUFFIX,x24hr.com
   - DOMAIN-SUFFIX,x258888.com
@@ -28449,6 +28480,7 @@ payload:
   - DOMAIN-SUFFIX,zeitworld.com
   - DOMAIN-SUFFIX,zello.com
   - DOMAIN-SUFFIX,zencdn.net
+  - DOMAIN-SUFFIX,zencoder.com
   - DOMAIN-SUFFIX,zend2.com
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zendproxy.com
@@ -28765,7 +28797,7 @@ payload:
   - IP-CIDR6,2001:67c:4e8::/48
   - IP-CIDR6,2001:b28:f23d::/48
   - IP-CIDR6,2001:b28:f23f::/48
-#  与 BlackList 共 755 条规则重复
+#  与 BlackList 共 756 条规则重复
   - DOMAIN-KEYWORD,appledaily
   - DOMAIN-KEYWORD,beetalk
   - DOMAIN-KEYWORD,blogspot
@@ -28907,6 +28939,7 @@ payload:
   - DOMAIN-SUFFIX,costco.com
   - DOMAIN-SUFFIX,crackle.com
   - DOMAIN-SUFFIX,creativelab5.com
+  - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,culturalspot.org
   - DOMAIN-SUFFIX,culturedcode.com
@@ -29906,27 +29939,6 @@ payload:
   - DOMAIN-SUFFIX,votolia.com
   - DOMAIN-SUFFIX,worldsecureemail.com
   - DOMAIN-SUFFIX,worldsecuresystems.com
-#  与 Line 共 20 条规则重复
-  - DOMAIN-SUFFIX,lin.ee
-  - DOMAIN-SUFFIX,line-apps.com
-  - DOMAIN-SUFFIX,line-cdn.net
-  - DOMAIN-SUFFIX,line-scdn.net
-  - DOMAIN-SUFFIX,line.me
-  - DOMAIN-SUFFIX,naver.jp
-  - DOMAIN-SUFFIX,nhncorp.jp
-  - IP-CIDR,103.2.28.0/22
-  - IP-CIDR,119.235.224.0/21
-  - IP-CIDR,119.235.232.0/23
-  - IP-CIDR,119.235.235.0/24
-  - IP-CIDR,119.235.236.0/23
-  - IP-CIDR,125.209.208.0/20
-  - IP-CIDR,125.6.146.0/24
-  - IP-CIDR,125.6.149.0/24
-  - IP-CIDR,125.6.190.0/24
-  - IP-CIDR,147.92.128.0/17
-  - IP-CIDR,203.104.103.0/24
-  - IP-CIDR,203.174.66.64/26
-  - IP-CIDR,203.174.77.0/24
 #  与 Bloomberg 共 20 条规则重复
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,bloomberg.fm
@@ -29948,6 +29960,27 @@ payload:
   - DOMAIN-SUFFIX,quicktake.video
   - DOMAIN-SUFFIX,techatbloomberg.com
   - DOMAIN-SUFFIX,tictoc.video
+#  与 Line 共 20 条规则重复
+  - DOMAIN-SUFFIX,lin.ee
+  - DOMAIN-SUFFIX,line-apps.com
+  - DOMAIN-SUFFIX,line-cdn.net
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,naver.jp
+  - DOMAIN-SUFFIX,nhncorp.jp
+  - IP-CIDR,103.2.28.0/22
+  - IP-CIDR,119.235.224.0/21
+  - IP-CIDR,119.235.232.0/23
+  - IP-CIDR,119.235.235.0/24
+  - IP-CIDR,119.235.236.0/23
+  - IP-CIDR,125.209.208.0/20
+  - IP-CIDR,125.6.146.0/24
+  - IP-CIDR,125.6.149.0/24
+  - IP-CIDR,125.6.190.0/24
+  - IP-CIDR,147.92.128.0/17
+  - IP-CIDR,203.104.103.0/24
+  - IP-CIDR,203.174.66.64/26
+  - IP-CIDR,203.174.77.0/24
 #  与 Discord 共 9 条规则重复
   - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.com
@@ -30285,7 +30318,7 @@ payload:
   - DOMAIN-SUFFIX,workspaceair.com
   - DOMAIN-SUFFIX,workspaceone.com
   - DOMAIN-SUFFIX,xlstudio.com
-#  与 Fox 共 227 条规则重复
+#  与 Fox 共 226 条规则重复
   - DOMAIN-SUFFIX,afewmomentswith.com
   - DOMAIN-SUFFIX,anidom.com
   - DOMAIN-SUFFIX,bentobox.tv
@@ -30506,13 +30539,28 @@ payload:
   - DOMAIN-SUFFIX,theclasshroom.com
   - DOMAIN-SUFFIX,thefoxnation.com
   - DOMAIN-SUFFIX,thegeorgiascene.com
-  - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,uplynk.com
   - DOMAIN-SUFFIX,whatthefox.com
   - DOMAIN-SUFFIX,whosthehost.com
   - DOMAIN-SUFFIX,wofl.tv
   - DOMAIN-SUFFIX,woflthenewsstation.com
   - DOMAIN-SUFFIX,wogx.com
+#  与 Dropbox 共 15 条规则重复
+  - DOMAIN-SUFFIX,db.tt
+  - DOMAIN-SUFFIX,dropbox-dns.com
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,dropbox.tech
+  - DOMAIN-SUFFIX,dropboxapi.com
+  - DOMAIN-SUFFIX,dropboxbusiness.com
+  - DOMAIN-SUFFIX,dropboxcaptcha.com
+  - DOMAIN-SUFFIX,dropboxforum.com
+  - DOMAIN-SUFFIX,dropboxforums.com
+  - DOMAIN-SUFFIX,dropboxinsiders.com
+  - DOMAIN-SUFFIX,dropboxmail.com
+  - DOMAIN-SUFFIX,dropboxpartners.com
+  - DOMAIN-SUFFIX,dropboxstatic.com
+  - DOMAIN-SUFFIX,dropboxusercontent.com
+  - DOMAIN-SUFFIX,getdropbox.com
 #  与 HuluUSA 共 45 条规则重复
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,callhulu.com
@@ -30559,22 +30607,6 @@ payload:
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,thehulubraintrust.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
-#  与 Dropbox 共 15 条规则重复
-  - DOMAIN-SUFFIX,db.tt
-  - DOMAIN-SUFFIX,dropbox-dns.com
-  - DOMAIN-SUFFIX,dropbox.com
-  - DOMAIN-SUFFIX,dropbox.tech
-  - DOMAIN-SUFFIX,dropboxapi.com
-  - DOMAIN-SUFFIX,dropboxbusiness.com
-  - DOMAIN-SUFFIX,dropboxcaptcha.com
-  - DOMAIN-SUFFIX,dropboxforum.com
-  - DOMAIN-SUFFIX,dropboxforums.com
-  - DOMAIN-SUFFIX,dropboxinsiders.com
-  - DOMAIN-SUFFIX,dropboxmail.com
-  - DOMAIN-SUFFIX,dropboxpartners.com
-  - DOMAIN-SUFFIX,dropboxstatic.com
-  - DOMAIN-SUFFIX,dropboxusercontent.com
-  - DOMAIN-SUFFIX,getdropbox.com
 #  与 DynDNS 共 7 条规则重复
   - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,dyndns-ip.com
@@ -30583,29 +30615,6 @@ payload:
   - DOMAIN-SUFFIX,from-pr.com
   - DOMAIN-SUFFIX,from-sd.com
   - DOMAIN-SUFFIX,is-a-hunter.com
-#  与 CBS 共 22 条规则重复
-  - DOMAIN-SUFFIX,cbs
-  - DOMAIN-SUFFIX,cbs.com
-  - DOMAIN-SUFFIX,cbsaavideo.com
-  - DOMAIN-SUFFIX,cbscorporation.com
-  - DOMAIN-SUFFIX,cbsi.com
-  - DOMAIN-SUFFIX,cbsi.video
-  - DOMAIN-SUFFIX,cbsiam.com
-  - DOMAIN-SUFFIX,cbsig.net
-  - DOMAIN-SUFFIX,cbsimg.net
-  - DOMAIN-SUFFIX,cbsinteractive.com
-  - DOMAIN-SUFFIX,cbsistatic.com
-  - DOMAIN-SUFFIX,cbsivideo.com
-  - DOMAIN-SUFFIX,cbsnews.com
-  - DOMAIN-SUFFIX,cbspressexpress.com
-  - DOMAIN-SUFFIX,cbssports.com
-  - DOMAIN-SUFFIX,cbsstatic.com
-  - DOMAIN-SUFFIX,cbssvideo.com
-  - DOMAIN-SUFFIX,paramount.com
-  - DOMAIN-SUFFIX,viacbs.com
-  - DOMAIN-SUFFIX,viacom.com
-  - DOMAIN-SUFFIX,viacomcbs.com
-  - DOMAIN-SUFFIX,viacomcbspressexpress.com
 #  与 Riot 共 45 条规则重复
   - DOMAIN-SUFFIX,championshipseriesleague.com
   - DOMAIN-SUFFIX,convrgencegame.com
@@ -30840,15 +30849,18 @@ payload:
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,thehulubraintrust.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
-#  与 Japonx 共 8 条规则重复
-  - DOMAIN-SUFFIX,japonx.com
-  - DOMAIN-SUFFIX,japonx.net
-  - DOMAIN-SUFFIX,japonx.tv
-  - DOMAIN-SUFFIX,japonx.vip
-  - DOMAIN-SUFFIX,japronx.com
-  - DOMAIN-SUFFIX,japronx.net
-  - DOMAIN-SUFFIX,japronx.tv
-  - DOMAIN-SUFFIX,japronx.vip
+#  与 BrightCove 共 11 条规则重复
+  - DOMAIN-SUFFIX,bcove.video
+  - DOMAIN-SUFFIX,bcovlive.io
+  - DOMAIN-SUFFIX,bcvp0rtal.com
+  - DOMAIN-SUFFIX,boltdns.net
+  - DOMAIN-SUFFIX,brightcove.com
+  - DOMAIN-SUFFIX,brightcove.net
+  - DOMAIN-SUFFIX,brightcove.services
+  - DOMAIN-SUFFIX,brightcovecdn.com
+  - DOMAIN-SUFFIX,videojs.com
+  - DOMAIN-SUFFIX,zencdn.net
+  - DOMAIN-SUFFIX,zencoder.com
 #  与 ZeeTV 共 7 条规则重复
   - DOMAIN-SUFFIX,z5.app
   - DOMAIN-SUFFIX,z5.com
@@ -31077,16 +31089,29 @@ payload:
   - DOMAIN-SUFFIX,xenoblade.com
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,yoshisnewisland.com
-#  与 BrightCove 共 9 条规则重复
-  - DOMAIN-SUFFIX,bcove.video
-  - DOMAIN-SUFFIX,bcovlive.io
-  - DOMAIN-SUFFIX,bcvp0rtal.com
-  - DOMAIN-SUFFIX,boltdns.net
-  - DOMAIN-SUFFIX,brightcove.com
-  - DOMAIN-SUFFIX,brightcove.net
-  - DOMAIN-SUFFIX,brightcove.services
-  - DOMAIN-SUFFIX,brightcovecdn.com
-  - DOMAIN-SUFFIX,videojs.com
+#  与 CBS 共 22 条规则重复
+  - DOMAIN-SUFFIX,cbs
+  - DOMAIN-SUFFIX,cbs.com
+  - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbscorporation.com
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsi.video
+  - DOMAIN-SUFFIX,cbsiam.com
+  - DOMAIN-SUFFIX,cbsig.net
+  - DOMAIN-SUFFIX,cbsimg.net
+  - DOMAIN-SUFFIX,cbsinteractive.com
+  - DOMAIN-SUFFIX,cbsistatic.com
+  - DOMAIN-SUFFIX,cbsivideo.com
+  - DOMAIN-SUFFIX,cbsnews.com
+  - DOMAIN-SUFFIX,cbspressexpress.com
+  - DOMAIN-SUFFIX,cbssports.com
+  - DOMAIN-SUFFIX,cbsstatic.com
+  - DOMAIN-SUFFIX,cbssvideo.com
+  - DOMAIN-SUFFIX,paramount.com
+  - DOMAIN-SUFFIX,viacbs.com
+  - DOMAIN-SUFFIX,viacom.com
+  - DOMAIN-SUFFIX,viacomcbs.com
+  - DOMAIN-SUFFIX,viacomcbspressexpress.com
 #  与 SmarTone 共 11 条规则重复
   - DOMAIN-SUFFIX,barkadahansasmartone.com
   - DOMAIN-SUFFIX,hkcircleapp.com
@@ -31258,6 +31283,12 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,worldbank.org
   - DOMAIN-SUFFIX,yale.edu
+#  与 KKBOX 共 5 条规则重复
+  - DOMAIN-SUFFIX,kfs.io
+  - DOMAIN-SUFFIX,kk.stream
+  - DOMAIN-SUFFIX,kkbox.com
+  - DOMAIN-SUFFIX,kktix.com
+  - DOMAIN-SUFFIX,kktv.me
 #  与 KakaoTalk 共 10 条规则重复
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,kakao.co.kr
@@ -31269,19 +31300,6 @@ payload:
   - IP-CIDR,110.76.140.0/22
   - IP-CIDR,113.61.104.0/22
   - IP-CIDR,27.0.236.0/22
-#  与 Spotify 共 12 条规则重复
-  - DOMAIN-SUFFIX,byspotify.com
-  - DOMAIN-SUFFIX,pscdn.co
-  - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spotify-everywhere.com
-  - DOMAIN-SUFFIX,spotify.com
-  - DOMAIN-SUFFIX,spotify.design
-  - DOMAIN-SUFFIX,spotifycdn.com
-  - DOMAIN-SUFFIX,spotifycdn.net
-  - DOMAIN-SUFFIX,spotifycharts.com
-  - DOMAIN-SUFFIX,spotifycodes.com
-  - DOMAIN-SUFFIX,spotifyforbrands.com
-  - DOMAIN-SUFFIX,spotifyjobs.com
 #  与 Zoho 共 9 条规则重复
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,zohocdn.com
@@ -31783,21 +31801,6 @@ payload:
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,yogify.com
   - DOMAIN-SUFFIX,yoshisnewisland.com
-#  与 Whatsapp 共 14 条规则重复
-  - DOMAIN-KEYWORD,whatsapp
-  - DOMAIN-SUFFIX,bintray.com
-  - DOMAIN-SUFFIX,whatsapp.com
-  - DOMAIN-SUFFIX,whatsapp.net
-  - IP-CIDR,158.85.224.160/27
-  - IP-CIDR,158.85.46.128/27
-  - IP-CIDR,158.85.5.192/27
-  - IP-CIDR,173.192.222.160/27
-  - IP-CIDR,173.192.231.32/27
-  - IP-CIDR,18.194.0.0/15
-  - IP-CIDR,184.173.128.0/17
-  - IP-CIDR,34.224.0.0/12
-  - IP-CIDR,50.22.198.204/30
-  - IP-CIDR,54.242.0.0/15
 #  与 AbemaTV 共 14 条规则重复
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
@@ -31849,6 +31852,21 @@ payload:
   - DOMAIN-SUFFIX,pixnet.cc
   - DOMAIN-SUFFIX,pixnet.net
   - DOMAIN-SUFFIX,pixnet.pro
+#  与 Whatsapp 共 14 条规则重复
+  - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-SUFFIX,bintray.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - IP-CIDR,158.85.224.160/27
+  - IP-CIDR,158.85.46.128/27
+  - IP-CIDR,158.85.5.192/27
+  - IP-CIDR,173.192.222.160/27
+  - IP-CIDR,173.192.231.32/27
+  - IP-CIDR,18.194.0.0/15
+  - IP-CIDR,184.173.128.0/17
+  - IP-CIDR,34.224.0.0/12
+  - IP-CIDR,50.22.198.204/30
+  - IP-CIDR,54.242.0.0/15
 #  与 Twitter 共 17 条规则重复
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,ads-twitter.com
@@ -31883,91 +31901,6 @@ payload:
   - DOMAIN-SUFFIX,pinterest.nl
   - DOMAIN-SUFFIX,pinterest.pt
   - DOMAIN-SUFFIX,pinterest.se
-#  与 Disney 共 84 条规则重复
-  - DOMAIN-SUFFIX,abc-studios.com
-  - DOMAIN-SUFFIX,abc.com
-  - DOMAIN-SUFFIX,adobedtm.com
-  - DOMAIN-SUFFIX,adventuresbydisney.com
-  - DOMAIN-SUFFIX,babble.com
-  - DOMAIN-SUFFIX,babyzone.com
-  - DOMAIN-SUFFIX,bamgrid.com
-  - DOMAIN-SUFFIX,braze.com
-  - DOMAIN-SUFFIX,conviva.com
-  - DOMAIN-SUFFIX,dilcdn.com
-  - DOMAIN-SUFFIX,disney-asia.com
-  - DOMAIN-SUFFIX,disney-discount.com
-  - DOMAIN-SUFFIX,disney-plus.net
-  - DOMAIN-SUFFIX,disney-studio.com
-  - DOMAIN-SUFFIX,disney-studio.net
-  - DOMAIN-SUFFIX,disney.be
-  - DOMAIN-SUFFIX,disney.com
-  - DOMAIN-SUFFIX,disney.id
-  - DOMAIN-SUFFIX,disney.io
-  - DOMAIN-SUFFIX,disney.it
-  - DOMAIN-SUFFIX,disney.pt
-  - DOMAIN-SUFFIX,disneyadsales.com
-  - DOMAIN-SUFFIX,disneyarena.com
-  - DOMAIN-SUFFIX,disneyaulani.com
-  - DOMAIN-SUFFIX,disneybaby.com
-  - DOMAIN-SUFFIX,disneycareers.com
-  - DOMAIN-SUFFIX,disneychannelonstage.com
-  - DOMAIN-SUFFIX,disneychannelroadtrip.com
-  - DOMAIN-SUFFIX,disneycruisebrasil.com
-  - DOMAIN-SUFFIX,disneyenconcert.com
-  - DOMAIN-SUFFIX,disneyiejobs.com
-  - DOMAIN-SUFFIX,disneyinflight.com
-  - DOMAIN-SUFFIX,disneyjunior.com
-  - DOMAIN-SUFFIX,disneyjuniortreataday.com
-  - DOMAIN-SUFFIX,disneylatino.com
-  - DOMAIN-SUFFIX,disneymagicmoments.it
-  - DOMAIN-SUFFIX,disneyme.com
-  - DOMAIN-SUFFIX,disneymeetingsandevents.com
-  - DOMAIN-SUFFIX,disneymovieinsiders.com
-  - DOMAIN-SUFFIX,disneymusicpromotion.com
-  - DOMAIN-SUFFIX,disneynewseries.com
-  - DOMAIN-SUFFIX,disneynow.com
-  - DOMAIN-SUFFIX,disneypeoplesurveys.com
-  - DOMAIN-SUFFIX,disneyplus.com
-  - DOMAIN-SUFFIX,disneyredirects.com
-  - DOMAIN-SUFFIX,disneysrivieraresort.com
-  - DOMAIN-SUFFIX,disneystore.com
-  - DOMAIN-SUFFIX,disneysubscription.com
-  - DOMAIN-SUFFIX,disneytvajobs.com
-  - DOMAIN-SUFFIX,disneyworld-go.com
-  - DOMAIN-SUFFIX,dssott.com
-  - DOMAIN-SUFFIX,edgedatg.com
-  - DOMAIN-SUFFIX,espn.com
-  - DOMAIN-SUFFIX,espncdn.com
-  - DOMAIN-SUFFIX,go-disneyworldgo.com
-  - DOMAIN-SUFFIX,go.com
-  - DOMAIN-SUFFIX,marvel.com
-  - DOMAIN-SUFFIX,marvel10thanniversary.com
-  - DOMAIN-SUFFIX,marveldimensionofheroes.com
-  - DOMAIN-SUFFIX,marvelparty.net
-  - DOMAIN-SUFFIX,marvelpinball.com
-  - DOMAIN-SUFFIX,marvelsdoubleagent.com
-  - DOMAIN-SUFFIX,marvelspotlightplays.com
-  - DOMAIN-SUFFIX,marvelsuperheroseptember.com
-  - DOMAIN-SUFFIX,marvelsuperwar.com
-  - DOMAIN-SUFFIX,mickey.tv
-  - DOMAIN-SUFFIX,moviesanywhere.com
-  - DOMAIN-SUFFIX,natgeomaps.com
-  - DOMAIN-SUFFIX,nationalgeographic.com
-  - DOMAIN-SUFFIX,nationalgeographicpartners.com
-  - DOMAIN-SUFFIX,ngeo.com
-  - DOMAIN-SUFFIX,playmation.com
-  - DOMAIN-SUFFIX,shopdisney.com
-  - DOMAIN-SUFFIX,shops-disney.com
-  - DOMAIN-SUFFIX,sorcerersarena.com
-  - DOMAIN-SUFFIX,spaindisney.com
-  - DOMAIN-SUFFIX,starwars.com
-  - DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
-  - DOMAIN-SUFFIX,streamingdisney.net
-  - DOMAIN-SUFFIX,themarvelexperiencetour.com
-  - DOMAIN-SUFFIX,thestationbymaker.com
-  - DOMAIN-SUFFIX,thisispolaris.com
-  - DOMAIN-SUFFIX,watchdisneyfe.com
-  - DOMAIN-SUFFIX,watchespn.com
 #  与 Nike 共 7 条规则重复
   - DOMAIN-SUFFIX,nike.com
   - DOMAIN-SUFFIX,nikecdn.com
@@ -32025,6 +31958,19 @@ payload:
   - IP-CIDR,91.108.0.0/16
   - IP-CIDR6,2001:67c:4e8::/48
   - IP-CIDR6,2001:b28:f23f::/48
+#  与 Spotify 共 12 条规则重复
+  - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spotify-everywhere.com
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.design
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifycdn.net
+  - DOMAIN-SUFFIX,spotifycharts.com
+  - DOMAIN-SUFFIX,spotifycodes.com
+  - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyjobs.com
 #  与 Rarbg 共 10 条规则重复
   - DOMAIN-SUFFIX,proxyrarbg.org
   - DOMAIN-SUFFIX,rarbg.is
@@ -32140,67 +32086,88 @@ payload:
   - IP-CIDR,54.226.0.0/15
   - IP-CIDR,54.230.156.0/22
   - IP-CIDR,54.93.0.0/16
-#  与 Microsoft 共 60 条规则重复
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,aka.ms
-  - DOMAIN-SUFFIX,aspnetcdn.com
-  - DOMAIN-SUFFIX,azure.com
-  - DOMAIN-SUFFIX,azure.net
-  - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.net
-  - DOMAIN-SUFFIX,cloudapp.net
-  - DOMAIN-SUFFIX,cloudappsecurity.com
-  - DOMAIN-SUFFIX,docs.com
-  - DOMAIN-SUFFIX,edgesuite.net
-  - DOMAIN-SUFFIX,fabric.io
-  - DOMAIN-SUFFIX,gfx.ms
-  - DOMAIN-SUFFIX,hotmail.com
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,live.net
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,msauth.net
-  - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,msedge.net
-  - DOMAIN-SUFFIX,msft.net
-  - DOMAIN-SUFFIX,msftauth.net
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,msocdn.com
-  - DOMAIN-SUFFIX,msocsp.com
-  - DOMAIN-SUFFIX,o365weve.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,onenote.com
-  - DOMAIN-SUFFIX,onenote.net
-  - DOMAIN-SUFFIX,onestore.ms
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,s-microsoft.com
-  - DOMAIN-SUFFIX,sfbassets.com
-  - DOMAIN-SUFFIX,sfx.ms
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
-  - DOMAIN-SUFFIX,skype.com
-  - DOMAIN-SUFFIX,skypeassets.com
-  - DOMAIN-SUFFIX,staffhub.ms
-  - DOMAIN-SUFFIX,sway-cdn.com
-  - DOMAIN-SUFFIX,sway.com
-  - DOMAIN-SUFFIX,trafficmanager.net
-  - DOMAIN-SUFFIX,virtualearth.net
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windowsazure.com
-  - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,xbox.com
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,yammer.com
+#  与 Disney 共 81 条规则重复
+  - DOMAIN-SUFFIX,abc-studios.com
+  - DOMAIN-SUFFIX,abc.com
+  - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN-SUFFIX,adventuresbydisney.com
+  - DOMAIN-SUFFIX,babble.com
+  - DOMAIN-SUFFIX,babyzone.com
+  - DOMAIN-SUFFIX,dilcdn.com
+  - DOMAIN-SUFFIX,disney-asia.com
+  - DOMAIN-SUFFIX,disney-discount.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-studio.com
+  - DOMAIN-SUFFIX,disney-studio.net
+  - DOMAIN-SUFFIX,disney.be
+  - DOMAIN-SUFFIX,disney.com
+  - DOMAIN-SUFFIX,disney.id
+  - DOMAIN-SUFFIX,disney.io
+  - DOMAIN-SUFFIX,disney.it
+  - DOMAIN-SUFFIX,disney.pt
+  - DOMAIN-SUFFIX,disneyadsales.com
+  - DOMAIN-SUFFIX,disneyarena.com
+  - DOMAIN-SUFFIX,disneyaulani.com
+  - DOMAIN-SUFFIX,disneybaby.com
+  - DOMAIN-SUFFIX,disneycareers.com
+  - DOMAIN-SUFFIX,disneychannelonstage.com
+  - DOMAIN-SUFFIX,disneychannelroadtrip.com
+  - DOMAIN-SUFFIX,disneycruisebrasil.com
+  - DOMAIN-SUFFIX,disneyenconcert.com
+  - DOMAIN-SUFFIX,disneyiejobs.com
+  - DOMAIN-SUFFIX,disneyinflight.com
+  - DOMAIN-SUFFIX,disneyjunior.com
+  - DOMAIN-SUFFIX,disneyjuniortreataday.com
+  - DOMAIN-SUFFIX,disneylatino.com
+  - DOMAIN-SUFFIX,disneymagicmoments.it
+  - DOMAIN-SUFFIX,disneyme.com
+  - DOMAIN-SUFFIX,disneymeetingsandevents.com
+  - DOMAIN-SUFFIX,disneymovieinsiders.com
+  - DOMAIN-SUFFIX,disneymusicpromotion.com
+  - DOMAIN-SUFFIX,disneynewseries.com
+  - DOMAIN-SUFFIX,disneynow.com
+  - DOMAIN-SUFFIX,disneypeoplesurveys.com
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyredirects.com
+  - DOMAIN-SUFFIX,disneysrivieraresort.com
+  - DOMAIN-SUFFIX,disneystore.com
+  - DOMAIN-SUFFIX,disneysubscription.com
+  - DOMAIN-SUFFIX,disneytvajobs.com
+  - DOMAIN-SUFFIX,disneyworld-go.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,edgedatg.com
+  - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,espncdn.com
+  - DOMAIN-SUFFIX,go-disneyworldgo.com
+  - DOMAIN-SUFFIX,go.com
+  - DOMAIN-SUFFIX,marvel.com
+  - DOMAIN-SUFFIX,marvel10thanniversary.com
+  - DOMAIN-SUFFIX,marveldimensionofheroes.com
+  - DOMAIN-SUFFIX,marvelparty.net
+  - DOMAIN-SUFFIX,marvelpinball.com
+  - DOMAIN-SUFFIX,marvelsdoubleagent.com
+  - DOMAIN-SUFFIX,marvelspotlightplays.com
+  - DOMAIN-SUFFIX,marvelsuperheroseptember.com
+  - DOMAIN-SUFFIX,marvelsuperwar.com
+  - DOMAIN-SUFFIX,mickey.tv
+  - DOMAIN-SUFFIX,moviesanywhere.com
+  - DOMAIN-SUFFIX,natgeomaps.com
+  - DOMAIN-SUFFIX,nationalgeographic.com
+  - DOMAIN-SUFFIX,nationalgeographicpartners.com
+  - DOMAIN-SUFFIX,ngeo.com
+  - DOMAIN-SUFFIX,playmation.com
+  - DOMAIN-SUFFIX,shopdisney.com
+  - DOMAIN-SUFFIX,shops-disney.com
+  - DOMAIN-SUFFIX,sorcerersarena.com
+  - DOMAIN-SUFFIX,spaindisney.com
+  - DOMAIN-SUFFIX,starwars.com
+  - DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
+  - DOMAIN-SUFFIX,streamingdisney.net
+  - DOMAIN-SUFFIX,themarvelexperiencetour.com
+  - DOMAIN-SUFFIX,thestationbymaker.com
+  - DOMAIN-SUFFIX,thisispolaris.com
+  - DOMAIN-SUFFIX,watchdisneyfe.com
+  - DOMAIN-SUFFIX,watchespn.com
 #  与 iCloud 共 31 条规则重复
   - DOMAIN,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,apple-cloudkit.com
@@ -32233,6 +32200,287 @@ payload:
   - DOMAIN-SUFFIX,myicloud.net
   - DOMAIN-SUFFIX,mylcloud.net
   - DOMAIN-SUFFIX,wwwicloud.com
+#  与 Microsoft 共 280 条规则重复
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,adaptivecards.io
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,ankarazirvesi2018.com
+  - DOMAIN-SUFFIX,api-extractor.com
+  - DOMAIN-SUFFIX,apisof.net
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,aria.ms
+  - DOMAIN-SUFFIX,asp.net
+  - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,azure-mobile.net
+  - DOMAIN-SUFFIX,azure-sphere.com
+  - DOMAIN-SUFFIX,azure-test.net
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,azurecomcdn.net
+  - DOMAIN-SUFFIX,azurecontainer.io
+  - DOMAIN-SUFFIX,azurecosmos.net
+  - DOMAIN-SUFFIX,azuredatabricks.net
+  - DOMAIN-SUFFIX,azuredevopslaunch.com
+  - DOMAIN-SUFFIX,azuredigitaltwin.com
+  - DOMAIN-SUFFIX,azureedge-test.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureiotcentral.com
+  - DOMAIN-SUFFIX,azureiotsolutions.com
+  - DOMAIN-SUFFIX,azureiotsuite.com
+  - DOMAIN-SUFFIX,azureserviceprofiler.com
+  - DOMAIN-SUFFIX,azuresmartspaces.net
+  - DOMAIN-SUFFIX,azurestackvalidation.com
+  - DOMAIN-SUFFIX,azurewebsites.net
+  - DOMAIN-SUFFIX,beth.games
+  - DOMAIN-SUFFIX,bethesda.net
+  - DOMAIN-SUFFIX,bethesdagamestudios.com
+  - DOMAIN-SUFFIX,bethsoft.com
+  - DOMAIN-SUFFIX,binads.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,bingagencyawards.com
+  - DOMAIN-SUFFIX,bingapistatistics.com
+  - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingvisualsearch.com
+  - DOMAIN-SUFFIX,bingworld.com
+  - DOMAIN-SUFFIX,blazor.net
+  - DOMAIN-SUFFIX,bluehatil.com
+  - DOMAIN-SUFFIX,bluehatnights.com
+  - DOMAIN-SUFFIX,botframework.com
+  - DOMAIN-SUFFIX,brazilpartneruniversity.com
+  - DOMAIN-SUFFIX,breakdown.me
+  - DOMAIN-SUFFIX,callersbane.com
+  - DOMAIN-SUFFIX,centralvalidation.com
+  - DOMAIN-SUFFIX,ch9.ms
+  - DOMAIN-SUFFIX,charticulator.com
+  - DOMAIN-SUFFIX,cloudapp.net
+  - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,codethemicrobit.com
+  - DOMAIN-SUFFIX,cortanaanalytics.com
+  - DOMAIN-SUFFIX,cortanaskills.com
+  - DOMAIN-SUFFIX,crmdynint-gcc.com
+  - DOMAIN-SUFFIX,crmdynint.com
+  - DOMAIN-SUFFIX,crossborderexpansion.com
+  - DOMAIN-SUFFIX,devopsassessment.net
+  - DOMAIN-SUFFIX,devopsms.com
+  - DOMAIN-SUFFIX,dictate.ms
+  - DOMAIN-SUFFIX,docs.com
+  - DOMAIN-SUFFIX,dot.net
+  - DOMAIN-SUFFIX,dynamics.com
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,efproject.net
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,fasttrackreadysupport.com
+  - DOMAIN-SUFFIX,femalefounderscomp.com
+  - DOMAIN-SUFFIX,flipwithsurface.com
+  - DOMAIN-SUFFIX,fluidpreview.com
+  - DOMAIN-SUFFIX,forzamotorsport.net
+  - DOMAIN-SUFFIX,forzaracingchampionship.com
+  - DOMAIN-SUFFIX,forzarc.com
+  - DOMAIN-SUFFIX,gamesstack.com
+  - DOMAIN-SUFFIX,gameuxmasterguide.com
+  - DOMAIN-SUFFIX,gears5.com
+  - DOMAIN-SUFFIX,gearspop.com
+  - DOMAIN-SUFFIX,gearstactics.com
+  - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,gigjam.com
+  - DOMAIN-SUFFIX,gotcosmos.com
+  - DOMAIN-SUFFIX,graphengine.io
+  - DOMAIN-SUFFIX,helpshift.com
+  - DOMAIN-SUFFIX,hockeyapp.net
+  - DOMAIN-SUFFIX,hololens.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,hummingbird.ms
+  - DOMAIN-SUFFIX,ie10.com
+  - DOMAIN-SUFFIX,ie11.com
+  - DOMAIN-SUFFIX,ie8.co
+  - DOMAIN-SUFFIX,ie9.com
+  - DOMAIN-SUFFIX,ingads.com
+  - DOMAIN-SUFFIX,insiderdevtour.com
+  - DOMAIN-SUFFIX,intunewiki.com
+  - DOMAIN-SUFFIX,iotinactionevents.com
+  - DOMAIN-SUFFIX,jwt.ms
+  - DOMAIN-SUFFIX,kidgrid.tv
+  - DOMAIN-SUFFIX,latampartneruniversity.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,livingyourambition.com
+  - DOMAIN-SUFFIX,makecode.org
+  - DOMAIN-SUFFIX,managedmeetingrooms.com
+  - DOMAIN-SUFFIX,masalladeloslimites.com
+  - DOMAIN-SUFFIX,meetfasttrack.com
+  - DOMAIN-SUFFIX,meetyourdevices.com
+  - DOMAIN-SUFFIX,mepn.com
+  - DOMAIN-SUFFIX,microbit.org
+  - DOMAIN-SUFFIX,microsoft-give.com
+  - DOMAIN-SUFFIX,microsoft-int.com
+  - DOMAIN-SUFFIX,microsoft-ppe.com
+  - DOMAIN-SUFFIX,microsoft-sap-events.com
+  - DOMAIN-SUFFIX,microsoft-sbs-domains.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoft365.com
+  - DOMAIN-SUFFIX,microsoftaccountguard.com
+  - DOMAIN-SUFFIX,microsoftadc.com
+  - DOMAIN-SUFFIX,microsoftads.com
+  - DOMAIN-SUFFIX,microsoftadvertising.com
+  - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
+  - DOMAIN-SUFFIX,microsoftaffiliates.com
+  - DOMAIN-SUFFIX,microsoftcloud.com
+  - DOMAIN-SUFFIX,microsoftcloudsummit.com
+  - DOMAIN-SUFFIX,microsoftcloudworkshop.com
+  - DOMAIN-SUFFIX,microsoftcommunitytraining.com
+  - DOMAIN-SUFFIX,microsoftdiplomados.com
+  - DOMAIN-SUFFIX,microsofteca.com
+  - DOMAIN-SUFFIX,microsoftedge.com
+  - DOMAIN-SUFFIX,microsoftgamestack.com
+  - DOMAIN-SUFFIX,microsoftinternetsafety.net
+  - DOMAIN-SUFFIX,microsoftiotcentral.com
+  - DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
+  - DOMAIN-SUFFIX,microsoftlatamaitour.com
+  - DOMAIN-SUFFIX,microsoftlatamholiday.com
+  - DOMAIN-SUFFIX,microsoftlinc.com
+  - DOMAIN-SUFFIX,microsoftmxfilantropia.com
+  - DOMAIN-SUFFIX,microsoftonline-p.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,microsoftpartnercommunity.com
+  - DOMAIN-SUFFIX,microsoftpartnersolutions.com
+  - DOMAIN-SUFFIX,microsoftready.com
+  - DOMAIN-SUFFIX,microsoftsiteselection.com
+  - DOMAIN-SUFFIX,microsoftsqlserver.com
+  - DOMAIN-SUFFIX,microsoftstream.com
+  - DOMAIN-SUFFIX,microsoftteams.com
+  - DOMAIN-SUFFIX,microsofttradein.com
+  - DOMAIN-SUFFIX,microsofttranslator.com
+  - DOMAIN-SUFFIX,microsoftuwp.com
+  - DOMAIN-SUFFIX,minecraft.net
+  - DOMAIN-SUFFIX,minecraftshop.com
+  - DOMAIN-SUFFIX,mmdnn.com
+  - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN-SUFFIX,momentumms.com
+  - DOMAIN-SUFFIX,mono-project.com
+  - DOMAIN-SUFFIX,morphcharts.com
+  - DOMAIN-SUFFIX,mpnevolution.com
+  - DOMAIN-SUFFIX,ms-studiosmedia.com
+  - DOMAIN-SUFFIX,ms365surfaceoffer.com
+  - DOMAIN-SUFFIX,msads.net
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,mschallenge2018.com
+  - DOMAIN-SUFFIX,msdn.com
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,msft.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msgamesresearch.com
+  - DOMAIN-SUFFIX,msinnovationchallenge.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,msnkids.com
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,msocsp.com
+  - DOMAIN-SUFFIX,mspairlift.com
+  - DOMAIN-SUFFIX,msropendata.com
+  - DOMAIN-SUFFIX,msturing.org
+  - DOMAIN-SUFFIX,msudalosti.com
+  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+  - DOMAIN-SUFFIX,mymicrosoft.com
+  - DOMAIN-SUFFIX,nextechafrica.net
+  - DOMAIN-SUFFIX,nuget.org
+  - DOMAIN-SUFFIX,nugettest.org
+  - DOMAIN-SUFFIX,nxta.org
+  - DOMAIN-SUFFIX,o365weve-dev.com
+  - DOMAIN-SUFFIX,o365weve-ppe.com
+  - DOMAIN-SUFFIX,o365weve.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office365love.com
+  - DOMAIN-SUFFIX,office365tw.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,opentranslatorstothings.org
+  - DOMAIN-SUFFIX,opticsforthecloud.net
+  - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,orithegame.com
+  - DOMAIN-SUFFIX,outingsapp.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,passport.net
+  - DOMAIN-SUFFIX,pixapp.net
+  - DOMAIN-SUFFIX,poshtestgallery.com
+  - DOMAIN-SUFFIX,powerappscdn.net
+  - DOMAIN-SUFFIX,powerautomate.com
+  - DOMAIN-SUFFIX,powerbi.com
+  - DOMAIN-SUFFIX,powershellgallery.com
+  - DOMAIN-SUFFIX,projectmurphy.net
+  - DOMAIN-SUFFIX,projectsangam.com
+  - DOMAIN-SUFFIX,pwabuilder.com
+  - DOMAIN-SUFFIX,pxt.io
+  - DOMAIN-SUFFIX,renovacionoffice.com
+  - DOMAIN-SUFFIX,renovacionxboxlive.com
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,s-msn.com
+  - DOMAIN-SUFFIX,sankie.net
+  - DOMAIN-SUFFIX,serverlesslibrary.net
+  - DOMAIN-SUFFIX,sfbassets.com
+  - DOMAIN-SUFFIX,sfbassets.net
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,skypeassets.com
+  - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,sqlserveronlinux.com
+  - DOMAIN-SUFFIX,staffhub.ms
+  - DOMAIN-SUFFIX,successwithteams.com
+  - DOMAIN-SUFFIX,surface.com
+  - DOMAIN-SUFFIX,sway-cdn.com
+  - DOMAIN-SUFFIX,sway.com
+  - DOMAIN-SUFFIX,sysinternals.com
+  - DOMAIN-SUFFIX,tailwindtraders.com
+  - DOMAIN-SUFFIX,techhub.ms
+  - DOMAIN-SUFFIX,tellmewhygame.com
+  - DOMAIN-SUFFIX,tfsallin.net
+  - DOMAIN-SUFFIX,timelinestoryteller.com
+  - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,translatetheweb.com
+  - DOMAIN-SUFFIX,tryfunctions.com
+  - DOMAIN-SUFFIX,unlocklimitlesslearning.com
+  - DOMAIN-SUFFIX,userpxt.io
+  - DOMAIN-SUFFIX,uwpcommunitytoolkit.com
+  - DOMAIN-SUFFIX,videobreakdown.com
+  - DOMAIN-SUFFIX,videoindexer.ai
+  - DOMAIN-SUFFIX,virtualearth.net
+  - DOMAIN-SUFFIX,visualstudio-staging.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,vsallin.net
+  - DOMAIN-SUFFIX,vsassets.io
+  - DOMAIN-SUFFIX,wbd.ms
+  - DOMAIN-SUFFIX,what-fan.net
+  - DOMAIN-SUFFIX,windows-int.net
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windowsazure.com
+  - DOMAIN-SUFFIX,windowscommunity.net
+  - DOMAIN-SUFFIX,windowsmarketplace.com
+  - DOMAIN-SUFFIX,windowsphone-int.com
+  - DOMAIN-SUFFIX,windowsphone.com
+  - DOMAIN-SUFFIX,windowssearch.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,xamarin.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xboxgamepass.com
+  - DOMAIN-SUFFIX,xboxgamestudios.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxplayanywhere.com
+  - DOMAIN-SUFFIX,xboxstudios.com
+  - DOMAIN-SUFFIX,xbx.lv
+  - DOMAIN-SUFFIX,yammer.com
 #  与 Duckduckgo 共 25 条规则重复
   - DOMAIN-SUFFIX,cispaletter.com
   - DOMAIN-SUFFIX,cispaletter.org
@@ -32275,15 +32523,6 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
-#  与 BBC 共 8 条规则重复
-  - DOMAIN-KEYWORD,uk-live
-  - DOMAIN-SUFFIX,bbc.co
-  - DOMAIN-SUFFIX,bbc.co.uk
-  - DOMAIN-SUFFIX,bbc.com
-  - DOMAIN-SUFFIX,bbc.in
-  - DOMAIN-SUFFIX,bbcchinese.com
-  - DOMAIN-SUFFIX,bbci.co
-  - DOMAIN-SUFFIX,bbci.co.uk
 #  与 AmazonPrimeVideo 共 12 条规则重复
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,amazonprimevideos.com
@@ -32800,15 +33039,17 @@ payload:
   - DOMAIN-SUFFIX,vpro.net
   - DOMAIN-SUFFIX,xeon.com
   - DOMAIN-SUFFIX,xscale.com
-#  与 OneDrive 共 8 条规则重复
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
+#  与 BBC 共 10 条规则重复
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN-KEYWORD,uk-live
+  - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbcchinese.com
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcverticals.com
 #  与 Dailymail 共 8 条规则重复
   - DOMAIN-SUFFIX,dailym.ai
   - DOMAIN-SUFFIX,dailymail.co.uk
@@ -32818,13 +33059,15 @@ payload:
   - DOMAIN-SUFFIX,mailonline.com
   - DOMAIN-SUFFIX,mol.im
   - DOMAIN-SUFFIX,thismon.ee
-#  与 HBOHK 共 6 条规则重复
-  - DOMAIN-SUFFIX,hboasia.com
-  - DOMAIN-SUFFIX,hbogo.com
-  - DOMAIN-SUFFIX,hbogoasia.com
-  - DOMAIN-SUFFIX,now-ashare.com
-  - DOMAIN-SUFFIX,now-tv.com
-  - DOMAIN-SUFFIX,nowe.com
+#  与 OneDrive 共 8 条规则重复
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
 #  与 Apple 共 42 条规则重复
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-dns.net
@@ -32880,13 +33123,20 @@ payload:
   - DOMAIN-SUFFIX,ebayprivacycenter.com
   - DOMAIN-SUFFIX,ebayrtm.com
   - DOMAIN-SUFFIX,ebaystatic.com
-#  与 TVB 共 6 条规则重复
-  - DOMAIN-SUFFIX,bigbigshop.com
-  - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-SUFFIX,tvbanywhere.com
-  - DOMAIN-SUFFIX,tvbusa.com
-  - DOMAIN-SUFFIX,tvbweekly.com
+#  与 HBOHK 共 6 条规则重复
+  - DOMAIN-SUFFIX,hboasia.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,now-ashare.com
+  - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,nowe.com
+#  与 Garena 共 6 条规则重复
+  - DOMAIN-SUFFIX,garena.co.id
+  - DOMAIN-SUFFIX,garena.com
+  - DOMAIN-SUFFIX,garena.live
+  - DOMAIN-SUFFIX,garena.tv
+  - DOMAIN-SUFFIX,garenanow.com
+  - DOMAIN-SUFFIX,seagroup.com
 #  与 HBO 共 12 条规则重复
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,forthethrone.com
@@ -32900,13 +33150,78 @@ payload:
   - DOMAIN-SUFFIX,now-ashare.com
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,nowe.com
-#  与 Garena 共 6 条规则重复
-  - DOMAIN-SUFFIX,garena.co.id
-  - DOMAIN-SUFFIX,garena.com
-  - DOMAIN-SUFFIX,garena.live
-  - DOMAIN-SUFFIX,garena.tv
-  - DOMAIN-SUFFIX,garenanow.com
-  - DOMAIN-SUFFIX,seagroup.com
+#  与 Verizon 共 71 条规则重复
+  - DOMAIN-SUFFIX,aol.co.uk
+  - DOMAIN-SUFFIX,aol.com
+  - DOMAIN-SUFFIX,aolcdn.com
+  - DOMAIN-SUFFIX,engadget.com
+  - DOMAIN-SUFFIX,engagedaily.org
+  - DOMAIN-SUFFIX,flickr.com
+  - DOMAIN-SUFFIX,flickr.net
+  - DOMAIN-SUFFIX,flurry.com
+  - DOMAIN-SUFFIX,huffingtonpost.com
+  - DOMAIN-SUFFIX,huffpost.com
+  - DOMAIN-SUFFIX,oath.cloud
+  - DOMAIN-SUFFIX,oath.com
+  - DOMAIN-SUFFIX,ouroath.com
+  - DOMAIN-SUFFIX,static-verizon.com
+  - DOMAIN-SUFFIX,staticflickr.com
+  - DOMAIN-SUFFIX,techcrunch.com
+  - DOMAIN-SUFFIX,uplynk.com
+  - DOMAIN-SUFFIX,verizon.com
+  - DOMAIN-SUFFIX,verizon.net
+  - DOMAIN-SUFFIX,verizonbusinessfios.com
+  - DOMAIN-SUFFIX,verizondigitalmedia.com
+  - DOMAIN-SUFFIX,verizonenterprise.com
+  - DOMAIN-SUFFIX,verizonfios.com
+  - DOMAIN-SUFFIX,verizonmedia.com
+  - DOMAIN-SUFFIX,verizonwireless.com
+  - DOMAIN-SUFFIX,vzw.com
+  - DOMAIN-SUFFIX,xo.com
+  - DOMAIN-SUFFIX,yahoo.as
+  - DOMAIN-SUFFIX,yahoo.be
+  - DOMAIN-SUFFIX,yahoo.bt
+  - DOMAIN-SUFFIX,yahoo.cat
+  - DOMAIN-SUFFIX,yahoo.ch
+  - DOMAIN-SUFFIX,yahoo.cn
+  - DOMAIN-SUFFIX,yahoo.co.ck
+  - DOMAIN-SUFFIX,yahoo.co.id
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,yahoo.com.ai
+  - DOMAIN-SUFFIX,yahoo.com.bd
+  - DOMAIN-SUFFIX,yahoo.com.co
+  - DOMAIN-SUFFIX,yahoo.com.do
+  - DOMAIN-SUFFIX,yahoo.com.hk
+  - DOMAIN-SUFFIX,yahoo.com.pk
+  - DOMAIN-SUFFIX,yahoo.com.pr
+  - DOMAIN-SUFFIX,yahoo.com.py
+  - DOMAIN-SUFFIX,yahoo.com.sb
+  - DOMAIN-SUFFIX,yahoo.com.tw
+  - DOMAIN-SUFFIX,yahoo.dj
+  - DOMAIN-SUFFIX,yahoo.dm
+  - DOMAIN-SUFFIX,yahoo.ee
+  - DOMAIN-SUFFIX,yahoo.fm
+  - DOMAIN-SUFFIX,yahoo.gg
+  - DOMAIN-SUFFIX,yahoo.gp
+  - DOMAIN-SUFFIX,yahoo.hr
+  - DOMAIN-SUFFIX,yahoo.im
+  - DOMAIN-SUFFIX,yahoo.is
+  - DOMAIN-SUFFIX,yahoo.it
+  - DOMAIN-SUFFIX,yahoo.la
+  - DOMAIN-SUFFIX,yahoo.lv
+  - DOMAIN-SUFFIX,yahoo.me
+  - DOMAIN-SUFFIX,yahoo.net
+  - DOMAIN-SUFFIX,yahoo.ps
+  - DOMAIN-SUFFIX,yahoo.pt
+  - DOMAIN-SUFFIX,yahoo.sh
+  - DOMAIN-SUFFIX,yahoo.sm
+  - DOMAIN-SUFFIX,yahoo.so
+  - DOMAIN-SUFFIX,yahoo.tg
+  - DOMAIN-SUFFIX,yahoo.ws
+  - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yahoodns.net
+  - DOMAIN-SUFFIX,yimg.com
 #  与 Globalsign 共 5 条规则重复
   - DOMAIN-SUFFIX,globalsign-media.com
   - DOMAIN-SUFFIX,globalsign.be
@@ -32977,6 +33292,14 @@ payload:
   - DOMAIN-SUFFIX,wheelpop.com
   - DOMAIN-SUFFIX,wwtbam.com
   - DOMAIN-SUFFIX,yourfantasybeginsnow.com
+#  与 TVB 共 7 条规则重复
+  - DOMAIN-SUFFIX,bigbigshop.com
+  - DOMAIN-SUFFIX,encoretvb.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-SUFFIX,tvbanywhere.com
+  - DOMAIN-SUFFIX,tvbusa.com
+  - DOMAIN-SUFFIX,tvbweekly.com
 #  与 Verisign 共 12 条规则重复
   - DOMAIN-SUFFIX,verisign.asia
   - DOMAIN-SUFFIX,verisign.biz
@@ -32990,69 +33313,13 @@ payload:
   - DOMAIN-SUFFIX,verisign.org
   - DOMAIN-SUFFIX,verisign.pro
   - DOMAIN-SUFFIX,verisigninc.com
-#  与 Verizon 共 62 条规则重复
-  - DOMAIN-SUFFIX,aol.co.uk
-  - DOMAIN-SUFFIX,aol.com
-  - DOMAIN-SUFFIX,aolcdn.com
-  - DOMAIN-SUFFIX,engadget.com
-  - DOMAIN-SUFFIX,engagedaily.org
-  - DOMAIN-SUFFIX,flickr.com
-  - DOMAIN-SUFFIX,flickr.net
-  - DOMAIN-SUFFIX,flurry.com
-  - DOMAIN-SUFFIX,huffingtonpost.com
-  - DOMAIN-SUFFIX,huffpost.com
-  - DOMAIN-SUFFIX,oath.com
-  - DOMAIN-SUFFIX,staticflickr.com
-  - DOMAIN-SUFFIX,techcrunch.com
-  - DOMAIN-SUFFIX,verizon.com
-  - DOMAIN-SUFFIX,verizon.net
-  - DOMAIN-SUFFIX,verizonmedia.com
-  - DOMAIN-SUFFIX,verizonwireless.com
-  - DOMAIN-SUFFIX,vzw.com
-  - DOMAIN-SUFFIX,yahoo.as
-  - DOMAIN-SUFFIX,yahoo.be
-  - DOMAIN-SUFFIX,yahoo.bt
-  - DOMAIN-SUFFIX,yahoo.cat
-  - DOMAIN-SUFFIX,yahoo.ch
-  - DOMAIN-SUFFIX,yahoo.cn
-  - DOMAIN-SUFFIX,yahoo.co.ck
-  - DOMAIN-SUFFIX,yahoo.co.id
-  - DOMAIN-SUFFIX,yahoo.co.jp
-  - DOMAIN-SUFFIX,yahoo.com
-  - DOMAIN-SUFFIX,yahoo.com.ai
-  - DOMAIN-SUFFIX,yahoo.com.bd
-  - DOMAIN-SUFFIX,yahoo.com.co
-  - DOMAIN-SUFFIX,yahoo.com.do
-  - DOMAIN-SUFFIX,yahoo.com.hk
-  - DOMAIN-SUFFIX,yahoo.com.pk
-  - DOMAIN-SUFFIX,yahoo.com.pr
-  - DOMAIN-SUFFIX,yahoo.com.py
-  - DOMAIN-SUFFIX,yahoo.com.sb
-  - DOMAIN-SUFFIX,yahoo.com.tw
-  - DOMAIN-SUFFIX,yahoo.dj
-  - DOMAIN-SUFFIX,yahoo.dm
-  - DOMAIN-SUFFIX,yahoo.ee
-  - DOMAIN-SUFFIX,yahoo.fm
-  - DOMAIN-SUFFIX,yahoo.gg
-  - DOMAIN-SUFFIX,yahoo.gp
-  - DOMAIN-SUFFIX,yahoo.hr
-  - DOMAIN-SUFFIX,yahoo.im
-  - DOMAIN-SUFFIX,yahoo.is
-  - DOMAIN-SUFFIX,yahoo.it
-  - DOMAIN-SUFFIX,yahoo.la
-  - DOMAIN-SUFFIX,yahoo.lv
-  - DOMAIN-SUFFIX,yahoo.me
-  - DOMAIN-SUFFIX,yahoo.net
-  - DOMAIN-SUFFIX,yahoo.ps
-  - DOMAIN-SUFFIX,yahoo.pt
-  - DOMAIN-SUFFIX,yahoo.sh
-  - DOMAIN-SUFFIX,yahoo.sm
-  - DOMAIN-SUFFIX,yahoo.so
-  - DOMAIN-SUFFIX,yahoo.tg
-  - DOMAIN-SUFFIX,yahoo.ws
-  - DOMAIN-SUFFIX,yahooapis.com
-  - DOMAIN-SUFFIX,yahoodns.net
-  - DOMAIN-SUFFIX,yimg.com
+#  与 DAZN 共 6 条规则重复
+  - DOMAIN-SUFFIX,dazn-api.com
+  - DOMAIN-SUFFIX,dazn.com
+  - DOMAIN-SUFFIX,dazndn.com
+  - DOMAIN-SUFFIX,indazn.com
+  - DOMAIN-SUFFIX,indaznlab.com
+  - DOMAIN-SUFFIX,intercom.io
 #  与 Huffpost 共 6 条规则重复
   - DOMAIN-SUFFIX,huffingtonpost.com
   - DOMAIN-SUFFIX,huffingtonpost.it
@@ -33182,12 +33449,16 @@ payload:
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,wdc.com
   - DOMAIN-SUFFIX,westerndigital.com
-#  与 DAZN 共 5 条规则重复
-  - DOMAIN-SUFFIX,dazn-api.com
-  - DOMAIN-SUFFIX,dazn.com
-  - DOMAIN-SUFFIX,dazndn.com
-  - DOMAIN-SUFFIX,indazn.com
-  - DOMAIN-SUFFIX,intercom.io
+#  与 Starbucks 共 9 条规则重复
+  - DOMAIN-SUFFIX,sbuxcard.com
+  - DOMAIN-SUFFIX,starbucks-stars.com
+  - DOMAIN-SUFFIX,starbucks.be
+  - DOMAIN-SUFFIX,starbucks.ch
+  - DOMAIN-SUFFIX,starbucks.co.id
+  - DOMAIN-SUFFIX,starbucks.com
+  - DOMAIN-SUFFIX,starbucks.com.co
+  - DOMAIN-SUFFIX,starbucksathome.com
+  - DOMAIN-SUFFIX,starbucksreserve.com
 #  与 McDonalds 共 7 条规则重复
   - DOMAIN-SUFFIX,aboutmcdonalds.com
   - DOMAIN-SUFFIX,mcd.com

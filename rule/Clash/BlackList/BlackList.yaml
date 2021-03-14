@@ -1,17 +1,15 @@
 # NAME: BlackList
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 02:44:39.948794
-# DOMAIN-SUFFIX: 695
-# DOMAIN: 5
+# UPDATED: 2021-03-14 01:54:26.983575
+# DOMAIN-SUFFIX: 696
+# DOMAIN: 3
 # DOMAIN-KEYWORD: 12
 # IP-CIDR: 57
 # PROCESS-NAME: 1
-# TOTAL: 770
+# TOTAL: 769
 payload:
   - DOMAIN,api-glb-sea.smoot.apple.com
-  - DOMAIN,books.itunes.apple.com
-  - DOMAIN,hls.itunes.apple.com
   - DOMAIN,lookup-api.apple.com
   - DOMAIN,testflight.apple.com
   - DOMAIN-SUFFIX,1e100.net
@@ -148,6 +146,7 @@ payload:
   - DOMAIN-SUFFIX,costco.com
   - DOMAIN-SUFFIX,crackle.com
   - DOMAIN-SUFFIX,creativelab5.com
+  - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,culturalspot.org
   - DOMAIN-SUFFIX,culturedcode.com

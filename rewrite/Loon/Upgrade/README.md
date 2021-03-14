@@ -4,18 +4,19 @@
 
 本项目的更新检查复写规则由爬虫程序自动维护。
 
-定时爬取互联网上开源的更新检查复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
+定时爬取互联网上开源的更新检查复写规则，将其进行清洗、去重、合并、转换，以解决引用大量外部复写造成重复问题，或对上游仓库复写进行备份。
+
+通过复写屏蔽部分APP的更新检查，已包含在Advertising中，不要重复添加。
 
 
-
-最后检查时间：2021-03-05 02:45:46。
+最后检查时间：2021-03-14 01:55:43。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 6 |
-| reject | 6 |
+| mitm | 7 |
+| reject | 7 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -26,13 +27,18 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin
+
 
 稳定版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Upgrade/Upgrade.plugin
 
+
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
+
 
 ## 数据来源
 

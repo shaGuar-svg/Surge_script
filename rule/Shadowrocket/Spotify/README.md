@@ -6,20 +6,18 @@
 
 定时爬取互联网上开源的Spotify分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-
-
-最后检查时间：2021-03-05 02:45:31.754276。
+最后检查时间：2021-03-14 01:55:34.847492。
 
 ## 规则统计
 
-总计规则：19 条。
+总计规则：21 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 2 |
-| DOMAIN-SUFFIX | 14 |
+| DOMAIN-SUFFIX | 16 |
 | DOMAIN-KEYWORD | 2 |
 | IP-CIDR | 1 |
 ## 配置说明
@@ -41,7 +39,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 
 当前分流规则，未包含其他子规则。
-
 
 
 Spotify分流规则，与本项目其他分流规则没有重复。

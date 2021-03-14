@@ -1,8 +1,25 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 02:44:43.841690
+# UPDATED: 2021-03-14 01:54:32.105078
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+#  与 HuluJP 共 5 条规则重复
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,yb.uncn.jp
+#  与 Japonx 共 10 条规则重复
+DOMAIN-KEYWORD,japonx
+DOMAIN-KEYWORD,japronx
+DOMAIN-SUFFIX,japonx.com
+DOMAIN-SUFFIX,japonx.net
+DOMAIN-SUFFIX,japonx.tv
+DOMAIN-SUFFIX,japonx.vip
+DOMAIN-SUFFIX,japronx.com
+DOMAIN-SUFFIX,japronx.net
+DOMAIN-SUFFIX,japronx.tv
+DOMAIN-SUFFIX,japronx.vip
 #  与 Netflix 共 42 条规则重复
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
@@ -46,23 +63,6 @@ IP-CIDR,66.197.128.0/17
 IP-CIDR,69.53.224.0/19
 IP-CIDR,8.41.4.0/24
 USER-AGENT,Argo*
-#  与 Japonx 共 10 条规则重复
-DOMAIN-KEYWORD,japonx
-DOMAIN-KEYWORD,japronx
-DOMAIN-SUFFIX,japonx.com
-DOMAIN-SUFFIX,japonx.net
-DOMAIN-SUFFIX,japonx.tv
-DOMAIN-SUFFIX,japonx.vip
-DOMAIN-SUFFIX,japronx.com
-DOMAIN-SUFFIX,japronx.net
-DOMAIN-SUFFIX,japronx.tv
-DOMAIN-SUFFIX,japronx.vip
-#  与 HuluJP 共 5 条规则重复
-DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,hjholdings.jp
-DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,yb.uncn.jp
 #  与 KKBOX 共 5 条规则重复
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kkbox.com
@@ -89,6 +89,12 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
+#  与 Niconico 共 5 条规则重复
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,socdm.com
+USER-AGENT,Niconico*
 #  与 Spotify 共 10 条规则重复
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com
@@ -100,12 +106,6 @@ DOMAIN-SUFFIX,spotifycdn.net
 IP-CIDR,35.186.224.47/32
 USER-AGENT,*Spotify*
 USER-AGENT,Spotify*
-#  与 Niconico 共 5 条规则重复
-DOMAIN-SUFFIX,dmc.nico
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,socdm.com
-USER-AGENT,Niconico*
 #  与 DAZN 共 9 条规则重复
 DOMAIN-KEYWORD,voddazn
 DOMAIN-SUFFIX,dazn-api.com
@@ -116,15 +116,6 @@ DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,sentry.io
 USER-AGENT,DAZN*
-#  与 BBC 共 8 条规则重复
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,uk-live
-DOMAIN-SUFFIX,bbc.co
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbci.co
-DOMAIN-SUFFIX,bbci.co.uk
-USER-AGENT,BBCiPlayer*
 #  与 HBO 共 12 条规则重复
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,hbo.com
@@ -138,6 +129,15 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
+#  与 BBC 共 8 条规则重复
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co
+DOMAIN-SUFFIX,bbci.co.uk
+USER-AGENT,BBCiPlayer*
 #  与 HBOHK 共 5 条规则重复
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com
@@ -154,6 +154,14 @@ DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primevideo.com
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
+#  与 TVB 共 7 条规则重复
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,edge.api.brightcove.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+USER-AGENT,encoreTVB*
+USER-AGENT,mytv*
 #  与 AbemaTV 共 5 条规则重复
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -173,3 +181,10 @@ DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,yb.uncn.jp
+#  与 CBS 共 6 条规则重复
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+USER-AGENT,PPlus*
